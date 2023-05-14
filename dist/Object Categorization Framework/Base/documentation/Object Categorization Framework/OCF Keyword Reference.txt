@@ -1,0 +1,1267 @@
+; Object Categorization Framework - OCF Keyword Reference
+
+====================================================================================================
+ (ITEM) AMMUNITION
+====================================================================================================
+; "These keywords are applied to Ammunition [AMMO] forms."
+
+========================= ELEMENT =========================
+; "Magic element."
+MagicDamageFire [0x1CEAD~Skyrim.esm]
+MagicDamageFrost [0x1CEAE~Skyrim.esm]
+MAG_MagicDamagePoison [0xADA001~Update.esm]
+MagicDamageShock [0x1CEAF~Skyrim.esm]
+MAG_MagicDamageSun [0xADA002~Update.esm]
+
+
+
+========================= GENERAL =========================
+; "If item is bound/conjured."
+MAG_WeapTypeBound [0xADA117~Update.esm]
+
+; "If item is throwable."
+OCF_WeapThrowable [0xCD10CF~Update.esm]
+
+
+
+========================= MATERIAL =========================
+; "Item material."
+;DLC1LD_CraftingMaterialAetherium [0xE299~Dawnguard.esm] (UNUSED)
+
+
+
+========================= TYPE =========================
+; "Item type."
+OCF_AmmoTypeArrow [0xCD1009~Update.esm]
+   OCF_AmmoTypeArrow_Basic [0xCD100A~Update.esm]
+   OCF_AmmoTypeGreatarrow [0xCD1013~Update.esm]
+   OCF_AmmoTypeJavelin [0xCD1014~Update.esm]
+OCF_AmmoTypeBolt [0xCD100B~Update.esm]
+OCF_AmmoTypeBullet [0xCD100C~Update.esm]
+   OCF_AmmoTypeBullet1H [0xCD100D~Update.esm]
+   OCF_AmmoTypeBullet2H [0xCD100E~Update.esm]
+      OCF_AmmoTypeBullet2H_Basic [0xCD100F~Update.esm]
+      OCF_AmmoTypeBullet2H_Launcher [0xCD1010~Update.esm]
+      OCF_AmmoTypeBullet2H_Shotgun [0xCD1011~Update.esm]
+OCF_AmmoTypeDart [0xCD1012~Update.esm]
+OCF_AmmoTypeSlingshot [0xCD1015~Update.esm]
+OCF_WeapTypeMelee [0xCD1100~Update.esm]
+   WeapTypeDagger [0x1E713~Skyrim.esm]
+   WeapTypeWarAxe [0x1E712~Skyrim.esm]
+      OCF_WeapTypeHatchet1H [0xCD10F6~Update.esm]
+   OCF_WeapTypePole1H [0xCD1103~Update.esm]
+      OCF_WeapTypeJavelin1H [0x777771~Update.esm]
+WeapTypeBow [0x1E715~Skyrim.esm]
+   WAF_WeapTypeGrenade [0xAF0237~Update.esm]
+
+
+
+====================================================================================================
+ (ITEM) ARMOR
+====================================================================================================
+; "These keywords are applied to Armor [ARMO] forms."
+
+========================= GENERAL =========================
+; "If armor is for children."
+BYOHAdoptionClothesKeyword [0xD823~HearthFires.esm]
+
+; "If item is bandages."
+WAF_ClothingMedicalHealing [0xAF0123~Update.esm]
+
+; "If armor is a body part or prosthetic."
+OCF_ArmorBodyPart [0xCD1022~Update.esm]
+
+; "If item is bound/conjured."
+MAG_WeapTypeBound [0xADA117~Update.esm]
+
+; "If armor should be kept equipped when most other clothing is removed."
+WearWhenStripped [0xAF0502~Update.esm]
+
+; "If armor covers the main body, but very skimpily."
+OCF_ArmorMainSkimpy [?]
+
+
+
+========================= MATERIAL/APPEARENCE =========================
+; "Item material."
+;DLC1LD_CraftingMaterialAetherium [0xE299~Dawnguard.esm] (UNUSED)
+
+; "Uniforms."
+CWMission03ImperialGarb [0x107604~Skyrim.esm]
+CWMission03StormcloakGarb [0x107603~Skyrim.esm]
+;MQ201ThalmorDisguise [0x0006B3AF~Skyrim.esm] (UNUSED)
+
+
+
+========================= TYPE =========================
+; "Item type."
+OCF_ArmorTypeHead [0xCD102C~Update.esm]
+   OCF_ArmorTypeHead_Main [0xCD102E~Update.esm]
+      ArmorHelmet [0x6C0EE~Skyrim.esm]
+         OCF_ArmorHelmet_Heavy [0xCD1123~Update.esm]
+         OCF_ArmorHelmet_Light [0xCD1124~Update.esm]
+      ClothingHead [0x10CD11~Skyrim.esm]
+   OCF_ArmorTypeHead_Alt [0xCD102D~Update.esm]
+      ClothingCirclet [0x10CD08~Skyrim.esm]
+      ClothingCrown [0x10AB46~Update.esm]
+      ClothingEarCuffs [0xEC4C8~Update.esm]
+      ClothingEarrings [0xDE3FD2~Update.esm]
+OCF_ArmorTypeBody [0xCD1023~Update.esm]
+   OCF_ArmorTypeBody_Main [0xCD1025~Update.esm]
+      ArmorCuirass [0x6C0EC~Skyrim.esm]
+         OCF_ArmorCuirass_Heavy [0xCD1125~Update.esm]
+         OCF_ArmorCuirass_Light [0xCD1126~Update.esm]
+      ClothingBody [0xA8657~Skyrim.esm]
+   OCF_ArmorTypeBody_Alt [0xCD1024~Update.esm]
+      ClothingChoker [0xDD103~Update.esm]
+      ClothingHighNecklace [0xFB81E~Update.esm]
+      ClothingNecklace [0x10CD0A~Skyrim.esm]
+      OCF_BodyTypeTorc [0xCD113A~Update.esm]
+         ArmorTorc [0xDE33A9~Update.esm]
+         JewelryTorc [0xDE3399~Update.esm]
+OCF_ArmorTypeHands [0xCD1029~Update.esm]
+   OCF_ArmorTypeHands_Main [0xCD102B~Update.esm]
+      ArmorGauntlets [0x6C0EF~Skyrim.esm]
+         OCF_ArmorGauntlets_Heavy [0xCD1127~Update.esm]
+         OCF_ArmorGauntlets_Light [0xCD1128~Update.esm]
+      ClothingHands [0x10CD13~Skyrim.esm]
+   OCF_ArmorTypeHands_Alt [0xCD102A~Update.esm]
+      ClothingBracelet [0xE814F1~Update.esm]
+      ClothingRing [0x10CD09~Skyrim.esm]
+OCF_ArmorTypeFeet [0xCD1026~Update.esm]
+   OCF_ArmorTypeFeet_Main [0xCD1028~Update.esm]
+      ArmorBoots [0x6C0ED~Skyrim.esm]
+         OCF_ArmorBoots_Heavy [0xCD1129~Update.esm]
+         OCF_ArmorBoots_Light [0xCD112A~Update.esm]
+      ClothingFeet [0x10CD12~Skyrim.esm]
+   OCF_ArmorTypeFeet_Alt [0xCD1027~Update.esm]
+OCF_ArmorTypeOther [0xCD102F~Update.esm]
+   ArmorShield [0x965B2~Skyrim.esm]
+      OCF_ArmorShield_Heavy [0xCD112B~Update.esm]
+      OCF_ArmorShield_Light [0xCD112C~Update.esm]
+   WAF_ClothingPouch [0xAF0129~Update.esm]
+      OCF_BagTypeBackpack [0xCD103B~Update.esm]
+      OCF_BagTypeBandolier [0xCD103C~Update.esm]
+      OCF_BagTypeBelt [0xCD103D~Update.esm]
+   WAF_ClothingAccessories [0xEC4C8~Update.esm]
+      OCF_ToolExtractor [?]
+      OCF_AccessoryBelt [?]
+      OCF_AccessoryBeltBook [?]
+      OCF_AccessoryEffect [0xCD1001~Update.esm]
+      OCF_MiscInstrument [0xCD10B9~Update.esm]
+      OCF_ToolLantern [0xCD10BC~Update.esm]
+         OCF_MiscBugJar [?]
+         OCF_ToolLantern_Paper [?]
+      OCF_AccessoryMagic [0xCD1002~Update.esm]
+      OCF_AccessoryShield [?]
+      OCF_AccessoryTattoo [?]
+      OCF_VesselWaterskin [0xCD1139~Update.esm]
+      OCF_ArmorWintersun [0xCD1000~Update.esm]
+   ClothingStrapOn [0xAF0502~Update.esm]
+OCF_MiscHorseGear [0xCD108B~Update.esm]
+OCF_Placeholder_BuildingPart [0xCD1084~Update.esm]
+;OCF_Placeholder [?]
+
+; "Item subtype."
+OCF_ArmorTypeHead [0xCD102C~Update.esm]
+   OCF_HeadTypeBandage [0xCD106D~Update.esm]
+   OCF_HeadTypeBandana [0xCD106E~Update.esm]
+   OCF_HeadTypeBarrette [?]
+   OCF_HeadTypeBlindfold [0xCD106F~Update.esm]
+   OCF_HeadTypeEarsReal [0xCD1070~Update.esm]
+   OCF_HeadTypeEyePatch [0xCD1071~Update.esm]
+   OCF_HeadTypeGag [0xCD1072~Update.esm]
+   OCF_HeadTypeGlasses [0xCD1073~Update.esm]
+   OCF_HeadTypeGoggles [0xCD1074~Update.esm]
+   OCF_HeadTypeHalo [?]
+   OCF_HeadTypeHat [0xCD1075~Update.esm]
+   OCF_HeadTypeHood [0xCD1076~Update.esm]
+   OCF_HeadTypeHorns [0xCD1077~Update.esm]
+   OCF_HeadTypeMask [0xCD1078~Update.esm]
+      OCF_HeadTypeMaskEyes [?]
+      OCF_HeadTypeMaskFull [?]
+      OCF_HeadTypeMaskHood [0xCD1079~Update.esm]
+      OCF_HeadTypeMaskMouth [?]
+   OCF_HeadTypeWig [0xCD107A~Update.esm]
+OCF_ArmorTypeBody [0xCD1023~Update.esm]
+   OCF_BodyTypeBottom [0xCD103E~Update.esm]
+      OCF_BodyTypePants [0xCD103F~Update.esm]
+      OCF_BodyTypeSkirt [0xCD1040~Update.esm]
+   OCF_BodyTypeNeck [0xCD1041~Update.esm]
+      WAF_ClothingCloak [0xAF0128~Update.esm]
+      OCF_BodyTypeScarf [0xCD1042~Update.esm]
+   OCF_BodyTypeShoulder [0xCD1043~Update.esm]
+      OCF_BodyTypePauldron [0xCD1044~Update.esm]
+   OCF_BodyTypeTail [0xCD1045~Update.esm]
+      OCF_BodyTypeTailArmor [0xCD1046~Update.esm]
+      OCF_BodyTypeTailReal [0xCD1047~Update.esm]
+   OCF_BodyTypeTasset [?]
+   OCF_BodyTypeTorso [0xCD1048~Update.esm]
+   OCF_BodyTypeUnderwear [0xCD1049~Update.esm]
+      OCF_BodyTypeUnderwear_Top [0xCD104F~Update.esm]
+         ClothingBra [0xAF0500~Update.esm]
+      OCF_BodyTypeUnderwear_Bottom [0xCD104A~Update.esm]
+         ClothingPanties [0xAF0501~Update.esm]
+         OCF_BodyTypeUnderwear_BottomM [0xCD104B~Update.esm]
+      OCF_BodyTypeUnderwear_Full [0xCD104C~Update.esm]
+         OCF_BodyTypeUnderwear_FullF [0xCD104D~Update.esm]
+         OCF_BodyTypeUnderwear_FullM [0xCD104E~Update.esm]
+   OCF_BodyTypeWings [0xCD1050~Update.esm]
+      OCF_BodyTypeWingsJewelry [0xCD1051~Update.esm]
+      OCF_BodyTypeWingsReal [0xCD1052~Update.esm]
+OCF_ArmorTypeHands [0xCD1029~Update.esm]
+   OCF_HandTypeArmlet [?]
+   OCF_HandTypeClaws [0xCD1069~Update.esm]
+   WAF_SpikedGauntletGloves [0xAF0226~Update.esm]
+   WAF_FingerlessGauntletsBracers [0xAF0122~Update.esm]
+      OCF_HandTypeBandage [0xCD1067~Update.esm]
+      OCF_HandTypeHandless [0xCD106B~Update.esm]
+         OCF_HandTypeBracer [0xCD1068~Update.esm]
+         OCF_HandTypeCuffs [0xCD106A~Update.esm]
+   OCF_HandTypeNails [0xCD106C~Update.esm]
+OCF_ArmorTypeFeet [0xCD1026~Update.esm]
+   OCF_FeetTypeGreaves [?]
+   OCF_FeetTypeHeels [0xCD105D~Update.esm]
+   OCF_FeetTypeNails [0xCD105E~Update.esm]
+   OCF_FeetTypeSabatons [0xCD105F~Update.esm]
+   OCF_FeetTypeShoes [0xCD1060~Update.esm]
+   OCF_FeetTypeStockings [0xCD1061~Update.esm]
+OCF_ArmorTypeOther [0xCD102F~Update.esm]
+   ArmorShield [0x965B2~Skyrim.esm]
+      OCF_ShieldTypeBuckler [0xCD10A8~Update.esm]
+      OCF_ShieldTypeKite [0xCD10A9~Update.esm]
+      OCF_ShieldTypeTower [0xCD10AA~Update.esm]
+      VendorItemTool [0x914EE~Skyrim.esm]
+         OCF_ToolCompass [0xCD10B7~Update.esm]
+         OCF_BookTextMap [0xCD10BE~Update.esm]
+         OCF_ToolSpyglass [0xCD10C1~Update.esm]
+         OCF_ToolWalkingStick [0xCD10C2~Update.esm]
+
+
+
+====================================================================================================
+ (ITEM) BOOKS
+====================================================================================================
+; "These keywords are applied to Book [BOOK] forms."
+
+========================= GENERAL =========================
+; "Book binding."
+OCF_BookBindingBook [0xCD1088~Update.esm]
+OCF_BookBindingJournal [?]
+OCF_BookBindingNote [0xCD1053~Update.esm]
+OCF_BookBindingScroll [?]
+
+
+
+========================= TYPE =========================
+; "Book main type."
+OCF_Artifact [?]
+   OCF_ArtifactAedric [0xCD1037~Update.esm]
+      OCF_ArtifactAedric_ElderScroll [0xCD1038~Update.esm]
+   OCF_ArtifactDaedric [0xCD1030~Update.esm]
+      OCF_ArtifactDaedric_BlackBook [0xCD1033~Update.esm]
+      OCF_ArtifactDaedric_OghmaInfinium [0xCD1035~Update.esm]
+OCF_BookTextDocument [0xCD10B1~Update.esm]
+OCF_BookTextJournal [0xCD10B2~Update.esm]
+OCF_BookTextManual [0xCD10B3~Update.esm]
+OCF_BookTextMap [0xCD10BE~Update.esm]
+OCF_BookTextMissive [0xCD10B4~Update.esm]
+VendorItemRecipe [0xF5CB0~Skyrim.esm]
+   OCF_BookTextRecipe_Alchemy [?]
+   OCF_BookTextRecipe_Cooking [?]
+   OCF_BookTextRecipe_Crafting [?]
+   OCF_BookTextRecipe_Daedric [?]
+   OCF_BookTextRecipe_Spider [?]
+OCF_Relic [0xCD10CD~Update.esm]
+   OCF_RelicDaedric [0xCD109C~Update.esm]
+      OCF_RelicDaedric_EldritchPage [0xA02~OCF.esp]
+      OCF_RelicDaedric_EldritchTome [0xA03~OCF.esp]
+OCF_BookTextSkill [0xCD10B5~Update.esm]
+VendorItemSpellTome [0x937A5~Skyrim.esm]
+   MagicSchoolAlteration [0x1076F1~Skyrim.esm]
+   MagicSchoolConjuration [0x1076F4~Skyrim.esm]
+   MagicSchoolDestruction [0x1076F0~Skyrim.esm]
+   MagicSchoolIllusion [0x1076F2~Skyrim.esm]
+   MagicSchoolRestoration [0x1076F3~Skyrim.esm]
+
+
+
+====================================================================================================
+ (ITEM) INGESTIBLES
+====================================================================================================
+; "These keywords are applied to Ingestible/Potion [ALCH] forms."
+
+========================= GENERAL =========================
+; "How food is prepared."
+VendorItemFoodPrepared [0xCD10CC~Update.esm]
+	VendorItemFoodCooked [0xAF1001~Update.esm]
+		;FrostfallWarmFoodDrinkKeyword [0xCC0E08~Update.esm] (UNUSED)
+	VendorItemFoodPreserved [0xAF1003~Update.esm]
+VendorItemFoodUncooked [0xAF1002~Update.esm]
+
+; "If food is safe to eat raw."
+VendorItemFoodRaw [0xA0E56~Skyrim.esm]
+VendorItemFood [0x8CDEA~Skyrim.esm]
+
+; "If eating would abide by the Bosmeri Green Pact."
+OCF_AlchGreenPact [0xCD1006~Update.esm]
+
+; "If food can spoil."
+;OCF_AlchCanSpoil [0xCD113D~Update.esm] (UNUSED)
+
+; "If food is spoiled."
+OCF_AlchSpoiled [0xCD1066~Update.esm]
+
+; "If liquid is blood, and what kind of creature the blood came from."
+OCF_AlchBlood [0xCD1003~Update.esm]
+   OCF_AlchBlood_Creature [0xCD1004~Update.esm]
+   OCF_AlchBlood_Humanoid [?]
+   OCF_AlchBlood_Werebeast [0xCD1005~Update.esm]
+
+; "Artifact/relic."
+OCF_Artifact [?]
+   OCF_ArtifactDaedric [0xCD1030~Update.esm]
+      OCF_ArtifactDaedric_Bittercup [0xCD1032~Update.esm]
+   OCF_ArtifactLegendary [0xCD1037~Update.esm]
+      OCF_ArtifactLegendary_WhitePhial [0xCD1039~Update.esm]
+
+; "The container of an item."
+OCF_VesselBag [0xA13~OCF.esp]
+OCF_VesselBottle [0xCD112D~Update.esm]
+   _SH_SujammaBottleKeyword [0xF3DD76~Update.esm]
+   _SH_WineBottleKeyword [0xF3DD71~Update.esm]
+   _SH_MeadBottleKeyword [0xF3DD70~Update.esm]
+   OCF_VesselBottlePotion [0xCD112E~Update.esm]
+   OCF_VesselBottleSkooma [0xCD112F~Update.esm]
+OCF_VesselBowl [0xCD1130~Update.esm]
+OCF_VesselCup [0xCD1131~Update.esm]
+OCF_VesselDrinkingHorn [?]
+OCF_VesselFlagon [0xCD1132~Update.esm]
+OCF_VesselFlask [0xCD1140~Update.esm]
+OCF_VesselJar [?]
+OCF_VesselJug [0xCD1133~Update.esm]
+OCF_VesselKettle [0xCD1134~Update.esm]
+OCF_VesselPlate [0xCD1135~Update.esm]
+OCF_VesselSack [0xCD1137~Update.esm]
+OCF_VesselSmokingPipe [?]
+OCF_VesselTankard [0xCD1138~Update.esm]
+OCF_VesselVial [0xA12~OCF.esp]
+OCF_VesselWaterskin [0xCD1139~Update.esm]
+
+
+
+========================= TYPE =========================
+; "Item type."
+OCF_AlchDrug [0xCD1007~Update.esm]
+   OCF_AlchDrugSap [0xCD105A~Update.esm]
+   OCF_AlchDrugSkooma [0xD9FF06~Update.esm]
+   OCF_AlchDrugTonic [0xCD105C~Update.esm]
+OCF_AlchFoodAndDrink [0xCD1008~Update.esm]
+   OCF_AlchDrink [0xCD1063~Update.esm]
+      OCF_AlchDrinkAlcohol [0xAF101A~Update.esm]
+      OCF_AlchDrinkSoft [0xAF101B~Update.esm]
+         OCF_AlchDrink_Coffee [0xCD10C7~Update.esm]
+         OCF_AlchDrink_Juice [0xCD10C8~Update.esm]
+         OCF_AlchDrink_Milk [0xAF101D~Update.esm]
+            OCF_AlchDrink_MilkRaw [0xA0A~OCF.esp]
+         OCF_AlchDrink_Tea [0xCD10C9~Update.esm]
+         OCF_AlchDrink_Water [0xAF101C~Update.esm]
+            OCF_AlchDrink_WaterRaw [0xA0B~OCF.esp]
+            _SHSaltWaterKeyword [0xF3DD3F~Update.esm]
+   OCF_AlchFood [0xCD1064~Update.esm]
+      OCF_AlchFood_Baked [0xAF1010~Update.esm]
+      OCF_AlchFood_Bread [0xAF100F~Update.esm]
+      OCF_AlchFood_Cheese [0xAF100A~Update.esm]
+         OCF_AlchFood_CheeseBowl [0xAF100B~Update.esm]
+      OCF_AlchFood_Egg [0xAF100C~Update.esm]
+         OCF_AlchFood_EggRaw [0xA06~OCF.esp]
+      OCF_AlchFood_Fish [0xAF1007~Update.esm]
+         OCF_AlchFood_FishRaw [0xA07~OCF.esp]
+         OCF_AlchFood_Seafood [0xAF1006~Update.esm]
+            OCF_AlchFood_SeafoodRaw [?]
+      OCF_AlchFood_Fruit [0xAF1008~Update.esm]
+      OCF_AlchFood_Ingredient [0xCD10CA~Update.esm]
+         OCF_AlchFood_IngredientRaw [0xA08~OCF.esp]
+         OCF_AlchFood_IngredientDry [0xAF100E~Update.esm]
+         OCF_AlchFood_IngredientWet [0xAF100D~Update.esm]
+      OCF_AlchFood_Meal [0xAF1013~Update.esm]
+      OCF_AlchFood_Meat [0xAF1004~Update.esm]
+         OCF_AlchFood_MeatRaw [0xA09~OCF.esp]
+         OCF_AlchFood_Seafood [0xAF1006~Update.esm]
+            OCF_AlchFood_SeafoodRaw [?]
+         ;OCF_AlchFood_MeatSmall [0xAF1005~Update.esm] (UNUSED)
+      OCF_AlchFood_Stew [0xAF1012~Update.esm]
+      OCF_AlchFood_Treat [0xAF1011~Update.esm]
+      OCF_AlchFood_Vegetable [0xAF1009~Update.esm]
+         OCF_IngrPlant_Mushroom [0xCD10CB~Update.esm]
+         OCF_IngrPlant_SoulHusk [0xCD1059~Update.esm]
+   OCF_AlchBait [0xCD1062~Update.esm]
+   OCF_AlchSnow [0xCD1065~Update.esm]
+VendorItemPoison [0x8CDED~Skyrim.esm]
+   OCF_AlchPoison_Food [0xCD1099~Update.esm]
+   CACO_MagicAlchWeaponOil [0xCCA048~Update.esm]
+VendorItemPotion [0x8CDEC~Skyrim.esm]
+OCF_RelicAyleid_Crystal [0xCD109B~Update.esm]
+OCF_AlchFood_EggMagic [0xCD1058~Update.esm]
+WAF_WeapTypeGrenade [0xAF0237~Update.esm]
+OCF_MiscCampingGear [0xCD1085~Update.esm]
+
+
+
+====================================================================================================
+ (ITEM) INGREDIENTS
+====================================================================================================
+; "These keywords are applied to Ingredient [INGR] forms."
+
+========================= GENERAL =========================
+VendorItemAnimalPart [0x914EB~Skyrim.esm]
+
+VendorItemFood [0x8CDEA~Skyrim.esm]
+   OCF_AlchFood_Ingredient [0xCD10CA~Update.esm]
+VendorItemFoodRaw [0xA0E56~Skyrim.esm]
+
+VendorItemGem [0x914ED~Skyrim.esm]
+
+VendorItemIngredient [0x8CDEB~Skyrim.esm]
+
+; "If eating would abide by the Bosmeri Green Pact."
+OCF_AlchGreenPact [0xCD1006~Update.esm]
+
+; "The container of an item."
+OCF_VesselVial [0xA12~OCF.esp]
+
+; "The visual color of an item."
+OCF_ColorBlack [?]
+OCF_ColorBlue [?]
+OCF_ColorGreen [?]
+OCF_ColorOrange [?]
+OCF_ColorPink [?]
+OCF_ColorPurple [?]
+OCF_ColorRed [?]
+OCF_ColorWhite [?]
+OCF_ColorYellow [?]
+OCF_ColorFire [?]
+OCF_ColorFrost [?]
+OCF_ColorShock [?]
+
+; "The rarity of an item."
+OCF_RarityAedric [?]
+OCF_RarityDaedric [?]
+OCF_RarityLegendary [?]
+
+
+
+========================= TYPE =========================
+OCF_IngrMisc [?]
+   OCF_AlchSnow [?]
+   OCF_IngrMisc_Beehive [?]
+   OCF_IngrMisc_Honeycomb [?]
+   OCF_IngrMisc_Mineral [?]
+   OCF_IngrMisc_Oil [?]
+OCF_IngrPlant [?]
+   OCF_IngrPlant_Berry [?]
+   OCF_IngrPlant_BriarHeart [?]
+   OCF_IngrPlant_Deathbell [?]
+   OCF_IngrPlant_Flower [?]
+   OCF_IngrPlant_Gloop [?]
+   OCF_IngrPlant_Leaf [?]
+   OCF_IngrPlant_MoonSugar [?]
+   OCF_IngrPlant_Mushroom [?]
+   OCF_IngrPlant_Root [?]
+   OCF_IngrPlant_SoulHusk [?]
+   OCF_IngrPlant_Wood [?]
+OCF_IngrRemains [?]
+   OCF_IngrRemains_Bone [?]
+      OCF_IngrRemains_BoneSkull [?]
+   OCF_AlchBlood [?]
+      OCF_AlchBlood_Creature [?]
+      OCF_AlchBlood_Humanoid [?]
+      OCF_AlchBlood_Werebeast [?]
+   OCF_IngrRemains_Bug [?]
+      OCF_IngrRemains_BugBee [?]
+      OCF_IngrRemains_BugButterfly [?]
+      OCF_IngrRemains_BugDragonfly [?]
+      OCF_IngrRemains_BugFirefly [?]
+   OCF_IngrRemains_Crustacean [?]
+   OCF_IngrRemains_Dust [?]
+      OCF_IngrRemains_DustAshes [?]
+   OCF_IngrRemains_Egg [?]
+      OCF_IngrRemains_EggChaurus [?]
+      OCF_IngrRemains_EggFish [?]
+   OCF_IngrRemains_Fat [?]
+      OCF_MiscSoap [0xCD1095~Update.esm]
+   OCF_IngrRemains_Feather [?]
+   OCF_IngrRemains_Fiber [?]
+      OCF_IngrRemains_FiberHair [?]
+      OCF_IngrRemains_FiberSilk [?]
+   OCF_IngrRemains_Fish [?]
+   OCF_IngrRemains_Flesh [?]
+      OCF_IngrRemains_FleshCooked [?]
+      OCF_IngrRemains_FleshRaw [?]
+   OCF_IngrRemains_Gloop [?]
+   OCF_IngrRemains_Organ [?]
+      OCF_IngrRemains_OrganEye [?]
+      OCF_IngrRemains_OrganHeart [?]
+      OCF_IngrRemains_OrganLiver [?]
+   OCF_IngrRemains_Pearl [?]
+   OCF_IngrRemains_Plate [?]
+      OCF_IngrRemains_PlateHide [?]
+      OCF_IngrRemains_PlateScales [?]
+   OCF_AlchPoison [?]
+   OCF_IngrRemains_Sharp [?]
+      OCF_IngrRemains_SharpAntler [?]
+      OCF_IngrRemains_SharpBeak [?]
+      OCF_IngrRemains_SharpClaw [?]
+      OCF_IngrRemains_SharpHoof [?]
+      OCF_IngrRemains_SharpHorn [?]
+      OCF_IngrRemains_SharpTalon [?]
+      OCF_IngrRemains_SharpTeeth [?]
+      OCF_IngrRemains_SharpTusk [?]
+
+
+
+====================================================================================================
+ (ITEM) KEYS
+====================================================================================================
+; "These keywords are applied to Key [KEYM] forms."
+
+========================= TYPE =========================
+OCF_KeyPlayerHome [0xA11~OCF.esp]
+
+
+
+====================================================================================================
+ (ITEM) MISC. ITEMS
+====================================================================================================
+; "These keywords are applied to Misc. Item [MISC] forms."
+
+========================= GENERAL =========================
+; "Creature the remains comes from."
+VendorItemAnimalPart [0x914EB~Skyrim.esm]
+   OCF_AnimalPartDragon [0xCD101D~Update.esm]
+   OCF_AnimalPartKarstaag [0xCD101E~Update.esm]
+   OCF_AnimalPartTroll [0xCD1021~Update.esm]
+
+; "If an item is a broken piece of a weapon."
+OCF_WeapBroken [0xCD1083~Update.esm]
+
+; "The container of an item."
+OCF_VesselBag [0xA13~OCF.esp]
+OCF_VesselBarrel [0xA10~OCF.esp]
+OCF_VesselBottle [0xCD112D~Update.esm]
+   _SH_WineBottleKeyword [0xF3DD71~Update.esm]
+   _SH_SujammaBottleKeyword [0xF3DD76~Update.esm]
+   _SH_MeadBottleKeyword [0xF3DD70~Update.esm]
+   OCF_VesselBottlePotion [0xCD112E~Update.esm]
+   OCF_VesselBottleSkooma [0xCD112F~Update.esm]
+OCF_VesselBowl [0xCD1130~Update.esm]
+OCF_VesselCup [0xCD1131~Update.esm]
+OCF_WeapTypeCutlery1H [0xCD1097~Update.esm]
+OCF_VesselFlagon [0xCD1132~Update.esm]
+OCF_VesselFlask [0xCD1140~Update.esm]
+OCF_VesselJar [?]
+OCF_VesselJug [0xCD1133~Update.esm]
+OCF_VesselKettle [0xCD1134~Update.esm]
+OCF_VesselPlate [0xCD1135~Update.esm]
+OCF_VesselPot [0xCD1136~Update.esm]
+OCF_VesselTankard [0xCD1138~Update.esm]
+OCF_VesselVial [0xA12~OCF.esp]
+OCF_VesselWaterskin [0xCD1139~Update.esm]
+OCF_BookBindingBook [0xCD1088~Update.esm]
+OCF_BookBindingJournal [?]
+OCF_BookBindingNote [0xCD1053~Update.esm]
+OCF_BookBindingScroll [?]
+
+
+
+========================= MATERIAL =========================
+; "Item material."
+;DLC1LD_CraftingMaterialAetherium [0xE299~Dawnguard.esm] (UNUSED)
+
+
+
+========================= TYPE =========================
+; "Item type."
+ClothingNecklace [0x10CD0A~Skyrim.esm]
+VendorItemAnimalHide [0x914EA~Skyrim.esm]
+   OCF_AnimalHideFurPlate [0xCD1016~Update.esm]
+   OCF_AnimalHideLeather [0xCD1017~Update.esm]
+   OCF_AnimalHideNetch [0xCD1018~Update.esm]
+   OCF_AnimalHideStrip [0xCD1019~Update.esm]
+VendorItemAnimalPart [0x914EB~Skyrim.esm]
+   OCF_IngrRemains_Bone [0xCD101B~Update.esm]
+   OCF_IngrRemains_Carcass [0xCD101C~Update.esm]
+   OCF_IngrRemains_Fat [?]
+   OCF_IngrRemains_Feather [?]
+   OCF_IngrRemains_Misc [0xCD101F~Update.esm]
+   OCF_IngrRemains_Organ [?]
+   OCF_IngrRemains_Plate [0xCD1020~Update.esm]
+      WAF_MaterialChitin [0xAF0133~Update.esm]
+   OCF_IngrRemains_Sharp [0xCD101A~Update.esm]
+   OCF_ScrlSpider [0xCD10A7~Update.esm]
+OCF_Artifact [?]
+   OCF_ArtifactDaedric [0xCD1030~Update.esm]
+      OCF_ArtifactDaedric_Bittercup [0xCD1032~Update.esm]
+      OCF_ArtifactDaedric_BrokenStar [0xCD10AC~Update.esm]
+      OCF_ArtifactDaedric_SkeletonKey [0xCD1036~Update.esm]
+   OCF_ArtifactLegendary [0xCD1037~Update.esm]
+      OCF_ArtifactLegendary_WhitePhial [0xCD1039~Update.esm]
+VendorItemBook [0x937A2~Skyrim.esm]
+   OCF_BookTextDocument [0xCD10B1~Update.esm]
+   OCF_BookTextMap [0xCD10BE~Update.esm]
+OCF_MiscBugJar [0xCD108D~Update.esm]
+OCF_Placeholder_BuildingPart [0xCD1084~Update.esm]
+OCF_MiscCampingGear [0xCD1085~Update.esm]
+OCF_MiscCard [0xCD1086~Update.esm]
+BYOHAdoptionClothesKeyword [0xD823~HearthFires.esm]
+BYOHAdoptionToyKeyword [0xD824~HearthFires.esm]
+   OCF_MiscChildToy_Doll [0xCD1087~Update.esm]
+ClothingBody [0xA8657~Skyrim.esm]
+VendorItemClutter [0x914E9~Skyrim.esm]
+OCF_MiscDye [0xCD1089~Update.esm]
+OCF_MiscEmptyVessel [?]
+   OCF_MiscEmptyVessel_Bottle [0xCD108A~Update.esm]
+   OCF_MiscEmptyVessel_Flask [?]
+   OCF_MiscEmptyVessel_Jar [0xCD108C~Update.esm]
+   OCF_MiscEmptyVessel_Waterskin [?]
+VendorItemGem [0x914ED~Skyrim.esm]
+OCF_MiscHorseGear [0xCD108B~Update.esm]
+VendorItemIngredient [0x8CDEB~Skyrim.esm]
+OCF_MiscInstrument [0xCD10B9~Update.esm]
+VendorItemKey [0x914EF~Skyrim.esm]
+OCF_MiscMaterial [0xCD108E~Update.esm]
+   OCF_MiscMaterialGeneral [0xCD107B~Update.esm]
+      OCF_MiscMaterial_Metal [0xCD107C~Update.esm]
+      OCF_MiscMaterial_Stone [0xCD107D~Update.esm]
+      VendorItemFireword (sic) [0xBECD7~Skyrim.esm]
+   OCF_MiscMaterialSmithing [0xCD107E~Update.esm]
+      OCF_MiscMaterial_Ingot [0xCD107F~Update.esm]
+      OCF_MiscMaterial_Ore [0xCD1080~Update.esm]
+      OCF_MiscMaterial_Scrap [0xCD1081~Update.esm]
+         OCF_MiscMaterial_ScrapDwarven [0xCD1082~Update.esm]
+OCF_MiscOil [0xCD108F~Update.esm]
+OCF_MiscPainting [0xCD1090~Update.esm]
+OCF_MiscPetGear [0xCD1091~Update.esm]
+   OCF_MiscPetGear_Collar [0xCD1092~Update.esm]
+   OCF_MiscPetGear_Pack [0xCD1093~Update.esm]
+VendorItemPoison [0x8CDED~Skyrim.esm]
+VendorItemPotion [0x8CDEC~Skyrim.esm]
+OCF_MiscPottery [0xA0C~OCF.esp]
+   OCF_MiscPottery_Dwarven [0xA0D~OCF.esp]
+OCF_Relic [0xCD10CD~Update.esm]
+   OCF_RelicArgonian [?]
+   OCF_RelicAyleid [0xCD109A~Update.esm]
+      OCF_RelicAyleid_Crystal [0xCD109B~Update.esm]
+   OCF_RelicDaedric [0xCD109C~Update.esm]
+      OCF_RelicDaedric_SigilStone [0xCD109D~Update.esm]
+   OCF_RelicDunmer [0xCD109E~Update.esm]
+   OCF_RelicDwarven [0xCD109F~Update.esm]
+   OCF_RelicElder [0xCD10A0~Update.esm]
+      OCF_RelicElder_Sapling [?]
+   OCF_RelicFalmer [0xCD10A1~Update.esm]
+   OCF_RelicImperial [0xCD10A2~Update.esm]
+   OCF_RelicNordic [0xCD10A3~Update.esm]
+      OCF_RelicNordic_DragonClaw [0xCD10A4~Update.esm]
+      OCF_RelicNordic_SkullKey [0xCD10A5~Update.esm]
+ClothingRing [0x10CD09~Skyrim.esm]
+VendorItemScroll [0xA0E57~Skyrim.esm]
+OCF_MiscSeashell [0xCD1094~Update.esm]
+OCF_MiscSoap [0xCD1095~Update.esm]
+VendorItemSoulGem [0x937A3~Skyrim.esm]
+OCF_SlgmX0X [?]
+OCF_SlgmX5X [?]
+OCF_SlgmBXX [?]
+OCF_SlgmPiece [0xCD10AD~Update.esm]
+	OCF_SlgmPiece_Filled [?]
+WeapTypeStaff [0x1E716~Skyrim.esm]
+OCF_MiscTableware [0xCD1096~Update.esm]
+   OCF_MiscTableware_Dwarven [0xA0F~OCF.esp]
+OCF_Tool [0xA00~OCF.esp]
+   OCF_ToolAlchemy [0xCD10B6~Update.esm]
+      OCF_ToolAlembic [?]
+      OCF_ToolCauldron [?]
+      OCF_ToolCrucible [?]
+      OCF_ToolExtractor [?]
+      OCF_ToolMortarPestle [?]
+      OCF_ToolRetort [?]
+   OCF_ToolCompass [0xCD10B7~Update.esm]
+   OCF_WeapTypeFishingRod1H [0xCD10B8~Update.esm]
+   OCF_ToolLantern [0xCD10BC~Update.esm]
+   OCF_ToolLight [?]
+      OCF_ToolLight_Torch [0xA01~OCF.esp]
+   OCF_ToolParaglider [?]
+   OCF_ToolSpyglass [0xCD10C1~Update.esm]
+OCF_MiscTrap [0xCD113F~Update.esm]
+OCF_MiscTreasure [0xCD1098~Update.esm]
+   OCF_MiscTreasure_Coin [0xCD10C5~Update.esm]
+   OCF_MiscTreasure_Coinpurse [0xCD10C6~Update.esm]
+;OCF_Placeholder [?]
+
+
+
+====================================================================================================
+ (ITEM) SCROLLS
+====================================================================================================
+; "These keywords are applied to Scroll [SCRL] forms."
+
+========================= ELEMENT =========================
+; "Magic element. Not applied to basic scrolls."
+MagicDamageFire [0x1CEAD~Skyrim.esm]
+MagicDamageFrost [0x1CEAE~Skyrim.esm]
+MAG_MagicDamagePoison [0xADA001~Update.esm]
+MagicDamageShock [0x1CEAF~Skyrim.esm]
+
+
+
+========================= TYPE =========================
+; "Item type."
+OCF_ScrlBasic [0xCD10A6~Update.esm]
+OCF_ScrlSpider [0xCD10A7~Update.esm]
+OCF_ScrlPowder [0xA04~OCF.esp]
+;BYOHAdoptionToyKeyword [0xD824~HearthFires.esm]
+   ;OCF_MiscChildToy_Doll [0xCD1087~Update.esm]
+
+
+
+====================================================================================================
+ (ITEM) SOUL GEMS
+====================================================================================================
+; "These keywords are applied to Soul Gem [SLGM] forms."
+
+========================= TYPE =========================
+; "Item type."
+OCF_SlgmBasic [0xCD10AB~Update.esm]
+OCF_Artifact [?]
+   OCF_ArtifactDaedric [0xCD1030~Update.esm]
+      OCF_ArtifactDaedric_AzuraStar [0xCD1031~Update.esm]
+      OCF_ArtifactDaedric_BlackStar [0xCD1034~Update.esm]
+OCF_Replica [?]
+   OCF_ReplicaDaedric [?]
+      OCF_ReplicaDaedric_AzuraStar [?]
+OCF_Relic [0xCD10CD~Update.esm]
+   OCF_RelicAyleid [0xCD109A~Update.esm]
+      OCF_RelicAyleid_Crystal [0xCD109B~Update.esm]
+   OCF_RelicDaedric [0xCD109C~Update.esm]
+      OCF_RelicDaedric_SigilStone [0xCD109D~Update.esm]
+      OCF_RelicDaedric_SoulTomato [0xCD10B0~Update.esm]
+OCF_AmmoTypeBullet [0xCD100C~Update.esm]
+   OCF_AmmoTypeBullet1H [0xCD100D~Update.esm]
+
+
+
+========================= COLOR/SIZE/STATUS =========================
+; "Status and color."
+OCF_SlgmFull [0x829~OCF.esp] ("Soul gems containing the max size of soul that the gem can hold.")
+   ;OCF_SlgmBlackFull [0x82B~OCF.esp] ("Black soul gems containing the max size of soul that the gem can hold.")
+   ;OCF_SlgmWhiteFull [0x82A~OCF.esp] ("White soul gems containing the max size of soul that the gem can hold.")
+OCF_SlgmPartial [0x82C~OCF.esp] ("Soul gems containing a soul smaller than the max size of soul that the gem can hold.")
+   ;OCF_SlgmBlackPartial [0x82E~OCF.esp] ("Black soul gems containing a soul smaller than the max size of soul that the gem can hold.")
+   ;OCF_SlgmWhitePartial [0x82D~OCF.esp] ("White soul gems containing a soul smaller than the max size of soul that the gem can hold.")
+OCF_SlgmEmpty [0x82F~OCF.esp] ("Soul gems containing no soul.")
+   ;OCF_SlgmBlackEmpty [0x831~OCF.esp] ("Black soul gems containing no soul.")
+   ;OCF_SlgmWhiteEmpty [0x830~OCF.esp] ("White soul gems containing no soul.")
+
+; "Color."
+OCF_SlgmWXX [0x81B~OCF.esp] ("Color: white, Gem: any, Soul: any.")
+OCF_SlgmBXX [0x81C~OCF.esp] ("Color: black, Gem: any, Soul: any.")
+
+; "Gem size."
+OCF_SlgmX0X [0x81D~OCF.esp] ("Color: any, Gem: none, Soul: any.")
+OCF_SlgmX1X [0x81E~OCF.esp] ("Color: any, Gem: petty, Soul: any.")
+OCF_SlgmX2X [0x81F~OCF.esp] ("Color: any, Gem: lesser, Soul: any.")
+OCF_SlgmX3X [0x820~OCF.esp] ("Color: any, Gem: common, Soul: any.")
+OCF_SlgmX4X [0x821~OCF.esp] ("Color: any, Gem: greater, Soul: any.")
+OCF_SlgmX5X [0x822~OCF.esp] ("Color: any, Gem: grand, Soul: any.")
+
+; "Soul size."
+OCF_SlgmXX0 [0x823~OCF.esp] ("Color: any, Gem: any, Soul: none.")
+OCF_SlgmXX1 [0x824~OCF.esp] ("Color: any, Gem: any, Soul: petty.")
+OCF_SlgmXX2 [0x825~OCF.esp] ("Color: any, Gem: any, Soul: lesser.")
+OCF_SlgmXX3 [0x826~OCF.esp] ("Color: any, Gem: any, Soul: common.")
+OCF_SlgmXX4 [0x827~OCF.esp] ("Color: any, Gem: any, Soul: greater.")
+OCF_SlgmXX5 [0x828~OCF.esp] ("Color: any, Gem: any, Soul: grand.")
+
+; "Color, gem size, and soul size."
+OCF_SlgmX00 [0x81A~OCF.esp] ("Color: any, Gem: none, Soul: none.")
+OCF_SlgmW10 [0x800~OCF.esp] ("Color: white, Gem: petty, Soul: none.")
+OCF_SlgmW11 [0x801~OCF.esp] ("Color: white, Gem: petty, Soul: petty.")
+OCF_SlgmW20 [0x802~OCF.esp] ("Color: white, Gem: lesser, Soul: none.")
+OCF_SlgmW21 [0x803~OCF.esp] ("Color: white, Gem: lesser, Soul: petty.")
+OCF_SlgmW22 [0x804~OCF.esp] ("Color: white, Gem: lesser, Soul: lesser.")
+OCF_SlgmW30 [0x805~OCF.esp] ("Color: white, Gem: common, Soul: none.")
+OCF_SlgmW31 [0x806~OCF.esp] ("Color: white, Gem: common, Soul: petty.")
+OCF_SlgmW32 [0x807~OCF.esp] ("Color: white, Gem: common, Soul: lesser.")
+OCF_SlgmW33 [0x808~OCF.esp] ("Color: white, Gem: common, Soul: common.")
+OCF_SlgmW40 [0x809~OCF.esp] ("Color: white, Gem: greater, Soul: none.")
+OCF_SlgmW41 [0x80A~OCF.esp] ("Color: white, Gem: greater, Soul: petty.")
+OCF_SlgmW42 [0x80B~OCF.esp] ("Color: white, Gem: greater, Soul: lesser.")
+OCF_SlgmW43 [0x80C~OCF.esp] ("Color: white, Gem: greater, Soul: common.")
+OCF_SlgmW44 [0x80D~OCF.esp] ("Color: white, Gem: greater, Soul: greater.")
+OCF_SlgmW50 [0x80E~OCF.esp] ("Color: white, Gem: grand, Soul: none.")
+OCF_SlgmW51 [0x80F~OCF.esp] ("Color: white, Gem: grand, Soul: petty.")
+OCF_SlgmW52 [0x810~OCF.esp] ("Color: white, Gem: grand, Soul: lesser.")
+OCF_SlgmW53 [0x811~OCF.esp] ("Color: white, Gem: grand, Soul: common.")
+OCF_SlgmW54 [0x812~OCF.esp] ("Color: white, Gem: grand, Soul: greater.")
+OCF_SlgmW55 [0x813~OCF.esp] ("Color: white, Gem: grand, Soul: grand.")
+OCF_SlgmB50 [0x814~OCF.esp] ("Color: black, Gem: grand, Soul: none.")
+OCF_SlgmB51 [0x815~OCF.esp] ("Color: black, Gem: grand, Soul: petty.")
+OCF_SlgmB52 [0x816~OCF.esp] ("Color: black, Gem: grand, Soul: lesser.")
+OCF_SlgmB53 [0x817~OCF.esp] ("Color: black, Gem: grand, Soul: common.")
+OCF_SlgmB54 [0x818~OCF.esp] ("Color: black, Gem: grand, Soul: greater.")
+OCF_SlgmB55 [0x819~OCF.esp] ("Color: black, Gem: grand, Soul: grand.")
+
+
+
+====================================================================================================
+ (ITEM) WEAPONS
+====================================================================================================
+; "These keywords are applied to Weapon [WEAP] forms."
+
+========================= ELEMENT =========================
+; "Magic element."
+MagicDamageFire [0x1CEAD~Skyrim.esm]
+MagicDamageFrost [0x1CEAE~Skyrim.esm]
+MAG_MagicDamagePoison [0xADA001~Update.esm]
+MagicDamageShock [0x1CEAF~Skyrim.esm]
+
+
+
+========================= GENERAL =========================
+; "If item is bound/conjured."
+MAG_WeapTypeBound [0xADA117~Update.esm]
+
+; "If item is throwable."
+OCF_WeapThrowable [0xCD10CF~Update.esm]
+
+; "If weapon has a reverse grip."
+OCF_WeapReverseGrip [0xCD10CE~Update.esm]
+
+
+
+========================= MATERIAL =========================
+; "Item material."
+;DLC1LD_CraftingMaterialAetherium [0xE299~Dawnguard.esm] (UNUSED)
+WeapMaterialDwarven [0x1E71A~Skyrim.esm]
+
+
+
+========================= TOOL =========================
+; "Woodchopping abilities."
+OCF_CanChopWood [0xCD1054~Update.esm]
+
+; "Mining abilities."
+OCF_CanMineOre [0xCD1056~Update.esm]
+   OCF_CanMineAetherium [0xCD1055~Update.esm]
+   OCF_CanMineStalhrim [0xCD1057~Update.esm]
+
+
+
+========================= TYPE =========================
+; "Item type."
+OCF_WeapTypeMelee [0xCD1100~Update.esm]
+   WeapTypeDagger [0x1E713~Skyrim.esm]
+      OCF_WeapTypeChakram1H [0xCD10D5~Update.esm]
+      OCF_WeapTypeClaw1H [0x777776~Update.esm]
+      OCF_WeapTypeCutlery1H [0xCD1097~Update.esm]
+      OCF_WeapTypeDagger1H [0xCD10DF~Update.esm]
+      OCF_WeapTypeRevDagger1H [0xCD10E0~Update.esm]
+      OCF_WeapTypeKunai1H [0xCD10F8~Update.esm]
+      OCF_WeapTypeShiv1H [0xCD110D~Update.esm]
+      OCF_WeapTypeSai1H [0xCD110A~Update.esm]
+      OCF_WeapTypeShuriken1H [0xCD110F~Update.esm]
+      OCF_WeapTypeTanto1H [0xCD1115~Update.esm]
+      OCF_WeapTypeToolKnife1H [0xCD10BA~Update.esm]
+         OCF_WeapTypeHuntingKnife1H [0xCD10BB~Update.esm]
+         WAF_WeapTypeScalpel [0xAF0239~Update.esm]
+   WeapTypeSword [0x1E711~Skyrim.esm]
+      OCF_WeapTypeKatana1H [0x777779~Update.esm]
+      OCF_WeapTypeRapier1H [0x777774~Update.esm]
+      OCF_WeapTypeSaber1H [0xCD1108~Update.esm]
+      OCF_WeapTypeScimitar1H [0xCD110B~Update.esm]
+      OCF_WeapTypeSword1H [0xCD1114~Update.esm]
+      OCF_WeapTypeTwinblade1H [0xCD111A~Update.esm]
+   WeapTypeWarAxe [0x1E712~Skyrim.esm]
+      OCF_WeapTypeCleaver1H [0xCD10D6~Update.esm]
+      OCF_WeapTypeCrescent1H [0xCD10DA~Update.esm]
+      OCF_WeapTypeHandBlade1H [0xCD10F5~Update.esm]
+      OCF_WeapTypeHatchet1H [0xCD10F6~Update.esm]
+      OCF_WeapTypePickaxe1H [0xCD10BF~Update.esm]
+      OCF_WeapTypeSickle1H [0xCD1110~Update.esm]
+      OCF_WeapTypeWarAxe1H [0xCD111D~Update.esm]
+      OCF_WeapTypeWarpick1H [0xCD111F~Update.esm]
+      OCF_WeapTypeWoodaxe1H [0xCD10C3~Update.esm]
+      OCF_WeapTypeWoodHatchet1H [0xCD1141~Update.esm]
+   WeapTypeMace [0x1E714~Skyrim.esm]
+      OCF_WeapTypeBoomerang1H [0xCD10D2~Update.esm]
+      OCF_WeapTypeCestus1H [0xCD10D4~Update.esm]
+      OCF_WeapTypeClub1H [0xCD10D8~Update.esm]
+      OCF_WeapTypeFishingRod1H [0xCD10B8~Update.esm]
+      OCF_WeapTypeHammer1H [0xCD10F4~Update.esm]
+      OCF_WeapTypeMace1H [0xCD10FE~Update.esm]
+      OCF_WeapTypeQuarterstaff1H [0xCD1106~Update.esm]
+      OCF_WeapTypeWhip1H [0x777778~Update.esm]
+   OCF_WeapTypePole1H [0xCD1103~Update.esm]
+      OCF_WeapTypePole1H_Swing [0xCD1104~Update.esm]
+         OCF_WeapTypeGlaive1H [0xCD10E1~Update.esm]
+         OCF_WeapTypeHalberd1H [0xCD10F2~Update.esm]
+         OCF_WeapTypeWarscythe1H [0xCD1121~Update.esm]
+      OCF_WeapTypePole1H_Thrust [0xCD0100~Update.esm]
+         OCF_WeapTypeLance1H [0xCD10F9~Update.esm]
+         OCF_WeapTypePike1H [0xCD1101~Update.esm]
+         OCF_WeapTypeSpear1H [0xCD1112~Update.esm]
+         OCF_WeapTypeTrident1H [0xCD1116~Update.esm]
+      OCF_WeapTypeJavelin1H [0x777771~Update.esm]
+   WeapTypeGreatsword [0x6D931~Skyrim.esm]
+      OCF_WeapTypeGreatsword2H [0xCD10E4~Update.esm]
+      OCF_WeapTypeKatana2H [0xCD10F7~Update.esm]
+      ;OCF_WeapTypeLongsword2H [0xCD10FC~Update.esm] (UNUSED)
+      OCF_WeapTypeMassiveSword2H [0xCD10FF~Update.esm]
+      OCF_WeapTypeRapier2H [0xCD1107~Update.esm]
+      OCF_WeapTypeSaber2H [0xCD1109~Update.esm]
+      OCF_WeapTypeScimitar2H [0xCD110C~Update.esm]
+      OCF_WeapTypeTwinblade2H [0xCD111B~Update.esm]
+   WeapTypeBattleaxe [0x6D932~Skyrim.esm]
+      OCF_WeapTypeBattleaxe2H [0xCD10D0~Update.esm]
+      OCF_WeapTypeCleaver2H [0xCD10D7~Update.esm]
+      OCF_WeapTypeCrescent2H [0xCD10DB~Update.esm]
+      OCF_WeapTypePickaxe2H [0xCD10C0~Update.esm]
+      OCF_WeapTypeScythe2H [0x777777~Update.esm]
+      OCF_WeapTypeWarpick2H [0xCD1120~Update.esm]
+      OCF_WeapTypeWoodaxe2H [0xCD10C4~Update.esm]
+   WeapTypeWarhammer [0x6D930~Skyrim.esm]
+      OCF_WeapTypeClub2H [0xCD10D9~Update.esm]
+      OCF_WeapTypeMace2H [0xCD10FD~Update.esm]
+      OCF_WeapTypeQuarterstaff2H [0x777775~Update.esm]
+      OCF_WeapTypeWarhammer2H [0xCD111E~Update.esm]
+   OCF_WeapTypePole2H [0xCD1105~Update.esm]
+      OCF_WeapTypePole2H_Swing [0x777773~Update.esm]
+         OCF_WeapTypeGlaive2H [0xCD10E2~Update.esm]
+         OCF_WeapTypeHalberd2H [0xCD10F3~Update.esm]
+         OCF_WeapTypeWarscythe2H [0xCD1122~Update.esm]
+      OCF_WeapTypePole2H_Thrust [0x777772~Update.esm]
+         OCF_WeapTypeLance2H [0xCD10FA~Update.esm]
+         OCF_WeapTypePike2H [0xCD1102~Update.esm]
+         OCF_WeapTypeSpear2H [0xCD1113~Update.esm]
+         OCF_WeapTypeTrident2H [0xCD1117~Update.esm]
+   OCF_WeapTypeUnarmed [0xCD111C~Update.esm]
+WeapTypeBow [0x1E715~Skyrim.esm]
+   OCF_WeapTypeBlowgun2H [0xCD10D1~Update.esm]
+   WAF_WeapTypeGrenade [0xAF0237~Update.esm]
+   OCF_WeapTypeBow [0xCD1118~Update.esm]
+      OCF_WeapTypeBow2H [0xCD1119~Update.esm]
+      OCF_WeapTypeBowblade2H [0xCD10D3~Update.esm]
+      OCF_WeapTypeGreatbow2H [0xCD10E3~Update.esm]
+      OCF_WeapTypeLongbow2H [0xCD10FB~Update.esm]
+      OCF_WeapTypeShortbow2H [0xCD110E~Update.esm]
+   OCF_WeapTypeCrossbow [0xCD10DC~Update.esm]
+      OCF_WeapTypeCrossbow1H [0xCD10DD~Update.esm]
+      OCF_WeapTypeCrossbow2H [0xCD10DE~Update.esm]
+   OCF_WeapTypeGun [0x77777A~Update.esm]
+      OCF_WeapTypeGun1H [0xCD10E5~Update.esm]
+         OCF_WeapTypeGun1H_Basic [0xCD10E6~Update.esm]
+         OCF_WeapTypeGun1H_Axe [0xCD10E7~Update.esm]
+         OCF_WeapTypeGun1H_Sword [0xCD10E8~Update.esm]
+         OCF_WeapTypeGun1H_Launcher [0xCD10E9~Update.esm]
+         OCF_WeapTypeGun1H_Shotgun [0xCD10EA~Update.esm]
+         OCF_WeapTypeGun1H_Special [0xCD10EB~Update.esm]
+      OCF_WeapTypeGun2H [0xCD10EC~Update.esm]
+         OCF_WeapTypeGun2H_Basic [0xCD10ED~Update.esm]
+         OCF_WeapTypeGun2H_Spear [0xCD10EE~Update.esm]
+         OCF_WeapTypeGun2H_Launcher [0xCD10EF~Update.esm]
+         OCF_WeapTypeGun2H_Shotgun [0xCD10F0~Update.esm]
+         OCF_WeapTypeGun2H_Special [0xCD10F1~Update.esm]
+   OCF_WeapTypeSlingshot2H [0xCD1111~Update.esm]
+WeapTypeStaff [0x1E716~Skyrim.esm]
+   OCF_WeapTypeStaff [0xCD113B~Update.esm]
+   OCF_WeapTypeBlankStaff [0xCD113C~Update.esm]
+
+
+
+====================================================================================================
+ (MAGIC) MAGIC EFFECTS
+====================================================================================================
+; "These keywords are applied to Magic Effect [MGEF] forms."
+
+OCF_MgefClassArtificer
+OCF_MgefClassAsh
+OCF_MgefClassAstral
+OCF_MgefClassBard
+OCF_MgefClassBlood
+OCF_MgefClassDruid
+;OCF_MgefClassDunmer
+OCF_MgefClassEarth
+OCF_MgefClassEldritch
+OCF_MgefClassFire
+OCF_MgefClassFrost
+OCF_MgefClassHoly
+   OCF_MgefClassHoly_Lunar
+OCF_MgefClassMystic
+OCF_MgefClassNecromancy
+OCF_MgefClassPoison
+OCF_MgefClassShadow
+OCF_MgefClassShock
+OCF_MgefClassSurvival
+OCF_MgefClassUtility
+OCF_MgefClassWater
+OCF_MgefClassWind
+
+OCF_MgefPowerAction
+OCF_MgefPowerCheat
+OCF_MgefPowerConfig
+OCF_MgefSpellAbsorb_Magicka
+OCF_MgefSpellAbsorb_MagickaCloak
+OCF_MgefSpellAbsorb_Stamina
+OCF_MgefSpellAbsorb_StaminaCloak
+OCF_MgefSpellBound_Ammo
+OCF_MgefSpellBound_Armor
+OCF_MgefSpellBound_Weapon
+OCF_MgefSpellControl
+OCF_MgefSpellCure
+OCF_MgefSpellCurse
+OCF_MgefSpellCurse_Shadow
+OCF_MgefSpellDamage_Blood
+OCF_MgefSpellDamage_BloodCloak
+OCF_MgefSpellDamage_Construct
+OCF_MgefSpellDamage_Disease
+OCF_MgefSpellDamage_FireCold
+OCF_MgefSpellDamage_FireColdCloak
+OCF_MgefSpellDamage_FireNecrotic
+OCF_MgefSpellDamage_FireNecroticCloak
+OCF_MgefSpellDamage_Force
+OCF_MgefSpellDamage_HolyAstral
+OCF_MgefSpellDamage_HolyAstralCloak
+OCF_MgefSpellDamage_HolyLunar
+OCF_MgefSpellDamage_HolyLunarCloak
+MAG_MagicDamagePoison
+   OCF_MgefSpellDamage_PoisonBug
+   OCF_MgefSpellDamage_PoisonEldritch
+MAG_PoisonCloakSpell
+   OCF_MgefSpellDamage_PoisonBugCloak
+   OCF_MgefSpellDamage_PoisonEldritchCloak
+OCF_MgefSpellDivination
+OCF_MgefSpellEnhance_Blood
+OCF_MgefSpellEnhance_Dodge
+OCF_MgefSpellEnhance_Eldritch
+OCF_MgefSpellEnhance_Jump
+OCF_MgefSpellEnhance_Speed
+OCF_MgefSpellEnhance_SpellCost
+OCF_MgefSpellEnhance_Swim
+OCF_MgefSpellEnhance_WaterBreathe
+OCF_MgefSpellEnhance_WaterWalk
+OCF_MgefSpellEthereal
+OCF_MgefSpellForce
+OCF_MgefSpellHarvest
+OCF_MgefSpellHeal_Construct
+OCF_MgefSpellHeal_Daedra
+OCF_MgefSpellHeal_Living
+OCF_MgefSpellHeal_Self
+OCF_MgefSpellHeal_SelfCloak
+OCF_MgefSpellHeal_Undead
+OCF_MgefSpellLight
+OCF_MgefSpellMind_Fear
+OCF_MgefSpellParalysis
+OCF_MgefSpellShield_Druid
+OCF_MgefSpellShield_Element
+   MAG_MagicShieldFire
+   MAG_MagicShieldFrost
+   MAG_MagicShieldPoison
+   MAG_MagicShieldShock
+OCF_MgefSpellShield_Physical
+OCF_MgefSpellShield_Warmth
+OCF_MgefSpellRestore
+   OCF_MgefSpellRestore_Exposure
+   OCF_MgefSpellRestore_Magicka
+   OCF_MgefSpellRestore_MagickaCircle
+   OCF_MgefSpellRestore_Stamina
+   OCF_MgefSpellRestore_StaminaCircle
+   OCF_MgefSpellRestore_Warmth
+OCF_MgefSpellSacrifice
+OCF_MgefSpellSummon
+   OCF_MgefSpellSummon_Construct
+   OCF_MgefSpellSummon_Creature
+   OCF_MgefSpellSummon_Daedra
+   OCF_MgefSpellSummon_Spirit
+   OCF_MgefSpellSummon_Undead
+OCF_MgefSpellSummon_Object
+OCF_MgefSpellTeleport
+OCF_MgefSpellTransmute
+OCF_MgefSpellUnlock
+
+MagicArmorSpell
+MagicNightEye
+MagicWard
+
+OCF_AmmoTypeArrow
+WeapTypeDagger
+WeapTypeSword
+WeapTypeBattleaxe
+WeapTypeBow
+
+OCF_MgefPowerAlteration
+
+OCF_IconColorFire
+OCF_IconColorFireBlue
+OCF_IconColorFireRed - FF3C00
+OCF_IconColorFrost
+OCF_IconColorShock
+OCF_IconColorShockOrange - FF8000
+
+CCSM_RestoreHungerLarge
+CCSM_RestoreHungerMedium
+CCSM_RestoreHungerSmall
+CCSM_RestoreHungerTiny
+CCSM_RestoreCold
+CCSM_FortifyWarmth
+
+
+
+====================================================================================================
+ (MAGIC) SPELLS
+====================================================================================================
+; "These keywords are applied to Spell [SPEL] forms."
+
+========================= TOOL =========================
+; "Mining abilities."
+OCF_CanMineOre [0xCD1056~Update.esm]
+   ;OCF_CanMineAetherium [0xCD1055~Update.esm]
+   OCF_CanMineStalhrim [0xCD1057~Update.esm]
+
+
+
+====================================================================================================
+ (OTHER) ACTIVATORS
+====================================================================================================
+; "These keywords are applied to Activator [ACTI] forms."
+
+
+
+====================================================================================================
+ (OTHER) FLORA
+====================================================================================================
+; "These keywords are applied to Flora [FLOR] forms."
+
+
+
+====================================================================================================
+ (OTHER) FURNITURE
+====================================================================================================
+; "These keywords are applied to Furniture [FURN] forms."
+
+
+
+====================================================================================================
+ (OTHER) LOCATIONS
+====================================================================================================
+; "These keywords are applied to Location [LCTN] forms."
+
+========================= GENERAL =========================
+;BQActiveQuest
+;CWCampImperial
+;CWCampsite
+;CWCampSons
+;CWCapital
+;CWCapitalHQ
+;CWCost
+;CWDiplomaticVictory
+;CWEventHappening
+;CWFort
+;CWGarrison
+;CWGarrisonDefenderOnly
+;CWGarrisonNonContestable
+;CWHQ
+;CWLostByTreaty
+;CWOwner
+;CWPurchasedByAttacker
+;CWSiegePlayerRanAway
+;CWSiegeRunning
+;Favor018TargetLocation
+;LocSetCave
+;LocSetCaveIce
+;LocSetDwarvenRuin
+;LocSetMilitaryCamp
+;LocSetMilitaryFort
+;LocSetNordicRuin
+;LocSetOutdoor
+;LocTypeAnimalDen
+;LocTypeBanditCamp
+;LocTypeBarracks
+;LocTypeCastle
+;LocTypeCemetery
+;LocTypeCity
+;LocTypeClearable
+;LocTypeDragonLair
+;LocTypeDragonPriestLair
+;LocTypeDraugrCrypt
+;LocTypeDungeon
+;LocTypeDwarvenAutomatons
+;LocTypeDwelling
+;LocTypeFalmerHive
+;LocTypeFarm
+;LocTypeForswornCamp
+;LocTypeGiantCamp
+;LocTypeGuild
+;LocTypeHabitation
+;LocTypeHabitationHasInn
+;LocTypeHagravenNest
+;LocTypeHold
+;LocTypeHoldCapital
+;LocTypeHoldMajor
+;LocTypeHoldMinor
+;LocTypeHouse
+;LocTypeInn
+;LocTypeJail
+;LocTypeLumberMill
+;LocTypeMilitaryCamp
+;LocTypeMilitaryFort
+;LocTypeMine
+;LocTypeOrcStronghold
+;LocTypePlayerHouse
+;LocTypeSettlement
+;LocTypeShip
+;LocTypeShipwreck
+;LocTypeSprigganGrove
+;LocTypeStewardsDwelling
+;LocTypeStore
+;LocTypeTemple
+;LocTypeTown
+;LocTypeVampireLair
+;LocTypeWarlockLair
+;LocTypeWerewolfLair
+;SilverHandTarget
+;TGBusiness
+;TGWealthyHome
+;WIComplexInteractionToggle
+;WIDragonAttacked
+;WIDragonsToggle
+;
+;Survival_LocTypeFreeShrineUse
+;
+;BYOH_LocTypeHomestead
+;BYOHHouseLocationKeyword
+;
+;DLC2LocTypeAshSpawn
+;DLC2LocTypePillar
+;DLC2LocTypeRieklingCamp
+
+
+
+====================================================================================================
+ (OTHER) NPCS
+====================================================================================================
+; "These keywords are applied to Non-Player Character (Actor) [NPC_] forms."
+
+
+
+====================================================================================================
+ (OTHER) RACES
+====================================================================================================
+; "These keywords are applied to Race [RACE] forms."
+
+
+
+====================================================================================================
+ (OTHER) TALKING ACTIVATORS
+====================================================================================================
+; "These keywords are applied to Talking Activator [TACT] forms."
+
+
