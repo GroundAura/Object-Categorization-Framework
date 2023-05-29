@@ -145,7 +145,7 @@ OCF_ArmorTypeOther [0xCD102F~Update.esm]
       OCF_AccessoryJewelry [?]
       OCF_AccessoryKatana [?]
       OCF_ToolLantern [0xCD10BC~Update.esm]
-         OCF_MiscBugJar [?]
+         OCF_MiscJarBug [?]
          OCF_ToolLantern_Paper [?]
       OCF_AccessoryMagic [0xCD1002~Update.esm]
       OCF_AccessoryPiercing [?]
@@ -639,7 +639,6 @@ OCF_Artifact [?]
 VendorItemBook [0x937A2~Skyrim.esm]
    OCF_BookTextDocument [0xCD10B1~Update.esm]
    OCF_BookTextMap [0xCD10BE~Update.esm]
-OCF_MiscBugJar [0xCD108D~Update.esm]
 OCF_Placeholder_BuildingPart [0xCD1084~Update.esm]
 OCF_MiscCampingGear [0xCD1085~Update.esm]
 OCF_MiscCard [0xCD1086~Update.esm]
@@ -658,6 +657,7 @@ VendorItemGem [0x914ED~Skyrim.esm]
 OCF_MiscHorseGear [0xCD108B~Update.esm]
 VendorItemIngredient [0x8CDEB~Skyrim.esm]
 OCF_MiscInstrument [0xCD10B9~Update.esm]
+OCF_MiscJarBug [0xCD108D~Update.esm]
 VendorItemKey [0x914EF~Skyrim.esm]
 OCF_MiscMaterial [0xCD108E~Update.esm]
    OCF_MiscMaterialGeneral [0xCD107B~Update.esm]
@@ -1162,6 +1162,25 @@ OCF_CanMineOre [0xCD1056~Update.esm]
  (OTHER) ACTIVATORS
 ====================================================================================================
 ; "These keywords are applied to Activator [ACTI] forms."
+
+========================= GENERAL =========================
+OCF_ActiCritter
+   OCF_ActiCritter_Bug
+      OCF_ActiCritter_BugBee
+      OCF_ActiCritter_BugButterfly
+      OCF_ActiCritter_BugDragonfly
+      OCF_ActiCritter_BugFirefly
+   OCF_ActiCritter_Fish
+      OCF_ActiCritter_FishFood
+      OCF_ActiCritter_FishIngr
+OCF_ActiHarvestable
+   OCF_ActiHarvestable_Plant
+OCF_ActiVein
+
+;OCF_ActiCritter
+   ;OCF_ActiCritter_BugDiurnal
+   ;OCF_ActiCritter_BugNocturnal
+   ;OCF_ActiCritter_BugSpecial
 
 
 
