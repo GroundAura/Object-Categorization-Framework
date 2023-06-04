@@ -89,7 +89,7 @@ OCF_ArmorMainSkimpy [?]
 ; "Uniforms."
 CWMission03ImperialGarb [0x107604~Skyrim.esm]
 CWMission03StormcloakGarb [0x107603~Skyrim.esm]
-;MQ201ThalmorDisguise [0x0006B3AF~Skyrim.esm] (UNUSED)
+;MQ201ThalmorDisguise [0x10F5E2~Skyrim.esm] (UNUSED)
 
 
 
