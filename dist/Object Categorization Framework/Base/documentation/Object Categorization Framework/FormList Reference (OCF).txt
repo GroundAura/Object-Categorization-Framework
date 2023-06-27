@@ -31,7 +31,6 @@ OCF_FL_HeatSource_Any [0xA2B~OCF.esp]
    OCF_FL_HeatSource_Large [0xA26~OCF.esp]
    OCF_FL_HeatSource_Medium [0xA27~OCF.esp]
    OCF_FL_HeatSource_Small [0xA28~OCF.esp]
-   OCF_FL_HeatSource_Tiny [0xA29~OCF.esp]
 
 OCF_FL_WoodSource [0xA24~OCF.esp]
 
