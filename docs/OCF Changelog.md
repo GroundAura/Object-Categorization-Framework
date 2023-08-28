@@ -2,6 +2,8 @@
 
 ## Version 4.2.0
 
+- **Now requires** FLM v1.7.1+.
+
 - **FOMOD:** Added coin color option.
 
 - **Conditional Keyword Categorization added:** silver coin (MISC), copper coin (MISC).
