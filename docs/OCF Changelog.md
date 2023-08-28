@@ -1,5 +1,11 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.2.1
+
+- **Keyword Categorization added:** Amazing Follower Tweaks (MGEF), Become a Bard (ARMO, BOOK, MGEF), Cathedral Weathers (MGEF), Claim a Horse (MGEF), Convenient Horses (MGEF), Dwemer Goggles & Scouter (MGEF), fireundubh's Stay With Me (MGEF), Followers Can Loot (MGEF), Hearthfire Multiple Adoptions (MGEF), Immersive Horses (MGEF), Obsidian Weathers (MGEF), One-Handed Crossbow Framework (MGEF), Predator Vision (MGEF), Swiftly Order Squad - Horn (MISC), Throwable Items (MGEF), Vision (ARMO, MGEF).
+
+- **Keyword Categorization tweaked:** Add Item Menu (MGEF), Frostfall (MGEF), Gold Master (MGEF), Nether's Follower Framework (MGEF), Pick the Unpickable (MGEF), Universal Unwanted Effects Clearer (MGEF), Wearable Lanterns (MGEF), other (MGEF).
+
 ## Version 4.2.0
 
 - **Recommended to update** to FLM v1.7.1+ and KID v3.0.3+ for bugfixes.
