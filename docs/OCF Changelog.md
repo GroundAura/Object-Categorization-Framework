@@ -2,7 +2,7 @@
 
 ## Version 4.2.0
 
-- **Now requires** FLM v1.7.1+ and KID v3.0.3+.
+- **Recommended to update** to FLM v1.7.1+ and KID v3.0.3+ for bugfixes.
 
 - **FOMOD:** Added coin color option.
 
