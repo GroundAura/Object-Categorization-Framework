@@ -1,5 +1,15 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.2.2
+
+- **FLM filters added:** Throwing Weapons Darts, Throwing Weapons Lite.
+
+- **FormList Categorization added:** Throwing Weapons Darts (PROJ), Throwing Weapons Lite (EXPL, HAZD).
+
+- **Keyword Categorization added:** CBBE 3BA (ARMO, MGEF), Gladys the Corgi (MISC, SCRL), Shuriken Scrolls (MGEF, SCRL), Stay In Shape (MGEF), Throwing Weapons Darts (SCRL), Throwing Weapons Lite (BOOK, MGEF), Tidy Up (MGEF), Try This Outfit (ARMO, MGEF).
+
+- **Keyword Categorization tweaked:** Frostfall (MGEF), other (BOOK, MGEF, SCRL).
+
 ## Version 4.2.1
 
 - **Keyword Categorization added:** Amazing Follower Tweaks (MGEF), Become a Bard (ARMO, BOOK, MGEF), Cathedral Weathers (MGEF), Claim a Horse (MGEF), Convenient Horses (MGEF), Dwemer Goggles & Scouter (MGEF), fireundubh's Stay With Me (MGEF), Followers Can Loot (MGEF), Hearthfire Multiple Adoptions (MGEF), Immersive Horses (MGEF), Obsidian Weathers (MGEF), One-Handed Crossbow Framework (MGEF), Predator Vision (MGEF), Swiftly Order Squad - Horn (MISC), Throwable Items (MGEF), Vision (ARMO, MGEF).
