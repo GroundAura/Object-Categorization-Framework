@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.2.4
+
+- **Keyword Categorization fixed:** Vanilla (MGEF). Fixed broken syntax that caused CTDs for some people.
+
 ## Version 4.2.3
 
 **Now requires** Keyword Item Distributer v3.0.4+. For critical bugfix and new filtering feature.
