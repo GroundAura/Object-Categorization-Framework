@@ -1,5 +1,17 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.2.3
+
+**Now requires** Keyword Item Distributer v3.0.4+. For critical bugfix and new filtering feature.
+
+- **FLM filters added:** Elemental Destruction Magic, Elemental Destruction Magic Redux, Plantable Roses of Remembrance.
+
+- **FormList Categorization added:** Plantable Roses of Remembrance (TREE).
+
+- **Keyword Categorization added:** Bats Swarm Teleport (MGEF), Elemental Destruction Magic (MGEF), Elemental Destruction Magic Redux (MGEF), Equippable Underwear for NPCs (ARMO), Flying Mod Beta (MGEF), Mist Flight Mod (MGEF), ModiLogist Underwear for NPCs (ARMO), NPC Underwear Distribution Engine (ARMO), NPC Underwear Distribution Engine Underwear.dll (ARMO), Plantable Roses of Remembrance (INGR), Underwear.dll (ARMO).
+
+- **Keyword Categorization tweaked:** Vanilla (MGEF, MISC), CBBE Standalone Underwear (ARMO), COCO Lingerie (ARMO), COCO Ronin (ARMO), Scion (MGEF), other (ARMO, MGEF).
+
 ## Version 4.2.2
 
 - **FLM filters added:** Throwing Weapons Darts, Throwing Weapons Lite.
