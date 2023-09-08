@@ -1,5 +1,13 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.2.5
+
+- **FLM filters added:** Armor Clothes & Weapon Framework, BS Bruma CC Goblins CACO Patch, CACO BS Bruma Patch, CACO BS Bruma CC Goblins Patch, CACO BS Bruma Rare Curios Patch, CACO Rare Curios Patch, Rare Curios BS Bruma Synergy Patch, other.
+
+- **Keyword Categorization added:** Beyond Skyrim Assets (ACTI), Beyond Skyrim Bruma (ACTI), CACO Beyond Skyrim Bruma Patch (ALCH), Goblins Spears Addon (WEAP), Missile's CC Goblins Addon (BOOK, INGR, WEAP), Simple Hunting Overhaul - Ingredients Addon (INGR).
+
+- **Keyword Categorization tweaked:** Vanilla (ACTI).
+
 ## Version 4.2.4
 
 - **Keyword Categorization fixed:** Vanilla (MGEF). Fixed broken syntax that caused CTDs for some people.
