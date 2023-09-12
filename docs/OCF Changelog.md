@@ -1,5 +1,11 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.2.6
+
+- **Keyword Categorization added:** Armors of the Velothi Pt.I (ARMO), Armors of the Velothi Pt.II (ARMO, WEAP), Mihail's Bone Colossus (WEAP).
+
+- **Keyword Categorization tweaked:** Other (ARMO).
+
 ## Version 4.2.5
 
 - **FLM filters added:** Armor Clothes & Weapon Framework, BS Bruma CC Goblins CACO Patch, CACO BS Bruma Patch, CACO BS Bruma CC Goblins Patch, CACO BS Bruma Rare Curios Patch, CACO Rare Curios Patch, Rare Curios BS Bruma Synergy Patch, other.
