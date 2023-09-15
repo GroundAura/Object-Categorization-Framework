@@ -1,5 +1,23 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.3.0
+
+- **Keywords (`ALCH`) added:** `OCF_AlchPowder_Frost`, `OCF_MiscEmptyVessel_Bottle`, `OCF_MiscEmptyVessel_Jar`, `OCF_VesselJar`, `OCF_VesselWaterskin_100`, `OCF_VesselWaterskin_075` `OCF_VesselWaterskin_066`, `OCF_VesselWaterskin_050`, `OCF_VesselWaterskin_033`, `OCF_VesselWaterskin_025`.
+
+- **Keywords (`ALCH`) changed:** `OCF_MiscEmptyVessel_Waterskin` changed to `OCF_VesselWaterskin_000`.
+
+- **Keywords (`MGEF`) added:** `OCF_MgefPowerAction_StatusLastSeed`, `OCF_MgefPowerConfigWeatherChanger`.
+
+- **Keywords (`MISC`) added:** `OCF_VesselWaterskin`, `OCF_VesselWaterskin_100`.
+
+- **Keywords (`MISC`) changed:** `OCF_MiscEmptyVessel_Waterskin` changed to `OCF_VesselWaterskin_000`.
+
+- **Keywords (`SPEL`) added:** `OCF_SpelClassSurvival_Needs`, `OCF_SpelPowerAction_FillWater`, `OCF_SpelPowerAction_StatusLastSeed`, `OCF_SpelPowerConfig`, `OCF_SpelSpellDamage_Necrotic`, `OCF_SpelSpellSacrifice`.
+
+- **Keyword Categorization added:** Last Seed (`ALCH`, `MGEF`, `MISC`, `SPEL`), Last Seed CACO Patch (`MISC`), Phenderix Dynamic Spawner (`MGEF`, `SPEL`), Phenderix Weather Changer (`MGEF`, `SPEL`).
+
+- **Keyword Categorization tweaked:** Bosmeri Cuisine (`ALCH`), iNeed (`ALCH`, `MISC`), Realistic Needs & Diseases (`ALCH`, `MISC`), SunHelm (`ALCH`, `MISC`), other (`ALCH`, `MISC`).
+
 ## Version 4.2.6
 
 - **Keyword Categorization added:** Armors of the Velothi Pt.I (ARMO), Armors of the Velothi Pt.II (ARMO, WEAP), Mihail's Bone Colossus (WEAP).
