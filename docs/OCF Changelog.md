@@ -8,7 +8,7 @@
 
 - **Keywords (`MGEF`) added:** `OCF_MgefPowerAction_StatusLastSeed`, `OCF_MgefPowerConfigWeatherChanger`.
 
-- **Keywords (`MISC`) added:** `OCF_VesselWaterskin`, `OCF_VesselWaterskin_100`.
+- **Keywords (`MISC`) added:** `OCF_IngrMisc_Mineral`, `OCF_VesselWaterskin`, `OCF_VesselWaterskin_100`.
 
 - **Keywords (`MISC`) changed:** `OCF_MiscEmptyVessel_Waterskin` changed to `OCF_VesselWaterskin_000`.
 
