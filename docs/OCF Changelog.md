@@ -2,6 +2,12 @@
 
 ## Version 4.4.0
 
+- **ESP:** Added several weapon type keywords to OCF.esp (`OCF.esp|xxx`).
+
+- **ESP:** Added the rest of keywords from the AE version of Update.esm to OCF.esp (`Update.esm|xxxxxx`).
+
+- **ESP:** Added a bunch of injected keywords from other mods to OCF.esp (`Update.esm|xxxxxx`).
+
 - **Keywords (`ALCH`) added:** `OCF_MiscWashcloth`.
 
 - **Keyword Categorization added:** EatingSleepingDrinking (`ALCH`, `BOOK`, `MISC`, `WEAP`).
