@@ -1,5 +1,11 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.4.0
+
+- **Keywords (`ALCH`) added:** `OCF_MiscWashcloth`.
+
+- **Keyword Categorization added:** EatingSleepingDrinking (`ALCH`, `BOOK`, `MISC`, `WEAP`).
+
 ## Version 4.3.0
 
 - **Keywords (`ALCH`) added:** `OCF_AlchPowder_Frost`, `OCF_MiscEmptyVessel_Bottle`, `OCF_MiscEmptyVessel_Jar`, `OCF_VesselJar`, `OCF_VesselWaterskin_100`, `OCF_VesselWaterskin_075` `OCF_VesselWaterskin_066`, `OCF_VesselWaterskin_050`, `OCF_VesselWaterskin_033`, `OCF_VesselWaterskin_025`.
