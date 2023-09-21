@@ -1,8 +1,6 @@
 # [**OCF Wiki**](https://github.com/GroundAura/Object-Categorization-Framework/wiki)
 
----
-
-## [**FormList Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference)
+# [**FormList [`FLST`] Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference)
 
 ### **AMMUNITION [`AMMO`]**
 
@@ -81,7 +79,7 @@
 
 ---
 
-## [**Keyword Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference)
+# [**Keyword [`KYWD`] Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference)
 
 ### **ACTIVATOR [`ACTI`]**
 
