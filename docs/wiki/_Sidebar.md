@@ -1,8 +1,6 @@
 # [**Object Categorization Framework**](https://github.com/GroundAura/Object-Categorization-Framework/wiki)
 
----
-
-## [**FormList Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference)
+# [**FormList Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference)
 
 #### **AMMUNITION [`AMMO`]**
 - [Item](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#item)
@@ -64,7 +62,9 @@
 
 ---
 
-## [**Keyword Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference)
+---
+
+# [**Keyword Reference**](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference)
 
 #### **ACTIVATOR [`ACTI`]**
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#temperature)
