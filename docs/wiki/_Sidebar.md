@@ -12,31 +12,31 @@
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#temperature)
 
-#### **[CONTAINER [`CONT`]**
+#### **CONTAINER [`CONT`]**
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#type)
 
-#### **[DOOR [`DOOR`]**
+#### **DOOR [`DOOR`]**
 
 - [Trap](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#trap)
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#type-1)
 
-#### **[EXPLOSION [`EXPL`]**
+#### **EXPLOSION [`EXPL`]**
 
 - [Element](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#element)
 
-#### **[FACTION [`FACT`]**
+#### **FACTION [`FACT`]**
 
 - [Hostility](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#hostility)
 
-#### **[HAZARD [`HAZD`]**
+#### **HAZARD [`HAZD`]**
 
 - [Element](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#element-1)
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#temperature-1)
 
-#### **[LIGHT [`LIGH`]**
+#### **LIGHT [`LIGH`]**
 
 - [Element](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#element-2)
 
@@ -44,11 +44,11 @@
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#temperature-2)
 
-#### **[MOVEABLE STATIC [`MSTT`]**
+#### **MOVEABLE STATIC [`MSTT`]**
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#temperature-3)
 
-#### **[PROJECTILE [`PROJ`]**
+#### **PROJECTILE [`PROJ`]**
 
 - [Element](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#element-3)
 
@@ -58,11 +58,11 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#type-2)
 
-#### **[SOUND MARKER [`SOUN`]**
+#### **SOUND MARKER [`SOUN`]**
 
 - [Resources](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#resources)
 
-#### **[STATIC [`STAT`]**
+#### **STATIC [`STAT`]**
 
 - [Resources](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#resources-1)
 
@@ -70,13 +70,13 @@
 
 - [Trap](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#trap-2)
 
-#### **[TREE [`TREE`]**
+#### **TREE [`TREE`]**
 
 - [Harvestable](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#harvestable)
 
 - [Resources](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#resources-2)
 
-#### **[WORLDSPACE [`WRLD`]**
+#### **WORLDSPACE [`WRLD`]**
 
 - [Plane](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#plane-1)
 
@@ -84,13 +84,13 @@
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#temperature-6)
 
-#### **[WEATHER [`WTHR`]**
+#### **WEATHER [`WTHR`]**
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference#type-3)
 
 ## [Keyword Reference](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference)
 
-#### **[ACTIVATOR [`ACTI`]**
+#### **ACTIVATOR [`ACTI`]**
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#temperature)
 
@@ -98,7 +98,7 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type)
 
-#### **[AMMUNITION [`AMMO`]**
+#### **AMMUNITION [`AMMO`]**
 
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color)
 
@@ -114,7 +114,7 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-1)
 
-#### **[ARMOR [`ARMO`]**
+#### **ARMOR [`ARMO`]**
 
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts)
 
@@ -152,7 +152,7 @@
 
 - [Uniform](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#uniform)
 
-#### **[BOOK [`BOOK`]**
+#### **BOOK [`BOOK`]**
 
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-1)
 
@@ -162,11 +162,11 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-2)
 
-#### **[FLORA [`FLOR`]**
+#### **FLORA [`FLOR`]**
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-3)
 
-#### **[FURNITURE [`FURN`]**
+#### **FURNITURE [`FURN`]**
 
 - [Craft](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#craft)
 
@@ -174,7 +174,7 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-4)
 
-#### **[INGESTIBLE [`ALCH`]**
+#### **INGESTIBLE [`ALCH`]**
 
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-2)
 
@@ -196,7 +196,7 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-5)
 
-#### **[INGREDIENT [`INGR`]**
+#### **INGREDIENT [`INGR`]**
 
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-3)
 
@@ -210,11 +210,11 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-6)
 
-#### **[KEY [`KEYM`]**
+#### **KEY [`KEYM`]**
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-7)
 
-#### **[LOCATION [`LCTN`]**
+#### **LOCATION [`LCTN`]**
 
 - [Plane](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#plane)
 
@@ -224,7 +224,7 @@
 
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-1)
 
-#### **[MAGIC EFFECT [`MGEF`]**
+#### **MAGIC EFFECT [`MGEF`]**
 
 - [Class](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#class)
 
@@ -238,7 +238,7 @@
 
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-2)
 
-#### **[MISC. ITEM [`MISC`]**
+#### **MISC. ITEM [`MISC`]**
 
 - [Animal Part](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#animal-part)
 
@@ -252,19 +252,19 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-8)
 
-#### **[NON-PLAYER CHARACTER (ACTOR) [`NPC_`]**
+#### **NON-PLAYER CHARACTER (ACTOR) [`NPC_`]**
 
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#temperature-3)
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-9)
 
-#### **[RACE [`RACE`]**
+#### **RACE [`RACE`]**
 
 - [Type A](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-a-3)
 
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-3)
 
-#### **[SCROLL [`SCRL`]**
+#### **SCROLL [`SCRL`]**
 
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-6)
 
@@ -274,7 +274,7 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-10)
 
-#### **[SOUL GEM [`SLGM`]**
+#### **SOUL GEM [`SLGM`]**
 
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-5)
 
@@ -290,7 +290,7 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-11)
 
-#### **[SPELL [`SPEL`]**
+#### **SPELL [`SPEL`]**
 
 - [Class](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#class-1)
 
@@ -300,11 +300,11 @@
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-12)
 
-#### **[TALKING ACTIVATOR [`TACT`]**
+#### **TALKING ACTIVATOR [`TACT`]**
 
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-13)
 
-#### **[WEAPON [`WEAP`]**
+#### **WEAPON [`WEAP`]**
 
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-6)
 
