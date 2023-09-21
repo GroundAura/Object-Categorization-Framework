@@ -7,6 +7,7 @@
 .build/old/*.7z
 .build/old/*.rar
 .build/old/*.zip
+.idea/(old)/
 .idea/closed/
 .idea/hidden/
 .idea/licensed/

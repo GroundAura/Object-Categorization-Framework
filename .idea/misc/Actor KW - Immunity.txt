@@ -1,0 +1,26 @@
+NPC/RACE Keywords
+
+[Skyrim.esm]
+AmbushSpiderGiant
+AmbushSpiderLarge
+AmbushSpiderSmall
+ImmuneParalysis
+ImmuneStrongUnrelentingForce
+MagicNoDistintegrate
+MagicNoInvisibility
+MagicNoReanimate
+NoDecapitate
+NoDetectLife
+NoSoulTrap
+
+[Update.esm]
+DA15WabbajackExcludedKeyword
+ImmuneDragonPairedKill
+CommandedVoiceExcluded
+
+[Dawnguard.esm]
+DLC1LD_ImmuneToAetherialShield
+ActorTypeDLC1Boss
+DLC1WerewolfFeedExclude
+
+

@@ -1,0 +1,1 @@
+A framework that creates and distributes categories to items and other base objects from hundreds of mods using KID, FLM, and SPID.
