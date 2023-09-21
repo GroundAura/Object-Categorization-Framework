@@ -1,0 +1,1 @@
+![OCF Logo](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/brand/Header.png)
