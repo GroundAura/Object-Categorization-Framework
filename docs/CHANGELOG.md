@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.5.0
+
+- **Keyword Categorization added:** Oldrim CBBE Hands for SSE (`ARMO`).
+
 ## Version 4.4.0
 
 - **ESP:** Added several weapon type keywords to OCF.esp (`OCF.esp|xxx`).
