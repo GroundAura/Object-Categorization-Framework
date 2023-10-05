@@ -6,7 +6,7 @@
 
 ### Item
 
-> Used as way to import [`AMMO`] items into FormLists, as currently creating ammo collections in FLM v1.7.0 causes CTDs.
+> Used as way to import [`AMMO`] items into FormLists, as creating ammo collections in FLM v1.7.0 causes CTDs. This is fixed as of FLM v1.7.1, so I will eventually be moving ammo categorization from FormLists to Keywords and FLM collections.
 
 - `OCF_FL_AMMO_Playable`
 

@@ -3000,7 +3000,7 @@
 
     - `OCF_MiscMaterial_Stone`
 
-    - `VendorItemFireword` \[`0xBECD7~Skyrim.esm`\]
+    - `VendorItemFireword` [[sic](https://en.wikipedia.org/wiki/Sic)] \[`0xBECD7~Skyrim.esm`\]
 
   - `OCF_MiscMaterialSmithing`
 
