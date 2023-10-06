@@ -2830,6 +2830,8 @@
 
 - `OCF_VesselFlask`
 
+- `OCF_VesselGamePiece`
+
 - ~~`OCF_VesselHoneyPot`~~ **UNUSED**
 
 - `OCF_VesselJug`
@@ -2909,6 +2911,14 @@
 - `OCF_AlchSpoiled`
 
 - `OCF_AmmoTypeArrow`
+
+- `OCF_AmmoTypeBullet`
+
+  - `OCF_AmmoTypeBullet1H`
+
+    - `OCF_AmmoTypeBullet1H_Basic`
+
+  - ~~`OCF_AmmoTypeBullet2H`~~ **UNUSED**
 
 - `OCF_BookTextAncient`
 
@@ -3834,7 +3844,7 @@
 
 ### Type
 
-- ~~`OCF_SpelPowerAction`~~ **UNUSED**
+- `OCF_SpelPowerAction`
 
   - ~~`OCF_SpelPowerAction_Bag`~~ **UNUSED**
 
@@ -4986,7 +4996,7 @@
 
         - ~~`OCF_WeapTypeGun1H_BasicAxe`~~ **UNUSED**
 
-        - ~~`OCF_WeapTypeGun1H_BasicSword`~~ **UNUSED**
+        - `OCF_WeapTypeGun1H_BasicSword`
 
       - `OCF_WeapTypeGun1H_Energy` \[`0x856~OCF.esp`\]
 

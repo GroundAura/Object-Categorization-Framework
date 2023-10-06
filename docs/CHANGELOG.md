@@ -2,7 +2,19 @@
 
 ## Version 4.5.0
 
-- **Keyword Categorization added:** Oldrim CBBE Hands for SSE (`ARMO`).
+- **FLM filters added:** Triple Triad.
+
+- **FormList Categorization added:** Triple Triad (`PROJ`).
+
+- **Keywords (`MISC`) added:** `OCF_AmmoTypeBullet`, `OCF_AmmoTypeBullet1H`, `OCF_AmmoTypeBullet1H_Basic`, `OCF_VesselGamePiece`.
+
+- **Keywords (`SPEL`) added:** `OCF_SpelPowerAction`.
+
+- **Keywords (`WEAP`) added:** `OCF_WeapTypeGun1H_BasicSword`.
+
+- **Keyword Categorization added:** Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`).
+
+- **Keyword Categorization tweaked:** Vanilla (`MISC`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`).
 
 ## Version 4.4.0
 
