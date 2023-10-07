@@ -6,15 +6,23 @@
 
 - **FormList Categorization added:** Triple Triad (`PROJ`).
 
+- **Keywords (`ARMO`) added:** `OCF_ArtifactAedric_Worship`, `OCF_ArtifactDaedric_Worship`.
+
+- **Keywords (`ARMO`) removed:** `OCF_ArmorWintersun`.
+
+- **Keywords (`BOOK`) added:** `OCF_InvColorEldritch`.
+
+- **Keywords (`MGEF`) added:** `OCF_MgefSpellDamage_Holy`.
+
 - **Keywords (`MISC`) added:** `OCF_AmmoTypeBullet`, `OCF_AmmoTypeBullet1H`, `OCF_AmmoTypeBullet1H_Basic`, `OCF_Replica`, `OCF_VesselGamePiece`.
 
-- **Keywords (`SPEL`) added:** `OCF_SpelPowerAction`, `OCF_SpelSpellBound`, `OCF_SpelSpellBound_Weapon`.
+- **Keywords (`SPEL`) added:** `OCF_SpelClassHoly`, `OCF_SpelPowerAction`, `OCF_SpelPowerAction_Pray`, `OCF_SpelSpellBound`, `OCF_SpelSpellBound_Weapon`, `OCF_SpelSpellDamage_Holy`, `OCF_SpelSpellSpace_Teleport`.
 
 - **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_WeapTypeGun1H_BasicSword`.
 
-- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`).
+- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
 
-- **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Complete Crafting Overhaul Remastered (`WEAP`), Reforging to the Masses (`WEAP`), Wyrmstooth (`WEAP`).
+- **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Complete Crafting Overhaul Remastered (`WEAP`), Reforging to the Masses (`WEAP`), Wintersun (`ARMO`, `BOOK`, `MGEF`), Wyrmstooth (`WEAP`).
 
 ## Version 4.4.0
 

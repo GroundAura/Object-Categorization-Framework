@@ -102,6 +102,7 @@
 
 ### **BOOK [`BOOK`]**
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-1)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-2)
 - [Inventory Sorting](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-sorting)
 - [Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#model)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-2)
@@ -120,7 +121,7 @@
 - [Blood](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#blood)
 - [Food Condition](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#food-condition)
 - [Green Pact](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#green-pact)
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-2)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-3)
 - [Inventory Sorting](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-sorting-1)
 - [Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#model-1)
 - [Throwable](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#throwable-1)
@@ -130,7 +131,7 @@
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-3)
 - [Food Condition](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#food-condition-1)
 - [Green Pact](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#green-pact-1)
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-3)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-4)
 - [Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#model-2)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-6)
 
@@ -146,7 +147,7 @@
 ### **MAGIC EFFECT [`MGEF`]**
 - [Class](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#class)
 - [Delivery](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#delivery)
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-4)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-5)
 - [Inventory Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-model)
 - [Type A](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-a-2)
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-2)
@@ -154,7 +155,7 @@
 ### **MISC. ITEM [`MISC`]**
 - [Animal Part](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#animal-part)
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-4)
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-5)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-6)
 - [Inventory Sorting](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-sorting-2)
 - [Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#model-3)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-8)
@@ -168,7 +169,7 @@
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-3)
 
 ### **SCROLL [`SCRL`]**
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-6)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-7)
 - [Material B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#material-b-2)
 - [Throwable](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#throwable-2)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-10)
@@ -177,7 +178,7 @@
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-5)
 - [Gem Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gem-color)
 - [Gem Size](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gem-size)
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-7)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-8)
 - [Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#model-4)
 - [Soul Size](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#soul-size)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-11)
@@ -197,7 +198,7 @@
 - [Contains Metals](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-metals-1)
 - [Gathering](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gathering-1)
 - [Grip](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#grip)
-- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-8)
+- [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-9)
 - [Inventory Material](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-material-2)
 - [Inventory Style](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-style-2)
 - [Material A](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#material-a-2)

@@ -294,6 +294,8 @@
 
     - `OCF_ArtifactAedric_RingWind` – The [Ring of the Wind](https://en.uesp.net/wiki/Lore:Ring_of_the_Wind).
 
+    - `OCF_ArtifactAedric_Worship`
+
   - `OCF_ArtifactDaedric` – An [artifact](https://en.uesp.net/wiki/Lore:Artifacts) with [Daedric](https://en.uesp.net/wiki/Lore:Daedra) ([Princely](https://en.uesp.net/wiki/Lore:Daedric_Princes) or otherwise) origins and/or associations.
 
     - `OCF_ArtifactDaedric_EbonyMail` – The [Ebony Mail](https://en.uesp.net/wiki/Lore:Ebony_Mail).
@@ -325,6 +327,8 @@
     - `OCF_ArtifactDaedric_SaviorHide` – The [Savior's Hide](https://en.uesp.net/wiki/Lore:Savior%27s_Hide).
 
     - `OCF_ArtifactDaedric_Spellbreaker` – [Spellbreaker](https://en.uesp.net/wiki/Lore:Spellbreaker).
+
+    - `OCF_ArtifactDaedric_Worship`
 
   - `OCF_ArtifactDwarven` – An [artifact](https://en.uesp.net/wiki/Lore:Artifacts) with [Dwemer](https://en.uesp.net/wiki/Lore:Dwemer) origins and/or associations.
 
@@ -948,7 +952,9 @@
 
     - `OCF_AccessoryTattoo`
 
-    - `OCF_ArmorWintersun`
+    - `OCF_ArtifactAedric_Worship`
+
+    - `OCF_ArtifactDaedric_Worship`
 
     - `OCF_BookTextMap`
 
@@ -1033,6 +1039,14 @@
     - `OCF_ReplicaDaedric_BlackBook` – An imitation or replica of a [Black Book](https://en.uesp.net/wiki/Lore:Black_Books).
 
     - `OCF_ReplicaDaedric_OghmaInfinium` – An imitation or replica of the [Oghma Infinium](https://en.uesp.net/wiki/Lore:Oghma_Infinium).
+
+### Inventory Color
+
+- ~~`OCF_InvColorAedric`~~ **UNUSED**
+
+- ~~`OCF_InvColorDaedric`~~ **UNUSED**
+
+- `OCF_InvColorEldritch`
 
 ### Inventory Sorting
 
@@ -3776,7 +3790,7 @@
 
 - ~~`OCF_SpelClassGeneral`~~ **UNUSED**
 
-- ~~`OCF_SpelClassHoly`~~ **UNUSED**
+- `OCF_SpelClassHoly`
 
 - ~~`OCF_SpelClassMind`~~ **UNUSED**
 
@@ -3898,7 +3912,7 @@
 
   - ~~`OCF_SpelPowerAction_Potion`~~ **UNUSED**
 
-  - ~~`OCF_SpelPowerAction_Pray`~~ **UNUSED**
+  - `OCF_SpelPowerAction_Pray`
 
   - ~~`OCF_SpelPowerAction_Relax`~~ **UNUSED**
 
@@ -4040,7 +4054,7 @@
 
 - ~~`OCF_SpelSpellDamage_FrostFireCloak`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellDamage_Holy`~~ **UNUSED**
+- `OCF_SpelSpellDamage_Holy`
 
 - ~~`OCF_SpelSpellDamage_HolyCloak`~~ **UNUSED**
 
@@ -4320,7 +4334,7 @@
 
   - ~~`OCF_SpelSpellSpace_Banish`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellSpace_Teleport`~~ **UNUSED**
+  - `OCF_SpelSpellSpace_Teleport`
 
 - ~~`OCF_SpelSpellStealth`~~ **UNUSED**
 
