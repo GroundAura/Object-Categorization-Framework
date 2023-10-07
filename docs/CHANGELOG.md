@@ -6,15 +6,15 @@
 
 - **FormList Categorization added:** Triple Triad (`PROJ`).
 
-- **Keywords (`MISC`) added:** `OCF_AmmoTypeBullet`, `OCF_AmmoTypeBullet1H`, `OCF_AmmoTypeBullet1H_Basic`, `OCF_VesselGamePiece`.
+- **Keywords (`MISC`) added:** `OCF_AmmoTypeBullet`, `OCF_AmmoTypeBullet1H`, `OCF_AmmoTypeBullet1H_Basic`, `OCF_Replica`, `OCF_VesselGamePiece`.
 
-- **Keywords (`SPEL`) added:** `OCF_SpelPowerAction`.
+- **Keywords (`SPEL`) added:** `OCF_SpelPowerAction`, `OCF_SpelSpellBound`, `OCF_SpelSpellBound_Weapon`.
 
-- **Keywords (`WEAP`) added:** `OCF_WeapTypeGun1H_BasicSword`.
+- **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_WeapTypeGun1H_BasicSword`.
 
-- **Keyword Categorization added:** Bathing in Skyrim (`MISC`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`).
+- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`).
 
-- **Keyword Categorization tweaked:** Vanilla (`MISC`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`).
+- **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Complete Crafting Overhaul Remastered (`WEAP`), Reforging to the Masses (`WEAP`), Wyrmstooth (`WEAP`).
 
 ## Version 4.4.0
 

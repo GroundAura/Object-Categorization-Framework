@@ -2740,7 +2740,7 @@
 
     - `OCF_RelicNordic_SkullKey`
 
-- ~~`OCF_Replica` – An imitation or replica of an artifact, relic, or other item.~~ **UNUSED**
+- `OCF_Replica` – An imitation or replica of an artifact, relic, or other item.
 
 ### Inventory Color
 
@@ -3936,7 +3936,7 @@
 
 - ~~`OCF_SpelSpellAssist_MovementSpeedDruid`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellBound`~~ **UNUSED**
+- `OCF_SpelSpellBound`
 
   - ~~`OCF_SpelSpellBound_Ammo`~~ **UNUSED**
 
@@ -3944,7 +3944,7 @@
 
   - ~~`OCF_SpelSpellBound_MiscItem`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellBound_Weapon`~~ **UNUSED**
+  - `OCF_SpelSpellBound_Weapon`
 
 - ~~`OCF_SpelSpellCounter_Astral`~~ **UNUSED**
 
@@ -4630,9 +4630,17 @@
 
     - `OCF_ReplicaLegendary_BlackwaterBlade`
 
+    - `OCF_ReplicaLegendary_Bloodskal`
+
     - `OCF_ReplicaLegendary_Chillrend`
 
     - `OCF_ReplicaLegendary_CyrusSabre`
+
+    - `OCF_ReplicaLegendary_Dawnguard`
+
+      - `OCF_ReplicaLegendary_DawnguardRuneAxe`
+
+      - `OCF_ReplicaLegendary_DawnguardRuneHammer`
 
     - `OCF_ReplicaLegendary_Nettlebane`
 
@@ -4739,6 +4747,8 @@
   - ~~`OCF_VesselBottlePoison`~~ **UNUSED**
 
   - ~~`OCF_VesselBottlePotion`~~ **UNUSED**
+
+- `OCF_WeapBroken`
 
 ### Throwable
 
