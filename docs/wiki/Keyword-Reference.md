@@ -792,6 +792,8 @@
 
   - `ClothingHighNecklace` \[`0xFB81E~Update.esm`\]
 
+  - ~~`OCF_BodyTypeAbs`~~ **UNUSED**
+
   - `OCF_BodyTypeCollar`
 
   - `OCF_BodyTypeCorset`
@@ -815,6 +817,8 @@
   - `OCF_BodyTypeScarf`
 
   - `OCF_BodyTypeSkirt`
+
+  - ~~`OCF_BodyTypeSpine`~~ **UNUSED**
 
   - `OCF_BodyTypeTail`
 
@@ -929,6 +933,8 @@
     - `OCF_AccessoryBelt`
 
     - `OCF_AccessoryBeltBook`
+
+    - ~~`OCF_AccessoryFlower`~~ **UNUSED**
 
     - `OCF_AccessoryJewelry`
 
