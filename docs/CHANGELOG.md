@@ -20,7 +20,7 @@
 
 - **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_WeapTypeGun1H_BasicSword`.
 
-- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
+- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Hunterborn Extender (`MGEF`, `SPEL`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
 
 - **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Complete Crafting Overhaul Remastered (`WEAP`), Reforging to the Masses (`WEAP`), Wintersun (`ARMO`, `BOOK`, `MGEF`), Wyrmstooth (`WEAP`).
 
