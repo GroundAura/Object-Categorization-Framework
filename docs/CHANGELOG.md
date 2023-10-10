@@ -4,6 +4,8 @@
 
 - **FLM filters added:** Triple Triad.
 
+- **FLM filters fixed:** Oblivion Atronach Forge Overhaul.
+
 - **FormList Categorization added:** Triple Triad (`PROJ`).
 
 - **Keywords (`ARMO`) added:** `OCF_ArtifactAedric_Worship`, `OCF_ArtifactDaedric_Worship`.
