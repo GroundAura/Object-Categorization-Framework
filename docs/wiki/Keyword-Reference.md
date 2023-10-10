@@ -4778,6 +4778,10 @@
 
 - `OCF_Tool`
 
+  - `OCF_ToolBroom`
+
+  - ~~`OCF_ToolScissors`~~ **UNUSED**
+
   - `OCF_ToolShovel`
 
   - `OCF_WeapTypeFishingRod1H` \[`0x81F~OCF.esp`\]
@@ -4842,6 +4846,8 @@
 
       - `OCF_WeapTypeLightsaber1H_2Blade` \[`0x80D~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeLongsword1H`~~ **UNUSED**
+
     - ~~`OCF_WeapTypeMassiveSword1H`~~ **UNUSED**
 
     - `OCF_WeapTypeRapier1H` \[`0x777774~Update.esm`\]
@@ -4890,9 +4896,13 @@
 
     - `OCF_WeapTypeFishingRod1H` \[`0x81F~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeGoedendag1H`~~ **UNUSED**
+
     - `OCF_WeapTypeHammer1H` \[`0x820~OCF.esp`\]
 
     - `OCF_WeapTypeMace1H` \[`0x821~OCF.esp`\]
+
+      - ~~`OCF_WeapTypeMaceFlanged1H`~~ **UNUSED**
 
     - `OCF_WeapTypeQuarterstaff1H` \[`0x823~OCF.esp`\]
 
@@ -4972,7 +4982,11 @@
 
     - `OCF_WeapTypeClub2H` \[`0x83F~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeGoedendag2H`~~ **UNUSED**
+
     - `OCF_WeapTypeMace2H` \[`0x840~OCF.esp`\]
+
+      - ~~`OCF_WeapTypeMaceFlanged2H`~~ **UNUSED**
 
     - `OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]
 
@@ -5088,10 +5102,10 @@
 
 ### Type B
 
-- ~~`OCF_WeapTypeCurvedSword1H` \[`0x864~OCF.esp`\] – Any 1H blade that's curved. Includes all weapons with the keywords `OCF_WeapTypeSaber1H` or `OCF_WeapTypeScimitar1H`, and any weapons with the keyword `OCF_WeapTypeSword1H` that also fit the description.~~ **UNUSED**
+- `OCF_WeapTypeCurvedSword1H` \[`0x864~OCF.esp`\] – Any 1H blade that's curved. Includes all weapons with the keywords `OCF_WeapTypeSaber1H` or `OCF_WeapTypeScimitar1H`, and any weapons with the keyword `OCF_WeapTypeSword1H` that also fit the description.
 
-- ~~`OCF_WeapTypeCurvedSword2H` \[`0x865~OCF.esp`\] – Any 2H blade that's curved. Includes all weapons with the keywords `OCF_WeapTypeSaber2H` or `OCF_WeapTypeScimitar2H`, and any weapons with the keyword `OCF_WeapTypeGreatsword2H` that also fit the description.~~ **UNUSED**
+- `OCF_WeapTypeCurvedSword2H` \[`0x865~OCF.esp`\] – Any 2H blade that's curved. Includes all weapons with the keywords `OCF_WeapTypeSaber2H` or `OCF_WeapTypeScimitar2H`, and any weapons with the keyword `OCF_WeapTypeGreatsword2H` that also fit the description.
 
-- ~~`OCF_WeapTypeWakizashi1H` \[`0x822~OCF.esp`\] – Any 1H blade with the name "Wakizashi". Includes any weapons with the keywords `OCF_WeapTypeTanto1H` or `OCF_WeapTypeKatana1H` that fit the description.~~ **UNUSED**
+- `OCF_WeapTypeWakizashi1H` \[`0x822~OCF.esp`\] – Any 1H blade with the name "Wakizashi". Includes any weapons with the keywords `OCF_WeapTypeTanto1H` or `OCF_WeapTypeKatana1H` that fit the description.
 
 ---
