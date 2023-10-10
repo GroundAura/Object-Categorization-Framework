@@ -4856,6 +4856,8 @@
 
     - `OCF_WeapTypeTwinblade1H` \[`0x811~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeTwinSword1H`~~ **UNUSED**
+
   - `WeapTypeWarAxe` \[`0x1E712~Skyrim.esm`\]
 
     - `OCF_WeapTypeCleaver1H` \[`0x812~OCF.esp`\]
@@ -4944,6 +4946,8 @@
 
     - `OCF_WeapTypeTwinblade2H` \[`0x836~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeTwinSword2H`~~ **UNUSED**
+
   - `WeapTypeBattleaxe` \[`0x6D932~Skyrim.esm`\]
 
     - `OCF_WeapTypeBattleaxe2H` \[`0x837~OCF.esp`\]
@@ -4951,6 +4955,8 @@
     - `OCF_WeapTypeCleaver2H` \[`0x838~OCF.esp`\]
 
     - `OCF_WeapTypeCrescent2H` \[`0x839~OCF.esp`\]
+
+    - ~~`OCF_WeapTypeHatchet2H`~~ **UNUSED**
 
     - `OCF_WeapTypePickaxe2H` \[`0x83A~OCF.esp`\]
 
