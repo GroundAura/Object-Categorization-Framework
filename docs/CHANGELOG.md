@@ -8,7 +8,7 @@
 
 - **FormList Categorization added:** Triple Triad (`PROJ`).
 
-- **Keywords (`ARMO`) added:** `ArmorCuirass`, `OCF_ArtifactAedric_Worship`, `OCF_ArtifactDaedric_Worship`.
+- **Keywords (`ARMO`) added:** `ArmorCuirass`, `OCF_ArtifactAedric_Worship`, `OCF_ArtifactDaedric_Worship`, `OCF_WeapTypeCestus1H`.
 
 - **Keywords (`ARMO`) removed:** `OCF_ArmorWintersun`.
 
@@ -24,7 +24,7 @@
 
 - **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_ToolBroom`, `OCF_WeapTypeCurvedSword1H`, `OCF_WeapTypeCurvedSword2H`, `OCF_WeapTypeGun1H_BasicSword`, `OCF_WeapTypeTwinDagger1H`, `OCF_WeapTypeWakizashi1H`.
 
-- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), ezPG (`ARMO`, `BOOK`, `KEYM`, `MGEF`, `MISC`, `SPEL`, `WEAP`), ezPG Emberveil Estate (`KEYM`), ezPG Update (`ARMO`), Followers Can Loot (`SPEL`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Hunterborn Extender (`MGEF`, `SPEL`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Startgame Monsters (`MGEF`, `SPEL`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
+- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Brass Knuckle Duster (`WEAP`), ezPG (`ARMO`, `BOOK`, `KEYM`, `MGEF`, `MISC`, `SPEL`, `WEAP`), ezPG Emberveil Estate (`KEYM`), ezPG Update (`ARMO`), Followers Can Loot (`SPEL`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Hunterborn Extender (`MGEF`, `SPEL`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Startgame Monsters (`MGEF`, `SPEL`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
 
 - **Keyword Categorization fixed:** Vanilla (`WEAP`).
 

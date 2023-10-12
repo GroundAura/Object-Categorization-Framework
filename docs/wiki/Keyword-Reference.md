@@ -882,6 +882,8 @@
 
     - `OCF_HandTypeCuffs`
 
+  - `OCF_WeapTypeCestus1H` \[`0x81D~OCF.esp`\]
+
   - `WAF_SpikedGauntletGloves` \[`0xAF0226~Update.esm`\]
 
 - `OCF_ArmorTypeFeet`
