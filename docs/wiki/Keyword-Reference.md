@@ -2820,7 +2820,7 @@
 
 - ~~`OCF_InvColorDaedric`~~ **UNUSED**
 
-- ~~`OCF_InvColorEldritch`~~ **UNUSED**
+- `OCF_InvColorEldritch`
 
 - `OCF_InvColorGold`
 
@@ -3147,6 +3147,8 @@
 - `OCF_MiscTrap`
 
 - `OCF_MiscTreasure`
+
+  - ~~`OCF_MiscTreasure_Bronze`~~ **UNUSED**
 
   - `OCF_MiscTreasure_Coin`
 
@@ -4716,7 +4718,7 @@
 
     - `OCF_ReplicaLegendary_BlackwaterBlade`
 
-    - `OCF_ReplicaLegendary_Bloodskal`
+    - `OCF_ReplicaLegendary_BloodskalBlade`
 
     - `OCF_ReplicaLegendary_Chillrend`
 
