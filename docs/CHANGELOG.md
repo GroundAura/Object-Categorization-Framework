@@ -22,13 +22,13 @@
 
 - **Keywords (`SPEL`) added:** `OCF_SpelClassArtificer`, `OCF_SpelClassHoly`, `OCF_SpelPowerAction`, `OCF_SpelPowerAction_CommandFollower`, `OCF_SpelPowerAction_Pray`, `OCF_SpelSpellBound`, `OCF_SpelSpellBound_Weapon`, `OCF_SpelSpellDamage_Holy`, `OCF_SpelSpellReanimate`, `OCF_SpelSpellSpace_Teleport`, `OCF_SpelSpellSummon_Construct`, `OCF_SpelSpellSummon_ConstructDwemer`, `OCF_SpelSpellSummon_Daedra`, `OCF_SpelSpellSummon_Spirit`.
 
-- **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_ToolBroom`, `OCF_WeapTypeCurvedSword1H`, `OCF_WeapTypeCurvedSword2H`, `OCF_WeapTypeGun1H_BasicSword`, `OCF_WeapTypeWakizashi1H`.
+- **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_ToolBroom`, `OCF_WeapTypeCurvedSword1H`, `OCF_WeapTypeCurvedSword2H`, `OCF_WeapTypeGun1H_BasicSword`, `OCF_WeapTypeTwinDagger1H`, `OCF_WeapTypeWakizashi1H`.
 
 - **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), ezPG (`ARMO`, `BOOK`, `KEYM`, `MGEF`, `MISC`, `SPEL`, `WEAP`), ezPG Emberveil Estate (`KEYM`), ezPG Update (`ARMO`), Followers Can Loot (`SPEL`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Hunterborn Extender (`MGEF`, `SPEL`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Startgame Monsters (`MGEF`, `SPEL`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
 
 - **Keyword Categorization fixed:** Vanilla (`WEAP`).
 
-- **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Complete Crafting Overhaul Remastered (`WEAP`), Reforging to the Masses (`WEAP`), This is my Broomstick (`WEAP`), Wintersun (`ARMO`, `BOOK`, `MGEF`), Wyrmstooth (`WEAP`).
+- **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Berserk (`WEAP`), Berserk The Black Swordsman Dragonslayer Axe (`WEAP`), Berserk The Black Swordsman Dragonslayer Sword (`WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Cleaver of Shamash (`WEAP`), Complete Crafting Overhaul Remastered (`WEAP`), Elden Ring Greatsword & Zweihander (`WEAP`), King's Vengeance Great Sword (`WEAP`), Reforging to the Masses (`WEAP`), Silverthorn Weaponry (`WEAP`), This is my Broomstick (`WEAP`), Wintersun (`ARMO`, `BOOK`, `MGEF`), Wyrmstooth (`WEAP`).
 
 ## Version 4.4.0
 

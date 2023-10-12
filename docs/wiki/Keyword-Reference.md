@@ -4898,9 +4898,11 @@
 
       - `WAF_WeapTypeScalpel` \[`0xAF0239~Update.esm`\]
 
-    - ~~`OCF_WeapTypeTwinDagger1H`~~ **UNUSED**
+    - `OCF_WeapTypeTwinDagger1H`
 
   - `WeapTypeSword` \[`0x1E711~Skyrim.esm`\]
+
+    - ~~`OCF_WeapTypeGladius1H`~~ **UNUSED**
 
     - `OCF_WeapTypeKatana1H` \[`0x777779~Update.esm`\]
 
@@ -4966,7 +4968,7 @@
 
     - `OCF_WeapTypeMace1H` \[`0x821~OCF.esp`\]
 
-      - ~~`OCF_WeapTypeMaceFlanged1H`~~ **UNUSED**
+    - ~~`OCF_WeapTypePernach1H`~~ **UNUSED**
 
     - `OCF_WeapTypeQuarterstaff1H` \[`0x823~OCF.esp`\]
 
@@ -5017,6 +5019,8 @@
     - `OCF_WeapTypeSaber2H` \[`0x834~OCF.esp`\]
 
     - `OCF_WeapTypeScimitar2H` \[`0x835~OCF.esp`\]
+
+    - ~~`OCF_WeapTypeShortsword2H`~~ **UNUSED**
 
     - `OCF_WeapTypeTwinblade2H` \[`0x836~OCF.esp`\]
 
@@ -5155,6 +5159,8 @@
       - `OCF_WeapTypeGun2H_Spear`
 
       - ~~`OCF_WeapTypeGun2H_Special`~~ **UNUSED**
+
+  - ~~`OCF_WeapTypeSling1H`~~ **UNUSED**
 
   - `OCF_WeapTypeSlingshot2H` \[`0x861~OCF.esp`\]
 
