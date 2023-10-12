@@ -1782,9 +1782,59 @@
 
 ## KEY [`KEYM`]
 
+### Artifacts
+
+- `OCF_Relic` – A relic (items of some power, fame, and/or historic relevance).
+
+  - `OCF_RelicDaedric` – A relic with [Daedric](https://en.uesp.net/wiki/Lore:Daedra) ([Princely](https://en.uesp.net/wiki/Lore:Daedric_Princes) or otherwise) origins and/or associations.
+
+    - `OCF_RelicDaedric_SigilStone`
+
+  - ~~`OCF_RelicDwarven` – A relic with [Dwemer](https://en.uesp.net/wiki/Lore:Dwemer) origins and/or associations.~~ **UNUSED**
+
+- ~~`OCF_Replica` – An imitation or replica of an artifact, relic, or other item.~~ **UNUSED**
+
 ### Type
 
 - `OCF_KeyPlayerHome`
+
+- `OCF_RelicDaedric_SigilStone`
+
+- ~~`OCF_RelicDwarven`~~ **UNUSED**
+
+- `OCF_IngrRemains_Bone`
+
+  - ~~`OCF_IngrRemains_BonePelvis`~~ **UNUSED**
+
+  - `OCF_IngrRemains_BoneSkull`
+
+    - ~~`OCF_IngrRemains_BoneSkull_Animal`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Bird`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Horse`~~ **UNUSED**
+
+    - ~~`OCF_IngrRemains_BoneSkull_Creature`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Dragon`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_FrostGiant`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Goblin`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Troll`~~ **UNUSED**
+
+    - `OCF_IngrRemains_BoneSkull_Hominid`
+
+      - ~~`OCF_IngrRemains_BoneSkull_Argonian`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Elf`~~ **UNUSED**
+
+      - `OCF_IngrRemains_BoneSkull_Human`
+
+      - ~~`OCF_IngrRemains_BoneSkull_Khajiit`~~ **UNUSED**
+
+      - ~~`OCF_IngrRemains_BoneSkull_Orc`~~ **UNUSED**
 
 ---
 
@@ -2782,6 +2832,8 @@
 
 ### Model
 
+- `ArmorCuirass` \[`0x6C0EC~Skyrim.esm`\]
+
 - `ClothingBody` \[`0xA8657~Skyrim.esm`\]
 
 - `ClothingCrown` \[`0x10AB46~Update.esm`\]
@@ -2920,9 +2972,13 @@
 
   - `_SHSaltWaterKeyword` \[`0xF3DD3F~Update.esm`\]
 
+- `OCF_AlchDrinkAlcohol` \[`0xAF101A~Update.esm`\]
+
 - `OCF_AlchFood_Ingredient`
 
 - `OCF_AlchPoison`
+
+- `OCF_AlchPoison_Food`
 
 - `OCF_AlchPotion`
 
@@ -2948,6 +3004,8 @@
 
 - `OCF_BookTextGrimoire`
 
+- `OCF_BookTextJournal`
+
 - `OCF_BookTextManual`
 
 - `OCF_BookTextMap`
@@ -2971,6 +3029,10 @@
 - `OCF_BookTextThesis`
 
 - `OCF_IngrMisc_Mineral`
+
+- `OCF_IngrPlant`
+
+  - `OCF_IngrPlant_Flower`
 
 - `OCF_MiscCampingGear`
 
@@ -3159,6 +3221,8 @@
   - `OCF_ToolLight_Torch`
 
   - `OCF_ToolLockpick`
+
+  - ~~`OCF_ToolHorn`~~ **UNUSED**
 
   - ~~`OCF_ToolMirror`~~ **UNUSED**
 
@@ -3768,7 +3832,7 @@
 
 - ~~`OCF_SpelClassArcane`~~ **UNUSED**
 
-- ~~`OCF_SpelClassArtificer`~~ **UNUSED**
+- `OCF_SpelClassArtificer`
 
 - ~~`OCF_SpelClassAsh`~~ **UNUSED**
 
@@ -3880,7 +3944,7 @@
 
   - ~~`OCF_SpelPowerAction_Coin`~~ **UNUSED**
 
-  - ~~`OCF_SpelPowerAction_CommandFollower`~~ **UNUSED**
+  - `OCF_SpelPowerAction_CommandFollower`
 
   - ~~`OCF_SpelPowerAction_Craft`~~ **UNUSED**
 
@@ -4290,7 +4354,7 @@
 
 - ~~`OCF_SpelSpellProtect_Warmth`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellReanimate`~~ **UNUSED**
+- `OCF_SpelSpellReanimate`
 
 - ~~`OCF_SpelSpellReanimateDoomstone`~~ **UNUSED**
 
@@ -4346,11 +4410,11 @@
 
 - ~~`OCF_SpelSpellStealth_InvisibilityDruid`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellSummon_Construct`~~ **UNUSED**
+- `OCF_SpelSpellSummon_Construct`
 
   - ~~`OCF_SpelSpellSummon_ConstructAsh`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellSummon_ConstructDwemer`~~ **UNUSED**
+  - `OCF_SpelSpellSummon_ConstructDwemer`
 
 - ~~`OCF_SpelSpellSummon_Creature`~~ **UNUSED**
 
@@ -4364,7 +4428,7 @@
 
     - ~~`OCF_SpelSpellSummon_CreatureDruidWater`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellSummon_Daedra`~~ **UNUSED**
+- `OCF_SpelSpellSummon_Daedra`
 
   - ~~`OCF_SpelSpellSummon_DaedraEldritch`~~ **UNUSED**
 
@@ -4376,7 +4440,7 @@
 
 - ~~`OCF_SpelSpellSummon_Object`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellSummon_Spirit`~~ **UNUSED**
+- `OCF_SpelSpellSummon_Spirit`
 
   - ~~`OCF_SpelSpellSummon_SpiritFire`~~ **UNUSED**
 

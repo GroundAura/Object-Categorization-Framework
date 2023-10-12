@@ -8,21 +8,25 @@
 
 - **FormList Categorization added:** Triple Triad (`PROJ`).
 
-- **Keywords (`ARMO`) added:** `OCF_ArtifactAedric_Worship`, `OCF_ArtifactDaedric_Worship`.
+- **Keywords (`ARMO`) added:** `ArmorCuirass`, `OCF_ArtifactAedric_Worship`, `OCF_ArtifactDaedric_Worship`.
 
 - **Keywords (`ARMO`) removed:** `OCF_ArmorWintersun`.
 
 - **Keywords (`BOOK`) added:** `OCF_InvColorEldritch`.
 
+- **Keywords (`KEYM`) added:** `OCF_IngrRemains_Bone`, `OCF_IngrRemains_BoneSkull`, `OCF_IngrRemains_BoneSkull_Hominid`, `OCF_IngrRemains_BoneSkull_Human`, `OCF_Relic`, `OCF_RelicDaedric`, `OCF_RelicDaedric_SigilStone`.
+
 - **Keywords (`MGEF`) added:** `OCF_MgefSpellDamage_Holy`.
 
-- **Keywords (`MISC`) added:** `OCF_AmmoTypeBullet`, `OCF_AmmoTypeBullet1H`, `OCF_AmmoTypeBullet1H_Basic`, `OCF_Replica`, `OCF_VesselGamePiece`.
+- **Keywords (`MISC`) added:** `OCF_AlchPoison_Food`, `OCF_AmmoTypeBullet`, `OCF_AmmoTypeBullet1H`, `OCF_AmmoTypeBullet1H_Basic`, `OCF_IngrPlant`, `OCF_IngrPlant_Flower`, `OCF_Replica`, `OCF_VesselGamePiece`.
 
-- **Keywords (`SPEL`) added:** `OCF_SpelClassHoly`, `OCF_SpelPowerAction`, `OCF_SpelPowerAction_CommandFollower`, `OCF_SpelPowerAction_Pray`, `OCF_SpelSpellBound`, `OCF_SpelSpellBound_Weapon`, `OCF_SpelSpellDamage_Holy`, `OCF_SpelSpellSpace_Teleport`.
+- **Keywords (`SPEL`) added:** `OCF_SpelClassArtificer`, `OCF_SpelClassHoly`, `OCF_SpelPowerAction`, `OCF_SpelPowerAction_CommandFollower`, `OCF_SpelPowerAction_Pray`, `OCF_SpelSpellBound`, `OCF_SpelSpellBound_Weapon`, `OCF_SpelSpellDamage_Holy`, `OCF_SpelSpellReanimate`, `OCF_SpelSpellSpace_Teleport`, `OCF_SpelSpellSummon_Construct`, `OCF_SpelSpellSummon_ConstructDwemer`, `OCF_SpelSpellSummon_Daedra`, `OCF_SpelSpellSummon_Spirit`.
 
 - **Keywords (`WEAP`) added:** `OCF_ReplicaLegendary_Dawnguard`, `OCF_ReplicaLegendary_DawnguardRuneAxe`, `OCF_ReplicaLegendary_DawnguardRuneHammer`, `OCF_WeapBroken`, `OCF_ToolBroom`, `OCF_WeapTypeCurvedSword1H`, `OCF_WeapTypeCurvedSword2H`, `OCF_WeapTypeGun1H_BasicSword`, `OCF_WeapTypeWakizashi1H`.
 
-- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), Followers Can Loot (`SPEL`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Hunterborn Extender (`MGEF`, `SPEL`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Startgame Monsters (`MGEF`, `SPEL`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
+- **Keyword Categorization added:** Alternate Start (`KEYM`), Bathing in Skyrim (`MISC`), BillyRo Ultimate Swords Anthology (`MGEF`, `MISC`, `SPEL`, `WEAP`), BillyRo Ultimate Swords Anthology LotD HoF Patch (`WEAP`), ezPG (`ARMO`, `BOOK`, `KEYM`, `MGEF`, `MISC`, `SPEL`, `WEAP`), ezPG Emberveil Estate (`KEYM`), ezPG Update (`ARMO`), Followers Can Loot (`SPEL`), Gamble for Gear (`MISC`), Gambler's Paradise (`BOOK`), Gambling Additions (`MISC`), Hunterborn Extender (`MGEF`, `SPEL`), Many Immersive Lootboxes & Keys (`MGEF`, `MISC`, `SPEL`), Oldrim CBBE Hands for SSE (`ARMO`), Simple Inn Gambling (`ALCH`, `MISC`), Startgame Monsters (`MGEF`, `SPEL`), Tavern Games (`BOOK`), Triple Triad (`BOOK`, `MISC`, `WEAP`), Triple Triad Tamriel Edition (`MISC`), Triple Triad The Witcher 3 Addition Cards (`MISC`), Wintersun (`SPEL`).
+
+- **Keyword Categorization fixed:** Vanilla (`WEAP`).
 
 - **Keyword Categorization tweaked:** Vanilla (`MISC`, `SPEL`, `WEAP`), Beyond Skyrim Bruma (`MISC`), Beyond Skyrim Wares of Tamriel (`MISC`), Complete Crafting Overhaul Remastered (`WEAP`), Reforging to the Masses (`WEAP`), This is my Broomstick (`WEAP`), Wintersun (`ARMO`, `BOOK`, `MGEF`), Wyrmstooth (`WEAP`).
 

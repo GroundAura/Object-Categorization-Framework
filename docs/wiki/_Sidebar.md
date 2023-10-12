@@ -136,6 +136,7 @@
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-6)
 
 ### **KEY [`KEYM`]**
+- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-4)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-7)
 
 ### **LOCATION [`LCTN`]**
@@ -154,7 +155,7 @@
 
 ### **MISC. ITEM [`MISC`]**
 - [Animal Part](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#animal-part)
-- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-4)
+- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-5)
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-6)
 - [Inventory Sorting](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-sorting-2)
 - [Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#model-3)
@@ -175,7 +176,7 @@
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-10)
 
 ### **SOUL GEM [`SLGM`]**
-- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-5)
+- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-6)
 - [Gem Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gem-color)
 - [Gem Size](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gem-size)
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-8)
@@ -193,7 +194,7 @@
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-13)
 
 ### **WEAPON [`WEAP`]**
-- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-6)
+- [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-7)
 - [Contains Gems](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-gems-1)
 - [Contains Metals](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-metals-1)
 - [Gathering](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gathering-1)
