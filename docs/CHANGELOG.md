@@ -1,5 +1,13 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.5.1
+
+- Changed the method of detecting spell tome school to fix an issue that occured when using The Tale of Tsatampra Xiros.
+
+- **Keyword Categorization fixed:** General (`BOOK`).
+
+- **Keyword Categorization tweaked:** General (`BOOK`).
+
 ## Version 4.5.0
 
 - **FLM filters added:** Triple Triad.
