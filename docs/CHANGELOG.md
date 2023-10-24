@@ -2,9 +2,7 @@
 
 ## Version 4.6.0
 
-- **ESP (`OCF.esp`):** Added new FormLists (`OCF.esp|xxx`). Changed the EditorIDs of several FormLists (`OCF.esp|xxx`).
-
-- **ESP (`OCF.esp`):** Removed a couple of injected keywords that originate from Darenii's mods (`Update.esm|xxxxxx`).
+- **ESP (`OCF.esp`):** Added new FormLists (`OCF.esp|xxx`). Changed the EditorIDs of several FormLists (`OCF.esp|xxx`). Removed a couple of injected keywords that originate from [Darenii's mods](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files) (`Update.esm|xxxxxx`).
 
 - **FLM collections (`MGEF`) added:** `mgefKW_OCF_MgefSpellDamage_ArcaneFire`, `mgefKW_OCF_MgefSpellDamage_ArcaneFireCloak`, `mgefKW_OCF_MgefSpellDamage_AshFire`, `mgefKW_OCF_MgefSpellDamage_AshFireCloak`, `mgefKW_OCF_MgefSpellDamage_Fire`, `mgefKW_OCF_MgefSpellDamage_FireCloak`, `mgefKW_OCF_MgefSpellDamage_FireShock`, `mgefKW_OCF_MgefSpellDamage_FireShockCloak`, `mgefKW_OCF_MgefSpellDamage_FireShockFrost`, `mgefKW_OCF_MgefSpellDamage_FireShockFrostCloak`, `mgefKW_OCF_MgefSpellDamage_Frost`, `mgefKW_OCF_MgefSpellDamage_FrostCloak`, `mgefKW_OCF_MgefSpellDamage_FrostFire`, `mgefKW_OCF_MgefSpellDamage_FrostFireCloak`, `mgefKW_OCF_MgefSpellDamage_HolyLunar`, `mgefKW_OCF_MgefSpellDamage_HolyLunarCloak`, `mgefKW_OCF_MgefSpellDamage_HolySun`, `mgefKW_OCF_MgefSpellDamage_HolySunCloak`, `mgefKW_OCF_MgefSpellDamage_NecroticFire`, `mgefKW_OCF_MgefSpellDamage_NecroticFireCloak`, `mgefKW_OCF_MgefSpellDamage_Shock`, `mgefKW_OCF_MgefSpellDamage_ShockCloak`, `mgefKW_OCF_MgefSpellDamage_Steam`, `mgefKW_OCF_MgefSpellDamage_SteamCloak`, `mgefKW_OCF_MgefSpellDamage_Water`, `mgefKW_OCF_MgefSpellDamage_WaterCloak`, `mgefKW_OCF_MgefSpellDamage_Wind`, `mgefKW_OCF_MgefSpellDamage_WindCloak`.
 
@@ -34,7 +32,7 @@
 
 ## Version 4.5.1
 
-- Changed the method of detecting spell tome school to fix an issue that occured when using The Tale of Tsatampra Xiros.
+- Changed the method of detecting spell tome school to fix an issue that occured when using [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707).
 
 - **Keyword Categorization fixed:** General (`BOOK`).
 
