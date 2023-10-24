@@ -1,5 +1,37 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.6.0
+
+- **ESP (`OCF.esp`):** Added new FormLists (`OCF.esp|xxx`). Changed the EditorIDs of several FormLists (`OCF.esp|xxx`).
+
+- **ESP (`OCF.esp`):** Removed a couple of injected keywords that originate from Darenii's mods (`Update.esm|xxxxxx`).
+
+- **FLM collections (`MGEF`) added:** `mgefKW_OCF_MgefSpellDamage_ArcaneFire`, `mgefKW_OCF_MgefSpellDamage_ArcaneFireCloak`, `mgefKW_OCF_MgefSpellDamage_AshFire`, `mgefKW_OCF_MgefSpellDamage_AshFireCloak`, `mgefKW_OCF_MgefSpellDamage_Fire`, `mgefKW_OCF_MgefSpellDamage_FireCloak`, `mgefKW_OCF_MgefSpellDamage_FireShock`, `mgefKW_OCF_MgefSpellDamage_FireShockCloak`, `mgefKW_OCF_MgefSpellDamage_FireShockFrost`, `mgefKW_OCF_MgefSpellDamage_FireShockFrostCloak`, `mgefKW_OCF_MgefSpellDamage_Frost`, `mgefKW_OCF_MgefSpellDamage_FrostCloak`, `mgefKW_OCF_MgefSpellDamage_FrostFire`, `mgefKW_OCF_MgefSpellDamage_FrostFireCloak`, `mgefKW_OCF_MgefSpellDamage_HolyLunar`, `mgefKW_OCF_MgefSpellDamage_HolyLunarCloak`, `mgefKW_OCF_MgefSpellDamage_HolySun`, `mgefKW_OCF_MgefSpellDamage_HolySunCloak`, `mgefKW_OCF_MgefSpellDamage_NecroticFire`, `mgefKW_OCF_MgefSpellDamage_NecroticFireCloak`, `mgefKW_OCF_MgefSpellDamage_Shock`, `mgefKW_OCF_MgefSpellDamage_ShockCloak`, `mgefKW_OCF_MgefSpellDamage_Steam`, `mgefKW_OCF_MgefSpellDamage_SteamCloak`, `mgefKW_OCF_MgefSpellDamage_Water`, `mgefKW_OCF_MgefSpellDamage_WaterCloak`, `mgefKW_OCF_MgefSpellDamage_Wind`, `mgefKW_OCF_MgefSpellDamage_WindCloak`.
+
+- **FLM collections (`SPEL`) added:** `spelKW_OCF_SpelElementArcaneFire`, `spelKW_OCF_SpelElementAshFire`, `spelKW_OCF_SpelElementFire`, `spelKW_OCF_SpelElementFireShock`, `spelKW_OCF_SpelElementFireShockFrost`, `spelKW_OCF_SpelElementFrost`, `spelKW_OCF_SpelElementFrostFire`, `spelKW_OCF_SpelElementHolyLunar`, `spelKW_OCF_SpelElementHolySun`, `spelKW_OCF_SpelElementNecroticFire`, `spelKW_OCF_SpelElementShock`, `spelKW_OCF_SpelElementSteam`, `spelKW_OCF_SpelElementWater`, `spelKW_OCF_SpelElementWind`.
+
+- **FLM filters added:** Wooden Practice Weapons.
+
+- **FormLists (`EXPL`) added:** `OCF_FL_EXPL_ElementArcane` \[`0xADC~OCF.esp`\], `OCF_FL_EXPL_ElementArcaneFire` \[`0xADD~OCF.esp`\], `OCF_FL_EXPL_ElementAshFire` \[`0xADE~OCF.esp`\], `OCF_FL_EXPL_ElementFireShock` \[`0xADF~OCF.esp`\], `OCF_FL_EXPL_ElementFireShockFrost` \[`0xAE0~OCF.esp`\], `OCF_FL_EXPL_ElementNecroticFire` \[`0xAE1~OCF.esp`\].
+
+- **FormLists (`EXPL`) changed:** `OCF_FL_EXPL_ElementColdfire` \[`0xAB0~OCF.esp`\] to `OCF_FL_EXPL_ElementFrostFire` \[`0xAB0~OCF.esp`\]. `OCF_FL_EXPL_ElementLunar` \[`0xAB8~OCF.esp`\] to `OCF_FL_EXPL_ElementHolyLunar` \[`0xAB8~OCF.esp`\]. `OCF_FL_EXPL_ElementSun` \[`0xA49~OCF.esp`\] to `OCF_FL_EXPL_ElementHolySun` \[`0xA49~OCF.esp`\].
+
+- **FormLists (`HAZD`) added:** `OCF_FL_HAZD_ElementArcane` \[`0xAE2~OCF.esp`\], `OCF_FL_HAZD_ElementArcaneFire` \[`0xAE3~OCF.esp`\], `OCF_FL_HAZD_ElementAsh` \[`0xAE4~OCF.esp`\], `OCF_FL_HAZD_ElementAshFire` \[`0xAE5~OCF.esp`\], `OCF_FL_HAZD_ElementFireShock` \[`0xAE6~OCF.esp`\], `OCF_FL_HAZD_ElementFireShockFrost` \[`0xAE7~OCF.esp`\], `OCF_FL_HAZD_ElementFrostFire` \[`0xAAC~OCF.esp`\], `OCF_FL_HAZD_ElementHolyLunar` \[`0xAB9~OCF.esp`\], `OCF_FL_HAZD_ElementHolySun` \[`0xAEC~OCF.esp`\], `OCF_FL_HAZD_ElementNecroticFire` \[`0xAE8~OCF.esp`\], `OCF_FL_HAZD_ElementSteam` \[`0xAE9~OCF.esp`\], `OCF_FL_HAZD_ElementWater` \[`0xAEA~OCF.esp`\], `OCF_FL_HAZD_ElementWind` \[`0xAEB~OCF.esp`\].
+
+- **FormLists (`HAZD`) changed:** `OCF_FL_HAZD_ElementColdfire` \[`0xAAC~OCF.esp`\] to `OCF_FL_HAZD_ElementFrostFire` \[`0xAAC~OCF.esp`\]. `OCF_FL_HAZD_ElementLunar` \[`0xAB9~OCF.esp`\] to `OCF_FL_HAZD_ElementHolyLunar` \[`0xAB9~OCF.esp`\].
+
+- **FormLists (`LIGH`) added:** `OCF_FL_LIGH_HeldElementArcane` \[`0xAED~OCF.esp`\], `OCF_FL_LIGH_HeldElementArcaneFire` \[`0xAEE~OCF.esp`\], `OCF_FL_LIGH_HeldElementAsh` \[`0xAEF~OCF.esp`\], `OCF_FL_LIGH_HeldElementAshFire` \[`0xAF0~OCF.esp`\], `OCF_FL_LIGH_HeldElementAstral` \[`0xAF1~OCF.esp`\], `OCF_FL_LIGH_HeldElementEarth` \[`0xAF2~OCF.esp`\], `OCF_FL_LIGH_HeldElementFireShock` \[`0xAF3~OCF.esp`\], `OCF_FL_LIGH_HeldElementFireShockFrost` \[`0xAF4~OCF.esp`\], `OCF_FL_LIGH_HeldElementHolyLunar` \[`0xAF5~OCF.esp`\], `OCF_FL_LIGH_HeldElementNecrotic` \[`0xAF6~OCF.esp`\], `OCF_FL_LIGH_HeldElementNecroticFire` \[`0xAF7~OCF.esp`\], `OCF_FL_LIGH_HeldElementShadow` \[`0xAF8~OCF.esp`\], `OCF_FL_LIGH_HeldElementSteam` \[`0xAF9~OCF.esp`\], `OCF_FL_LIGH_HeldElementWater` \[`0xAFA~OCF.esp`\], `OCF_FL_LIGH_HeldElementWind` \[`0xAFB~OCF.esp`\].
+
+- **FormLists (`LIGH`) changed:** `OCF_FL_LIGH_HeldElementColdfire` \[`0xAC1~OCF.esp`\] to `OCF_FL_LIGH_HeldElementFrostFire` \[`0xAC1~OCF.esp`\]. `OCF_FL_LIGH_HeldElementSun` \[`0xAC5~OCF.esp`\] to `OCF_FL_LIGH_HeldElementHolySun` \[`0xAC5~OCF.esp`\].
+
+- **FormLists (`PROJ`) added:** `OCF_FL_PROJ_ElementArcane` \[`0xAFC~OCF.esp`\], `OCF_FL_PROJ_ElementArcaneFire` \[`0xAFD~OCF.esp`\], `OCF_FL_PROJ_ElementAsh` \[`0xA4D~OCF.esp`\], `OCF_FL_PROJ_ElementAshFire` \[`0xAFE~OCF.esp`\], `OCF_FL_PROJ_ElementFireFrost` \[`0xAFF~OCF.esp`\], `OCF_FL_PROJ_ElementFireShockFrost` \[`0xB00~OCF.esp`\], `OCF_FL_PROJ_ElementNecroticFire` \[`0xB01~OCF.esp`\], `OCF_FL_PROJ_ElementSteam` \[`0xA4E~OCF.esp`\].
+
+- **FormLists (`PROJ`) changed:** `OCF_FL_PROJ_ElementColdfire` \[`0xA2F~OCF.esp`\] to `OCF_FL_PROJ_ElementFrostFire` \[`0xA2F~OCF.esp`\]. `OCF_FL_PROJ_ElementLunar` \[`0xABA~OCF.esp`\] to `OCF_FL_PROJ_ElementHolyLunar` \[`0xABA~OCF.esp`\]. `OCF_FL_PROJ_ElementSun` \[`0xA33~OCF.esp`\] to `OCF_FL_PROJ_ElementHolySun` \[`0xA33~OCF.esp`\].
+
+- **Keywords (`MGEF`) changed:** `OCF_MgefSpellDamage_HolyLunar` is now a child of `OCF_MgefSpellDamage_Holy`. `OCF_MgefSpellDamage_HolyLunarCloak` is now a child of `OCF_MgefSpellDamage_HolyCloak`. `OCF_MgefSpellDamage_ShockArc` and `OCF_MgefSpellDamage_ShockStorm` are now children of `OCF_MgefSpellDamage_Shock`. `OCF_MgefSpellDamage_ShockArcCloak` and `OCF_MgefSpellDamage_ShockStormCloak` are now children of `OCF_MgefSpellDamage_ShockCloak`.
+
+- **Keyword Categorization tweaked:** General (`MGEF`).
+
 ## Version 4.5.1
 
 - Changed the method of detecting spell tome school to fix an issue that occured when using The Tale of Tsatampra Xiros.

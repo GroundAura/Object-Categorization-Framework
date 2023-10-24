@@ -112,37 +112,49 @@
 
 ### Element
 
-- `OCF_FL_EXPL_ElementAsh`
+- `OCF_FL_EXPL_ElementArcane` \[`0xADC~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementAstral`
+- `OCF_FL_EXPL_ElementArcaneFire` \[`0xADD~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementBlood`
+- `OCF_FL_EXPL_ElementAsh` \[`0xA45~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementColdfire`
+- `OCF_FL_EXPL_ElementAshFire` \[`0xADE~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementEarth`
+- `OCF_FL_EXPL_ElementAstral` \[`0xABC~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementFire`
+- `OCF_FL_EXPL_ElementBlood` \[`0xAB6~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementFrost`
+- `OCF_FL_EXPL_ElementEarth` \[`0xAB3~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementLunar`
+- `OCF_FL_EXPL_ElementFire` \[`0xA46~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementNecrotic`
+- `OCF_FL_EXPL_ElementFireShock` \[`0xADF~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementPoison`
+- `OCF_FL_EXPL_ElementFireShockFrost` \[`0xAE0~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementShadow`
+- `OCF_FL_EXPL_ElementFrost` \[`0xA47~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementShock`
+- `OCF_FL_EXPL_ElementFrostFire` \[`0xAB0~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementSteam`
+- `OCF_FL_EXPL_ElementHolyLunar` \[`0xAB8~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementSun`
+- `OCF_FL_EXPL_ElementHolySun` \[`0xA49~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementWater`
+- `OCF_FL_EXPL_ElementNecrotic` \[`0xAAD~OCF.esp`\]
 
-- `OCF_FL_EXPL_ElementWind`
+- `OCF_FL_EXPL_ElementNecroticFire` \[`0xAE1~OCF.esp`\]
+
+- `OCF_FL_EXPL_ElementPoison` \[`0xA4C~OCF.esp`\]
+
+- `OCF_FL_EXPL_ElementShadow` \[`0xAB4~OCF.esp`\]
+
+- `OCF_FL_EXPL_ElementShock` \[`0xA48~OCF.esp`\]
+
+- `OCF_FL_EXPL_ElementSteam` \[`0xA4B~OCF.esp`\]
+
+- `OCF_FL_EXPL_ElementWater` \[`0xA4A~OCF.esp`\]
+
+- `OCF_FL_EXPL_ElementWind` \[`0xAb1~OCF.esp`\]
 
 ---
 
@@ -158,25 +170,47 @@
 
 ### Element
 
-- `OCF_FL_HAZD_ElementAstral`
+- `OCF_FL_HAZD_ElementArcane` \[`0xAE2~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementColdfire`
+- `OCF_FL_HAZD_ElementArcaneFire` \[`0xAE3~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementEarth`
+- `OCF_FL_HAZD_ElementAsh` \[`0xAE4~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementFire`
+- `OCF_FL_HAZD_ElementAshFire` \[`0xAE5~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementFrost`
+- `OCF_FL_HAZD_ElementAstral` \[`0xABD~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementLunar`
+- `OCF_FL_HAZD_ElementEarth` \[`0xABE~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementNecrotic`
+- `OCF_FL_HAZD_ElementFire` \[`0xA3F~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementPoison`
+- `OCF_FL_HAZD_ElementFireShock` \[`0xAE6~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementShadow`
+- `OCF_FL_HAZD_ElementFireShockFrost` \[`0xAE7~OCF.esp`\]
 
-- `OCF_FL_HAZD_ElementShock`
+- `OCF_FL_HAZD_ElementFrost` \[`0xA41~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementFrostFire` \[`0xAAC~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementHolyLunar` \[`0xAB9~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementHolySun` \[`0xAEC~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementNecrotic` \[`0xAAE~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementNecroticFire` \[`0xAE8~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementPoison` \[`0xA40~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementShadow` \[`0xAB5~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementShock` \[`0xA42~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementSteam` \[`0xAE9~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementWater` \[`0xAEA~OCF.esp`\]
+
+- `OCF_FL_HAZD_ElementWind` \[`0xAEB~OCF.esp`\]
 
 ### Temperature
 
@@ -212,19 +246,49 @@
 
 ### Element
 
-- ~~`OCF_FL_LIGH_HeldElementBlood`~~ **UNUSED**
+- `OCF_FL_LIGH_HeldElementArcane` \[`0xAED~OCF.esp`\]
 
-- `OCF_FL_LIGH_HeldElementColdfire`
+- `OCF_FL_LIGH_HeldElementArcaneFire` \[`0xAEE~OCF.esp`\]
 
-- `OCF_FL_LIGH_HeldElementFire`
+- `OCF_FL_LIGH_HeldElementAsh` \[`0xAEF~OCF.esp`\]
 
-- `OCF_FL_LIGH_HeldElementFrost`
+- `OCF_FL_LIGH_HeldElementAshFire` \[`0xAF0~OCF.esp`\]
 
-- ~~`OCF_FL_LIGH_HeldElementPoison`~~ **UNUSED**
+- `OCF_FL_LIGH_HeldElementAstral` \[`0xAF1~OCF.esp`\]
 
-- `OCF_FL_LIGH_HeldElementShock`
+- ~~`OCF_FL_LIGH_HeldElementBlood` \[`0xAC9~OCF.esp`\]~~ **UNUSED**
 
-- `OCF_FL_LIGH_HeldElementSun`
+- `OCF_FL_LIGH_HeldElementEarth` \[`0xAF2~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementFire` \[`0xAC2~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementFireShock` \[`0xAF3~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementFireShockFrost` \[`0xAF4~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementFrost` \[`0xAC3~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementFrostFire` \[`0xAC1~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementHolyLunar` \[`0xAF5~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementHolySun` \[`0xAC5~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementNecrotic` \[`0xAF6~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementNecroticFire` \[`0xAF7~OCF.esp`\]
+
+- ~~`OCF_FL_LIGH_HeldElementPoison` \[`0xAC8~OCF.esp`\]~~ **UNUSED**
+
+- `OCF_FL_LIGH_HeldElementShadow` \[`0xAF8~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementShock` \[`0xAC4~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementSteam` \[`0xAF9~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementWater` \[`0xAFA~OCF.esp`\]
+
+- `OCF_FL_LIGH_HeldElementWind` \[`0xAFB~OCF.esp`\]
 
 ### Item
 
@@ -310,37 +374,49 @@
 
 ### Element
 
-- `OCF_FL_PROJ_ElementAsh`
+- `OCF_FL_PROJ_ElementArcane` \[`0xAFC~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementAstral`
+- `OCF_FL_PROJ_ElementArcaneFire` \[`0xAFD~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementBlood`
+- `OCF_FL_PROJ_ElementAsh` \[`0xA4D~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementColdfire`
+- `OCF_FL_PROJ_ElementAshFire` \[`0xAFE~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementEarth`
+- `OCF_FL_PROJ_ElementAstral` \[`0xABB~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementFire`
+- `OCF_FL_PROJ_ElementBlood` \[`0xAB7~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementFrost`
+- `OCF_FL_PROJ_ElementEarth` \[`0xAB2~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementLunar`
+- `OCF_FL_PROJ_ElementFire` \[`0xA30~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementNecrotic`
+- `OCF_FL_PROJ_ElementFireShock` \[`0xAFF~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementPoison`
+- `OCF_FL_PROJ_ElementFireShockFrost` \[`0xB00~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementShadow`
+- `OCF_FL_PROJ_ElementFrost` \[`0xA31~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementShock`
+- `OCF_FL_PROJ_ElementFrostFire` \[`0xA2F~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementSteam`
+- `OCF_FL_PROJ_ElementHolyLunar` \[`0xABA~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementSun`
+- `OCF_FL_PROJ_ElementHolySun` \[`0xA33~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementWater`
+- `OCF_FL_PROJ_ElementNecrotic` \[`0xAAF~OCF.esp`\]
 
-- `OCF_FL_PROJ_ElementWind`
+- `OCF_FL_PROJ_ElementNecroticFire` \[`0xB01~OCF.esp`\]
+
+- `OCF_FL_PROJ_ElementPoison` \[`0xA43~OCF.esp`\]
+
+- `OCF_FL_PROJ_ElementShadow` \[`0xA44~OCF.esp`\]
+
+- `OCF_FL_PROJ_ElementShock` \[`0xA32~OCF.esp`\]
+
+- `OCF_FL_PROJ_ElementSteam` \[`0xA4E~OCF.esp`\]
+
+- `OCF_FL_PROJ_ElementWater` \[`0xA34~OCF.esp`\]
+
+- `OCF_FL_PROJ_ElementWind` \[`0xA4F~OCF.esp`\]
 
 ### Temperature
 

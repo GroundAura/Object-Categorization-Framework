@@ -2340,15 +2340,19 @@
 
 - `OCF_MgefSpellDamage_Holy`
 
+  - `OCF_MgefSpellDamage_HolyLunar`
+
+  - ~~`OCF_MgefSpellDamage_HolySun`~~ **UNUSED**
+
 - `OCF_MgefSpellDamage_HolyCloak`
+
+  - `OCF_MgefSpellDamage_HolyLunarCloak`
+
+  - ~~`OCF_MgefSpellDamage_HolySunCloak`~~ **UNUSED**
 
 - `OCF_MgefSpellDamage_HolyAstral`
 
 - `OCF_MgefSpellDamage_HolyAstralCloak`
-
-- `OCF_MgefSpellDamage_HolyLunar`
-
-- `OCF_MgefSpellDamage_HolyLunarCloak`
 
 - `OCF_MgefSpellDamage_Light`
 
@@ -2368,15 +2372,15 @@
 
 - `OCF_MgefSpellDamage_Shock`
 
+  - `OCF_MgefSpellDamage_ShockArc`
+
+  - `OCF_MgefSpellDamage_ShockStorm`
+
 - `OCF_MgefSpellDamage_ShockCloak`
 
-- `OCF_MgefSpellDamage_ShockArc`
+  - `OCF_MgefSpellDamage_ShockArcCloak`
 
-- `OCF_MgefSpellDamage_ShockArcCloak`
-
-- `OCF_MgefSpellDamage_ShockStorm`
-
-- `OCF_MgefSpellDamage_ShockStormCloak`
+  - `OCF_MgefSpellDamage_ShockStormCloak`
 
 - `OCF_MgefSpellDamage_Sonic`
 
@@ -3904,7 +3908,7 @@
 
 - ~~`OCF_SpelClassSurvival`~~ **UNUSED**
 
-  - `OCF_SpelClassSurvival_Needs`
+  - `OCF_SpelClassSurvival_Needs`F
 
   - ~~`OCF_SpelClassSurvival_Wilderness`~~ **UNUSED**
 
@@ -3918,7 +3922,33 @@
 
 ### Element
 
-> todo
+- ~~`OCF_SpelElementArcaneFire`~~ **UNUSED**
+
+- ~~`OCF_SpelElementAshFire`~~ **UNUSED**
+
+- ~~`OCF_SpelElementFire`~~ **UNUSED**
+
+- ~~`OCF_SpelElementFireShock`~~ **UNUSED**
+
+- ~~`OCF_SpelElementFireShockFrost`~~ **UNUSED**
+
+- ~~`OCF_SpelElementFrost`~~ **UNUSED**
+
+- ~~`OCF_SpelElementFrostFire`~~ **UNUSED**
+
+- ~~`OCF_SpelElementHolyLunar`~~ **UNUSED**
+
+- ~~`OCF_SpelElementHolySun`~~ **UNUSED**
+
+- ~~`OCF_SpelElementNecroticFire`~~ **UNUSED**
+
+- ~~`OCF_SpelElementShock`~~ **UNUSED**
+
+- ~~`OCF_SpelElementSteam`~~ **UNUSED**
+
+- ~~`OCF_SpelElementWater`~~ **UNUSED**
+
+- ~~`OCF_SpelElementWind`~~ **UNUSED**
 
 ### Gathering
 
