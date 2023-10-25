@@ -1,5 +1,19 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.7.0
+
+- **Keywords (`ARMO`) added:** `OCF_RingTypeWedding`.
+
+- **Keyword (`MGEF`) added:** `OCF_MgefSpellSacrifice_Corpse`, `OCF_MgefSpellSacrifice_Summon`.
+
+- **Keywords (`MISC`) added:** `OCF_RingTypeWedding`.
+
+- **Keyword (`SPEL`) added:** `OCF_SpelClassNecromancy`, `OCF_SpelSpellAssist`, `OCF_SpelSpellBound_Armor`, `OCF_SpelSpellCurse`, `OCF_SpelSpellHeal_Undead`, `OCF_SpelSpellSacrifice_Corpse`, `OCF_SpelSpellSummon_Undead`, `OCF_ArmorShield_Heavy`, `OCF_WeapTypeBattleaxe2H`, `OCF_WeapTypeBow2H`, `OCF_WeapTypeDagger1H`, `OCF_WeapTypeGreatsword2H`, `OCF_WeapTypeMace1H`, `OCF_WeapTypeSword1H`, `OCF_WeapTypeWarAxe1H`, `OCF_WeapTypeWarhammer2H`.
+
+- **Keyword Categorization added:** Darenii's Necrotic (`MGEF`, `SPEL`).
+
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`, `MISC`), CC Necromantic Grimoire (`MGEF`), Headhunter (`MISC`), general (`MISC`).
+
 ## Version 4.6.0
 
 - **ESP (`OCF.esp`):** Added new FormLists (`OCF.esp|xxx`). Changed the EditorIDs of several FormLists (`OCF.esp|xxx`). Removed a couple of injected keywords that originate from [Darenii's mods](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files) (`Update.esm|xxxxxx`).

@@ -696,6 +696,8 @@
 
     - `ClothingRing` \[`0x10CD09~Skyrim.esm`\]
 
+      - `OCF_RingTypeWedding`
+
 - `OCF_ArmorTypeFeet`
 
   - `OCF_ArmorTypeFeet_Main`
@@ -1822,6 +1824,8 @@
 
       - ~~`OCF_IngrRemains_BoneSkull_FrostGiant`~~ **UNUSED**
 
+      - ~~`OCF_IngrRemains_BoneSkull_Giant`~~ **UNUSED**
+
       - ~~`OCF_IngrRemains_BoneSkull_Goblin`~~ **UNUSED**
 
       - ~~`OCF_IngrRemains_BoneSkull_Troll`~~ **UNUSED**
@@ -2604,6 +2608,10 @@
 
 - `OCF_MgefSpellSacrifice_Blood`
 
+- `OCF_MgefSpellSacrifice_Corpse`
+
+- `OCF_MgefSpellSacrifice_Summon`
+
 - `OCF_MgefSpellShapechange`
 
   - `OCF_MgefSpellShapechange_Creature`
@@ -2969,6 +2977,8 @@
 - `ClothingNecklace` \[`0x10CD0A~Skyrim.esm`\]
 
 - `ClothingRing` \[`0x10CD09~Skyrim.esm`\]
+
+  - ~~`OCF_RingTypeWedding`~~ **UNUSED**
 
 - `OCF_AlchDrink_Water` \[`0xAF101C~Update.esm`\]
 
@@ -3866,7 +3876,7 @@
 
 - ~~`OCF_SpelClassMind`~~ **UNUSED**
 
-- ~~`OCF_SpelClassNecromancy`~~ **UNUSED**
+- `OCF_SpelClassNecromancy`
 
 - ~~`OCF_SpelClassPoison`~~ **UNUSED**
 
@@ -3960,6 +3970,78 @@
 
   - `OCF_CanMineStalhrim` \[`0x86A~OCF.esp`\]
 
+  ### Inventory Model
+
+- ~~`OCF_AmmoTypeArrow`~~ **UNUSED**
+
+- ~~`OCF_AmmoTypeBolt`~~ **UNUSED**
+
+- ~~`OCF_ArmorCuirass_Heavy`~~ **UNUSED**
+
+- ~~`OCF_ArmorCuirass_Light`~~ **UNUSED**
+
+- `OCF_ArmorShield_Heavy`
+
+- ~~`OCF_ArmorShield_Light`~~ **UNUSED**
+
+- ~~`OCF_MiscCampingGear`~~ **UNUSED**
+
+- `OCF_WeapTypeBattleaxe2H` \[`0x837~OCF.esp`\]
+
+- `OCF_WeapTypeBow2H` \[`0x84C~OCF.esp`\]
+
+- ~~`OCF_WeapTypeClaw1H` \[`0x777776~Update.esm`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeCrescent2H` \[`0x839~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeCrossbow2H` \[`0x853~OCF.esp`\]~~ **UNUSED**
+
+- `OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\]
+
+- ~~`OCF_WeapTypeFishingRod1H` \[`0x81F~OCF.esp`\]~~ **UNUSED**
+
+- `OCF_WeapTypeGreatsword2H` \[`0x867~OCF.esp`\]
+
+- ~~`OCF_WeapTypeHalberd2H` \[`0x844~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeHuntingKnife1H` \[`0x80A~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeKatana1H` \[`0x777779~Update.esm`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeKatana2H` \[`0x82E~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeKunai1H` \[`0x803~OCF.esp`\]~~ **UNUSED**
+
+- `OCF_WeapTypeMace1H` \[`0x821~OCF.esp`\]
+
+- ~~`OCF_WeapTypePickaxe1H` \[`0x816~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypePike2H` \[`0x847~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeRapier1H` \[`0x777774~Update.esm`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeScimitar1H` \[`0x80F~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeScythe2H` \[`0x777777~Update.esm`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeShuriken1H` \[`0x807~OCF.esp`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeSpear1H` \[`0x82B~OCF.esp`\]~~ **UNUSED**
+
+- `OCF_WeapTypeSword1H` \[`0x810~OCF.esp`\]
+
+- `OCF_WeapTypeWarAxe1H` \[`0x818~OCF.esp`\]
+
+- `OCF_WeapTypeWarhammer2H` \[`0x841~OCF.esp`\]
+
+- ~~`OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\]~~ **UNUSED**
+
+- ~~`OCF_WeapTypeWoodaxe1H` \[`0x81A~OCF.esp`\]~~ **UNUSED**
+
+- ~~`WAF_ClothingCloak` \[`0xAF0128~Update.esm`\]~~ **UNUSED**
+
 ### Type
 
 - `OCF_SpelPowerAction`
@@ -4048,7 +4130,7 @@
 
 - ~~`OCF_SpelSpellAbsorb_StaminaCloak`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellAssist`~~ **UNUSED**
+- `OCF_SpelSpellAssist`
 
 - ~~`OCF_SpelSpellAssist_DamageDruid`~~ **UNUSED**
 
@@ -4058,7 +4140,7 @@
 
   - ~~`OCF_SpelSpellBound_Ammo`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellBound_Armor`~~ **UNUSED**
+  - `OCF_SpelSpellBound_Armor`
 
   - ~~`OCF_SpelSpellBound_MiscItem`~~ **UNUSED**
 
@@ -4076,7 +4158,7 @@
 
 - ~~`OCF_SpelSpellCure`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellCurse`~~ **UNUSED**
+- `OCF_SpelSpellCurse`
 
 - ~~`OCF_SpelSpellCurse_Deconstruct`~~ **UNUSED**
 
@@ -4330,7 +4412,7 @@
 
 - ~~`OCF_SpelSpellHeal_SelfCloak`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellHeal_Undead`~~ **UNUSED**
+- `OCF_SpelSpellHeal_Undead`
 
 - ~~`OCF_SpelSpellInvisibility`~~ **UNUSED**
 
@@ -4414,6 +4496,10 @@
 
 - ~~`OCF_SpelSpellSacrifice_Blood`~~ **UNUSED**
 
+- `OCF_SpelSpellSacrifice_Corpse`
+
+- ~~`OCF_SpelSpellSacrifice_Summon`~~ **UNUSED**
+
 - ~~`OCF_SpelSpellShapechange`~~ **UNUSED**
 
   - ~~`OCF_SpelSpellShapechange_Creature`~~ **UNUSED**
@@ -4482,7 +4568,7 @@
 
   - ~~`OCF_SpelSpellSummon_SpiritShadow`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellSummon_Undead`~~ **UNUSED**
+- `OCF_SpelSpellSummon_Undead`
 
   - ~~`OCF_SpelSpellSummon_UndeadAsh`~~ **UNUSED**
 

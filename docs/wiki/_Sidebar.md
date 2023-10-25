@@ -188,6 +188,7 @@
 - [Class](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#class-1)
 - [Element](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#element)
 - [Gathering](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gathering)
+- [Inventory Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-model-1)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-12)
 
 ### **TALKING ACTIVATOR [`TACT`]**
