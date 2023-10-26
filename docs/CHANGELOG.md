@@ -10,7 +10,7 @@
 
 - **Keyword (`MGEF`) added:** `OCF_MgefSpellAssist_Necromancy`, `OCF_MgefSpellCurse_Necromancy`, `OCF_MgefSpellEnhance_AttackNecromancy`, `OCF_MgefSpellSacrifice_Corpse`, `OCF_MgefSpellSacrifice_Summon`.
 
-- **Keywords (`MISC`) added:** `OCF_MiscArcana`, `OCF_RingTypeWedding`.
+- **Keywords (`MISC`) added:** `OCF_InvColorNecromancy`, `OCF_MiscArcana`, `OCF_RingTypeWedding`.
 
 - **Keyword (`SPEL`) added:** `OCF_SpelClassNecromancy`, `OCF_SpelPowerAction_Speech`, `OCF_SpelSpellAssist_Necromancy`, `OCF_SpelSpellBound_Armor`, `OCF_SpelSpellCurse_Necromancy`, `OCF_SpelSpellDamage_Necrotic`, `OCF_SpelSpellEnhance_AttackNecromancy`, `OCF_SpelSpellHeal_Undead`, `OCF_SpelSpellSacrifice_Corpse`, `OCF_SpelSpellSummon_Undead`, `OCF_ArmorShield_Heavy`, `OCF_WeapTypeBattleaxe2H`, `OCF_WeapTypeBow2H`, `OCF_WeapTypeDagger1H`, `OCF_WeapTypeGreatsword2H`, `OCF_WeapTypeMace1H`, `OCF_WeapTypeSword1H`, `OCF_WeapTypeWarAxe1H`, `OCF_WeapTypeWarhammer2H`.
 

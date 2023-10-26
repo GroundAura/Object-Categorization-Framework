@@ -2844,6 +2844,8 @@
 
 - ~~`OCF_InvColorLegendary`~~ **UNUSED**
 
+- `OCF_InvColorNecromancy`
+
 - `OCF_InvColorSilver`
 
 ### Inventory Sorting
