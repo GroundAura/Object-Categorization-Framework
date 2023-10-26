@@ -8,15 +8,19 @@
 
 - **Keywords (`ARMO`) added:** `OCF_RingTypeWedding`.
 
-- **Keyword (`MGEF`) added:** `OCF_MgefSpellSacrifice_Corpse`, `OCF_MgefSpellSacrifice_Summon`.
+- **Keyword (`MGEF`) added:** `OCF_MgefSpellAssist_Necromancy`, `OCF_MgefSpellCurse_Necromancy`, `OCF_MgefSpellEnhance_AttackNecromancy`, `OCF_MgefSpellSacrifice_Corpse`, `OCF_MgefSpellSacrifice_Summon`.
 
-- **Keywords (`MISC`) added:** `OCF_RingTypeWedding`.
+- **Keywords (`MISC`) added:** `OCF_MiscArcana`, `OCF_RingTypeWedding`.
 
-- **Keyword (`SPEL`) added:** `OCF_SpelClassNecromancy`, `OCF_SpelSpellAssist`, `OCF_SpelSpellBound_Armor`, `OCF_SpelSpellCurse`, `OCF_SpelSpellHeal_Undead`, `OCF_SpelSpellSacrifice_Corpse`, `OCF_SpelSpellSummon_Undead`, `OCF_ArmorShield_Heavy`, `OCF_WeapTypeBattleaxe2H`, `OCF_WeapTypeBow2H`, `OCF_WeapTypeDagger1H`, `OCF_WeapTypeGreatsword2H`, `OCF_WeapTypeMace1H`, `OCF_WeapTypeSword1H`, `OCF_WeapTypeWarAxe1H`, `OCF_WeapTypeWarhammer2H`.
+- **Keyword (`SPEL`) added:** `OCF_SpelClassNecromancy`, `OCF_SpelPowerAction_Speech`, `OCF_SpelSpellAssist_Necromancy`, `OCF_SpelSpellBound_Armor`, `OCF_SpelSpellCurse_Necromancy`, `OCF_SpelSpellDamage_Necrotic`, `OCF_SpelSpellEnhance_AttackNecromancy`, `OCF_SpelSpellHeal_Undead`, `OCF_SpelSpellSacrifice_Corpse`, `OCF_SpelSpellSummon_Undead`, `OCF_ArmorShield_Heavy`, `OCF_WeapTypeBattleaxe2H`, `OCF_WeapTypeBow2H`, `OCF_WeapTypeDagger1H`, `OCF_WeapTypeGreatsword2H`, `OCF_WeapTypeMace1H`, `OCF_WeapTypeSword1H`, `OCF_WeapTypeWarAxe1H`, `OCF_WeapTypeWarhammer2H`.
 
-- **Keyword Categorization added:** Darenii's Necrotic (`ACTI`, `AMMO`, `ARMO`, `MGEF`, `SPEL`, `WEAP`).
+- **Keyword Categorization added:** Darenii's Necrotic (`ACTI`, `AMMO`, `ARMO`, `MGEF`, `MISC`, `SPEL`, `WEAP`), It Is Mine (`MGEF`, `SPEL`), Remote Interactions (`ALCH`, `MGEF`, `SPEL`), Taunt Your Enemies (`SPEL`).
 
-- **Keyword Categorization tweaked:** Vanilla (`ARMO`, `MISC`), CC Necromantic Grimoire (`MGEF`), Headhunter (`MISC`), general (`MISC`).
+- **Keyword Categorization fixed:** Daedric Entity Restoration Project (`MISC`).
+
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`, `MISC`), CC Necromantic Grimoire (`MGEF`), Headhunter (`MISC`), general (`ALCH`, `MISC`).
+
+ <!-- Darenii's Abyss (`MGEF`), Darenii's Arcane (`MGEF`), Darenii's Arclight (`MGEF`), Darenii's Bloodmoon (`MGEF`), Darenii's Desecration (`MGEF`), Darenii's Flames of Coldharbour (`MGEF`), Darenii's Inquisition (`MGEF`), Darenii's Lunaris (`MGEF`), Darenii's Natura (`MGEF`), Darenii's Necrom (`MGEF`), Darenii's Vulcano (`MGEF`), -->
 
 ## Version 4.6.0
 

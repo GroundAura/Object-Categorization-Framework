@@ -2244,6 +2244,8 @@
 
 - `OCF_MgefSpellAssist_MovementSpeedDruid`
 
+- `OCF_MgefSpellAssist_Necromancy`
+
 - `OCF_MgefSpellBound`
 
   - `OCF_MgefSpellBound_Ammo`
@@ -2271,6 +2273,8 @@
 - `OCF_MgefSpellCurse_Deconstruct`
 
 - `OCF_MgefSpellCurse_DruidRoot`
+
+- `OCF_MgefSpellCurse_Necromancy`
 
 - `OCF_MgefSpellCurse_Shadow`
 
@@ -2425,6 +2429,8 @@
 - `OCF_MgefSpellEnhance_Attack`
 
   - `OCF_MgefSpellEnhance_AttackEldritch`
+
+    - `OCF_MgefSpellEnhance_AttackNecromancy`
 
 - `OCF_MgefSpellEnhance_CarryWeight`
 
@@ -3049,6 +3055,8 @@
 - `OCF_IngrPlant`
 
   - `OCF_IngrPlant_Flower`
+
+- `OCF_MiscArcana`
 
 - `OCF_MiscCampingGear`
 
@@ -4096,7 +4104,7 @@
 
   - ~~`OCF_SpelPowerAction_Relax`~~ **UNUSED**
 
-  - ~~`OCF_SpelPowerAction_Speech`~~ **UNUSED**
+  - `OCF_SpelPowerAction_Speech`
 
   - ~~`OCF_SpelPowerAction_StatusFrostfall`~~ **UNUSED**
 
@@ -4130,11 +4138,13 @@
 
 - ~~`OCF_SpelSpellAbsorb_StaminaCloak`~~ **UNUSED**
 
-- `OCF_SpelSpellAssist`
+- ~~`OCF_SpelSpellAssist`~~ **UNUSED**
 
 - ~~`OCF_SpelSpellAssist_DamageDruid`~~ **UNUSED**
 
 - ~~`OCF_SpelSpellAssist_MovementSpeedDruid`~~ **UNUSED**
+
+- `OCF_SpelSpellAssistNecromancy`
 
 - `OCF_SpelSpellBound`
 
@@ -4158,11 +4168,13 @@
 
 - ~~`OCF_SpelSpellCure`~~ **UNUSED**
 
-- `OCF_SpelSpellCurse`
+- ~~`OCF_SpelSpellCurse`~~ **UNUSED**
 
 - ~~`OCF_SpelSpellCurse_Deconstruct`~~ **UNUSED**
 
 - ~~`OCF_SpelSpellCurse_DruidRoot`~~ **UNUSED**
+
+- `OCF_SpelSpellCurse_Necromancy`
 
 - ~~`OCF_SpelSpellCurse_Shadow`~~ **UNUSED**
 
@@ -4313,6 +4325,8 @@
 - ~~`OCF_SpelSpellEnhance_Attack`~~ **UNUSED**
 
   - ~~`OCF_SpelSpellEnhance_AttackEldritch`~~ **UNUSED**
+
+- `OCF_MgefSpellEnhance_AttackNecromancy`
 
 - ~~`OCF_SpelSpellEnhance_CarryWeight`~~ **UNUSED**
 
