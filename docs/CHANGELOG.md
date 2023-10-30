@@ -2,6 +2,8 @@
 
 ## Version 4.7.0
 
+- **FLM filters added:** My Lovely Follower Asset Pack.
+
 - **FormList Categorization added:** Darenii's Necrotic (`EXPL`, `HAZD`, `PROJ`).
 
 - **FormList Categorization tweaked:** Darenii's Desecration (`EXPL`, `HAZD`, `PROJ`).
