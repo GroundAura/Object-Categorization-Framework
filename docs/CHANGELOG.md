@@ -2,7 +2,7 @@
 
 ## Version 4.7.0
 
-- **FLM filters added:** [Hunting in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10353), [My Lovely Follower Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/75916).
+- **FLM filters added:** [Hunting in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10353), [My Lovely Follower Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/75916), [Various Ruins Jars](https://www.nexusmods.com/skyrimspecialedition/mods/100681).
 
 - **FormList Categorization added:** [Darenii's Necrotic](https://www.nexusmods.com/skyrimspecialedition/mods/101898) (`EXPL`, `HAZD`, `PROJ`), [Hunting in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (`EXPL`, `MSTT`, `PROJ`).
 
@@ -12,11 +12,11 @@
 
 - **Keyword (`MGEF`) added:** `OCF_MgefSpellAssist_Necromancy`, `OCF_MgefSpellCurse_Necromancy`, `OCF_MgefSpellEnhance_AttackNecromancy`, `OCF_MgefSpellSacrifice_Corpse`, `OCF_MgefSpellSacrifice_Summon`.
 
-- **Keywords (`MISC`) added:** `OCF_InvColorNecromancy`, `OCF_MiscArcana`, `OCF_RingTypeWedding`.
+- **Keywords (`MISC`) added:** `OCF_InvColorNecromancy`, `OCF_MiscArcana`, `OCF_RingTypeWedding`, `OCF_VesselHoneyPot`.
 
 - **Keyword (`SPEL`) added:** `OCF_SpelClassNecromancy`, `OCF_SpelPowerAction_Speech`, `OCF_SpelSpellAssist_Necromancy`, `OCF_SpelSpellBound_Armor`, `OCF_SpelSpellCurse_Necromancy`, `OCF_SpelSpellDamage_Necrotic`, `OCF_SpelSpellEnhance_AttackNecromancy`, `OCF_SpelSpellHeal_Undead`, `OCF_SpelSpellSacrifice_Corpse`, `OCF_SpelSpellSummon_Undead`, `OCF_ArmorShield_Heavy`, `OCF_WeapTypeBattleaxe2H`, `OCF_WeapTypeBow2H`, `OCF_WeapTypeDagger1H`, `OCF_WeapTypeGreatsword2H`, `OCF_WeapTypeMace1H`, `OCF_WeapTypeSword1H`, `OCF_WeapTypeWarAxe1H`, `OCF_WeapTypeWarhammer2H`.
 
-- **Keyword Categorization added:** [Darenii's Necrotic](https://www.nexusmods.com/skyrimspecialedition/mods/101898) (`ACTI`, `AMMO`, `ARMO`, `MGEF`, `MISC`, `SPEL`, `WEAP`), [Darenii's Plague](https://www.nexusmods.com/skyrimspecialedition/mods/62807) (`SPEL`), [It Is Mine](https://www.nexusmods.com/skyrimspecialedition/mods/17867) (`MGEF`, `SPEL`), [Mihail's Hanging Dead Chickens Variants](https://www.nexusmods.com/skyrimspecialedition/mods/92525) (`FLOR`), [Remote Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/89676) (`ALCH`, `MGEF`, `SPEL`), [Taunt Your Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/72023) (`SPEL`).
+- **Keyword Categorization added:** [Darenii's Necrotic](https://www.nexusmods.com/skyrimspecialedition/mods/101898) (`ACTI`, `AMMO`, `ARMO`, `MGEF`, `MISC`, `SPEL`, `WEAP`), [Darenii's Plague](https://www.nexusmods.com/skyrimspecialedition/mods/62807) (`SPEL`), [It Is Mine](https://www.nexusmods.com/skyrimspecialedition/mods/17867) (`MGEF`, `SPEL`), [Mihail's Hanging Dead Chickens Variants](https://www.nexusmods.com/skyrimspecialedition/mods/92525) (`FLOR`), [Remote Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/89676) (`ALCH`, `MGEF`, `SPEL`), [Taunt Your Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/72023) (`SPEL`), [Various Immersive Buckets](https://www.nexusmods.com/skyrimspecialedition/mods/95872) (`MISC`), [Various Immersive Coinbags](https://www.nexusmods.com/skyrimspecialedition/mods/96476) (`FLOR`), [Various Immersive Honey Pots](https://www.nexusmods.com/skyrimspecialedition/mods/102767) (`MISC`), [Various Immersive Saws](https://www.nexusmods.com/skyrimspecialedition/mods/99014) (`MISC`), [Various Immersive Tankards](https://www.nexusmods.com/skyrimspecialedition/mods/95417) (`MISC`).
 
 - **Keyword Categorization fixed:** [Daedric Entity Restoration Project](https://www.nexusmods.com/skyrimspecialedition/mods/3604) (`MISC`).
 

@@ -2926,7 +2926,7 @@
 
 - `OCF_VesselGamePiece`
 
-- ~~`OCF_VesselHoneyPot`~~ **UNUSED**
+- `OCF_VesselHoneyPot`
 
 - `OCF_VesselJug`
 
