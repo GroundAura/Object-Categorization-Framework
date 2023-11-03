@@ -2,11 +2,11 @@
 
 ## Version 4.7.0
 
-- **FLM filters added:** My Lovely Follower Asset Pack.
+- **FLM filters added:** [Hunting in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10353), [My Lovely Follower Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/75916).
 
-- **FormList Categorization added:** Darenii's Necrotic (`EXPL`, `HAZD`, `PROJ`).
+- **FormList Categorization added:** [Darenii's Necrotic](https://www.nexusmods.com/skyrimspecialedition/mods/101898) (`EXPL`, `HAZD`, `PROJ`), [Hunting in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10353) (`EXPL`, `MSTT`, `PROJ`).
 
-- **FormList Categorization tweaked:** Darenii's Desecration (`EXPL`, `HAZD`, `PROJ`).
+- **FormList Categorization tweaked:** [Darenii's Desecration](https://www.nexusmods.com/skyrimspecialedition/mods/90832) (`EXPL`, `HAZD`, `PROJ`).
 
 - **Keywords (`ARMO`) added:** `OCF_RingTypeWedding`.
 
@@ -16,13 +16,11 @@
 
 - **Keyword (`SPEL`) added:** `OCF_SpelClassNecromancy`, `OCF_SpelPowerAction_Speech`, `OCF_SpelSpellAssist_Necromancy`, `OCF_SpelSpellBound_Armor`, `OCF_SpelSpellCurse_Necromancy`, `OCF_SpelSpellDamage_Necrotic`, `OCF_SpelSpellEnhance_AttackNecromancy`, `OCF_SpelSpellHeal_Undead`, `OCF_SpelSpellSacrifice_Corpse`, `OCF_SpelSpellSummon_Undead`, `OCF_ArmorShield_Heavy`, `OCF_WeapTypeBattleaxe2H`, `OCF_WeapTypeBow2H`, `OCF_WeapTypeDagger1H`, `OCF_WeapTypeGreatsword2H`, `OCF_WeapTypeMace1H`, `OCF_WeapTypeSword1H`, `OCF_WeapTypeWarAxe1H`, `OCF_WeapTypeWarhammer2H`.
 
-- **Keyword Categorization added:** Darenii's Necrotic (`ACTI`, `AMMO`, `ARMO`, `MGEF`, `MISC`, `SPEL`, `WEAP`), It Is Mine (`MGEF`, `SPEL`), Remote Interactions (`ALCH`, `MGEF`, `SPEL`), Taunt Your Enemies (`SPEL`).
+- **Keyword Categorization added:** [Darenii's Necrotic](https://www.nexusmods.com/skyrimspecialedition/mods/101898) (`ACTI`, `AMMO`, `ARMO`, `MGEF`, `MISC`, `SPEL`, `WEAP`), [Darenii's Plague](https://www.nexusmods.com/skyrimspecialedition/mods/62807) (`SPEL`), [It Is Mine](https://www.nexusmods.com/skyrimspecialedition/mods/17867) (`MGEF`, `SPEL`), [Mihail's Hanging Dead Chickens Variants](https://www.nexusmods.com/skyrimspecialedition/mods/92525) (`FLOR`), [Remote Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/89676) (`ALCH`, `MGEF`, `SPEL`), [Taunt Your Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/72023) (`SPEL`).
 
-- **Keyword Categorization fixed:** Daedric Entity Restoration Project (`MISC`).
+- **Keyword Categorization fixed:** [Daedric Entity Restoration Project](https://www.nexusmods.com/skyrimspecialedition/mods/3604) (`MISC`).
 
-- **Keyword Categorization tweaked:** Vanilla (`ARMO`, `MISC`), CC Necromantic Grimoire (`MGEF`), Headhunter (`MISC`), general (`ALCH`, `MISC`).
-
- <!-- Darenii's Abyss (`MGEF`), Darenii's Arcane (`MGEF`), Darenii's Arclight (`MGEF`), Darenii's Bloodmoon (`MGEF`), Darenii's Desecration (`MGEF`), Darenii's Flames of Coldharbour (`MGEF`), Darenii's Inquisition (`MGEF`), Darenii's Lunaris (`MGEF`), Darenii's Natura (`MGEF`), Darenii's Necrom (`MGEF`), Darenii's Vulcano (`MGEF`), -->
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`, `MISC`), [CC Necromantic Grimoire](https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire) (`MGEF`), [Darenii's Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/83329) (`MGEF`), [Headhunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847) (`MISC`), general (`ALCH`, `MISC`).
 
 ## Version 4.6.0
 
