@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.7.1
+
+- **FOMOD:** Version fix.
+
 ## Version 4.7.0
 
 - **FLM filters added:** [Hunting in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/10353), [My Lovely Follower Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/75916), [SpiRally's Beautiful Butterflies Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85583), [Various Ruins Jars](https://www.nexusmods.com/skyrimspecialedition/mods/100681).
