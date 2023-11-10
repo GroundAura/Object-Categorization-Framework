@@ -2986,7 +2986,7 @@
 
 - `ClothingRing` \[`0x10CD09~Skyrim.esm`\]
 
-  - ~~`OCF_RingTypeWedding`~~ **UNUSED**
+  - `OCF_RingTypeWedding`
 
 - `OCF_AlchDrink_Water` \[`0xAF101C~Update.esm`\]
 
@@ -4146,7 +4146,7 @@
 
 - ~~`OCF_SpelSpellAssist_MovementSpeedDruid`~~ **UNUSED**
 
-- `OCF_SpelSpellAssistNecromancy`
+- `OCF_SpelSpellAssist_Necromancy`
 
 - `OCF_SpelSpellBound`
 
@@ -4328,7 +4328,7 @@
 
   - ~~`OCF_SpelSpellEnhance_AttackEldritch`~~ **UNUSED**
 
-- `OCF_MgefSpellEnhance_AttackNecromancy`
+- `OCF_SpelSpellEnhance_AttackNecromancy`
 
 - ~~`OCF_SpelSpellEnhance_CarryWeight`~~ **UNUSED**
 
