@@ -1,5 +1,11 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.7.2
+
+- **Keyword Categorization added:** [4th Unknown's Horse-Slaying Saber](https://www.nexusmods.com/skyrimspecialedition/mods/91035) (`WEAP`)
+
+- **Keyword Categorization fixed:** [Helps to Have a Compass](https://www.nexusmods.com/skyrimspecialedition/mods/37239) (`ARMO`), [Helps to Have a Map](https://www.nexusmods.com/skyrimspecialedition/mods/37238) (`ARMO`).
+
 ## Version 4.7.1
 
 - **FOMOD:** Version fix.
