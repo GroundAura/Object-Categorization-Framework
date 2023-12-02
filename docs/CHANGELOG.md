@@ -2,11 +2,13 @@
 
 ## Version 4.8.0
 
-- **FLM filters added:** [83Willows 101BugsHD Butterfly Dragonfly Luna-Moth Torchbug](https://www.nexusmods.com/skyrim/mods/4955).
+- **FLM filters added:** [83Willows 101BugsHD](https://www.nexusmods.com/skyrim/mods/4955).
 
-- **Keyword Categorization added:** [4th Unknown's Horse-Slaying Saber](https://www.nexusmods.com/skyrimspecialedition/mods/91035) (`WEAP`), [83Willows 101BugsHD Butterfly Dragonfly Luna-Moth Torchbug](https://www.nexusmods.com/skyrim/mods/4955) (`ACTI`, `INGR`).
+- **Keyword Categorization added:** [4th Unknown's Horse-Slaying Saber](https://www.nexusmods.com/skyrimspecialedition/mods/91035) (`WEAP`), [83Willows 101BugsHD](https://www.nexusmods.com/skyrim/mods/4955) (`ACTI`, `INGR`), [Genshin Impact Sword Pack Part 1](https://www.nexusmods.com/skyrimspecialedition/mods/102050) (`WEAP`), [Genshin Impact Sword Pack Part 2](https://www.nexusmods.com/skyrimspecialedition/mods/102832) (`WEAP`), [Longsword Pack](https://www.nexusmods.com/skyrimspecialedition/mods/103416) (`WEAP`).
 
 - **Keyword Categorization fixed:** [Helps to Have a Compass](https://www.nexusmods.com/skyrimspecialedition/mods/37239) (`ARMO`), [Helps to Have a Map](https://www.nexusmods.com/skyrimspecialedition/mods/37238) (`ARMO`).
+
+- **Keyword Categorization tweaked:** General (`WEAP`).
 
 ## Version 4.7.1
 
