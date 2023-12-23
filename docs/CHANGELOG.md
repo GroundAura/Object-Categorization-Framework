@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 4.9.0
+
+- **Keyword Categorization added:** [Meats Meals & More](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Meats Meals & More - Survival Addon](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Panties of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47574) (`ARMO`).
+
 ## Version 4.8.0
 
 - **FLM filters added:** [83Willows 101BugsHD](https://www.nexusmods.com/skyrim/mods/4955), [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532).
