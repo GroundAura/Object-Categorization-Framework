@@ -1350,7 +1350,11 @@
 
 ### Inventory Color
 
+- ~~`OCF_InvColorAedric`~~ **UNUSED**
+
 - `OCF_InvColorDaedric`
+
+- `OCF_InvColorGold`
 
 - `OCF_InvColorLegendary`
 
@@ -2836,9 +2840,11 @@
 
 ### Inventory Color
 
+- `OCF_InvColorBlood`
+
 - `OCF_InvColorCopper`
 
-- ~~`OCF_InvColorDaedric`~~ **UNUSED**
+- `OCF_InvColorDaedric`
 
 - `OCF_InvColorEldritch`
 
@@ -2847,6 +2853,8 @@
 - ~~`OCF_InvColorLegendary`~~ **UNUSED**
 
 - `OCF_InvColorNecromancy`
+
+- `OCF_InvColorRed`
 
 - `OCF_InvColorSilver`
 
@@ -2930,6 +2938,8 @@
 
 - `OCF_VesselHoneyPot`
 
+- ~~`OCF_VesselJar`~~ **UNUSED**
+
 - `OCF_VesselJug`
 
 - `OCF_VesselKeg`
@@ -2947,6 +2957,10 @@
 - `OCF_VesselSatchel`
 
 - ~~`OCF_VesselScrollCase`~~ **UNUSED**
+
+- ~~`OCF_VesselSkull_Human`~~ **UNUSED**
+
+- ~~`OCF_VesselSkull_Troll`~~ **UNUSED**
 
 - `OCF_VesselTankard`
 
@@ -5112,6 +5126,8 @@
 
     - `OCF_WeapTypeQuarterstaff1H` \[`0x823~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeScepter1H`~~ **UNUSED**
+
     - `OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\]
 
   - `OCF_WeapTypePole1H` \[`0x824~OCF.esp`\]
@@ -5308,7 +5324,11 @@
 
   - `OCF_WeapTypeBlankStaff` \[`0x862~OCF.esp`\]
 
+  - ~~`OCF_WeapTypeBlankWand`~~ **UNUSED**
+
   - `OCF_WeapTypeStaff` \[`0x863~OCF.esp`\]
+
+  - ~~`OCF_WeapTypeWand`~~ **UNUSED**
 
 ### Type B
 

@@ -2,19 +2,19 @@
 
 ## Version 4.9.0
 
-- **FLM filters added:** [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/), [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697), other.
+- **FLM filters added:** [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/), [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697), [Skyrims Unique Treasures](https://www.nexusmods.com/skyrimspecialedition/mods/5261), other.
 
 - **Keywords (`ACTI`) added:** `OCF_ActiVein_Relic`.
 
-- **Keywords (`ALCH`) added:** `OCF_MiscSoap`, `OCF_MiscWashcloth`.
+- **Keywords (`ALCH`) added:** `OCF_InvColorGold`, `OCF_MiscSoap`, `OCF_MiscWashcloth`.
 
-- **Keywords (`MISC`) added:** `OCF_MiscFossil`.
+- **Keywords (`MISC`) added:** `OCF_InvColorBlood`, `OCF_MiscFossil`.
 
-- **Keyword Categorization added:** [Fossil Mining](https://www.nexusmods.com/skyrimspecialedition/mods/14107) (`ACTI`, `MISC`), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/) (`ACTI`, `ALCH`, `FLOR`, `INGR`, `MISC`) [Inn Soaps (Keep it Clean)](https://www.nexusmods.com/skyrimspecialedition/mods/29615) (`ALCH`), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) (`ALCH`, `MISC`), [Meats Meals & More](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Meats Meals & More - Survival Addon](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193) (`BOOK`), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697) (`BOOK`), [Panties of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47574) (`ARMO`).
+- **Keyword Categorization added:** [Fossil Mining](https://www.nexusmods.com/skyrimspecialedition/mods/14107) (`ACTI`, `MISC`), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/) (`ACTI`, `ALCH`, `FLOR`, `INGR`, `MISC`) [Inn Soaps (Keep it Clean)](https://www.nexusmods.com/skyrimspecialedition/mods/29615) (`ALCH`), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) (`ALCH`, `MISC`), [Meats Meals & More](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Meats Meals & More - Survival Addon](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193) (`BOOK`), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697) (`BOOK`), [Panties of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47574) (`ARMO`), [Skyrims Unique Treasures](https://www.nexusmods.com/skyrimspecialedition/mods/5261) (`ACTI`, `ALCH`, `MISC`, `WEAP`).
 
 - **Keyword Categorization fixed:** [Improved Fish](https://www.nexusmods.com/skyrimspecialedition/mods/17324) (`ACTI`).
 
-- **Keyword Categorization tweaked:** General (`ACTI`, `ALCH`, `BOOK`).
+- **Keyword Categorization tweaked:** General (`ACTI`, `ALCH`, `BOOK`, `WEAP`).
 
 ## Version 4.8.0
 
