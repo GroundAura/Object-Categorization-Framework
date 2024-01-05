@@ -132,6 +132,8 @@
 
   - `OCF_ActiVein_Mineral` – A minable deposit of minerals, such as ore, gems, or stone.
 
+  - `OCF_ActiVein_Relic` – A minable deposit of relics, such as a fossil or rubble dig site.
+
 - ~~`OCF_ActiWater` – Water.~~ **UNUSED**
 
 - `OCF_FlorCoinpile` – A harvestable pile of coins.
@@ -3097,6 +3099,8 @@
 - ~~`OCF_MiscClutter`~~ **UNUSED**
 
 - `OCF_MiscDye`
+
+- `OCF_MiscFossil`
 
 - `OCF_MiscHorseGear`
 

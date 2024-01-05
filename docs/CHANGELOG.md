@@ -2,7 +2,11 @@
 
 ## Version 4.9.0
 
-- **Keyword Categorization added:** [Meats Meals & More](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Meats Meals & More - Survival Addon](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Panties of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47574) (`ARMO`).
+- **Keywords (`ACTI`) added:** `OCF_ActiVein_Relic`.
+
+- **Keywords (`MISC`) added:** `OCF_MiscFossil`.
+
+- **Keyword Categorization added:** [Fossil Mining](https://www.nexusmods.com/skyrimspecialedition/mods/14107) (`ACTI`, `MISC`), [Meats Meals & More](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Meats Meals & More - Survival Addon](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Panties of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47574) (`ARMO`).
 
 ## Version 4.8.0
 
