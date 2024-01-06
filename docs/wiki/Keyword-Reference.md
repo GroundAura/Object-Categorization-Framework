@@ -210,39 +210,39 @@
 
 ### Type
 
-- `OCF_AmmoTypeArrow`
+- `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]
 
-  - `OCF_AmmoTypeArrow_Basic`
+  - `OCF_AmmoTypeArrow_Basic` \[`0x872~OCF.esp`\]
 
-  - `OCF_AmmoTypeGreatarrow`
+  - `OCF_AmmoTypeGreatarrow` \[`0x873~OCF.esp`\]
 
-  - `OCF_AmmoTypeJavelin`
+  - `OCF_AmmoTypeJavelin` \[`0x874~OCF.esp`\]
 
-- `OCF_AmmoTypeBolt`
+- `OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\]
 
-- `OCF_AmmoTypeBullet`
+- `OCF_AmmoTypeBullet` \[`0x86F~OCF.esp`\]
 
-  - `OCF_AmmoTypeBullet1H`
+  - `OCF_AmmoTypeBullet1H` \[`0x875~OCF.esp`\]
 
-    - `OCF_AmmoTypeBullet1H_Basic`
+    - `OCF_AmmoTypeBullet1H_Basic` \[`0x877~OCF.esp`\]
 
     - ~~`OCF_AmmoTypeBullet1H_Shotgun`~~ **UNUSED**
 
     - ~~`OCF_AmmoTypeBullet1H_Launcher`~~ **UNUSED**
 
-  - `OCF_AmmoTypeBullet2H`
+  - `OCF_AmmoTypeBullet2H` \[`0x876~OCF.esp`\]
 
-    - `OCF_AmmoTypeBullet2H_Basic`
+    - `OCF_AmmoTypeBullet2H_Basic` \[`0x878~OCF.esp`\]
 
     - ~~`OCF_AmmoTypeBullet2H_Energy`~~ **UNUSED**
 
-    - `OCF_AmmoTypeBullet2H_Shotgun`
+    - `OCF_AmmoTypeBullet2H_Shotgun` \[`0x879~OCF.esp`\]
 
-    - `OCF_AmmoTypeBullet2H_Launcher`
+    - `OCF_AmmoTypeBullet2H_Launcher` \[`0x87A~OCF.esp`\]
 
-- `OCF_AmmoTypeDart`
+- `OCF_AmmoTypeDart` \[`0x870~OCF.esp`\]
 
-- `OCF_AmmoTypeSlingshot`
+- `OCF_AmmoTypeSlingshot` \[`0x871~OCF.esp`\]
 
 - `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\]
 
@@ -2066,9 +2066,9 @@
 
 ### Inventory Model
 
-- `OCF_AmmoTypeArrow`
+- `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]
 
-- `OCF_AmmoTypeBolt`
+- `OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\]
 
 - `OCF_ArmorCuirass_Heavy`
 
@@ -3026,15 +3026,15 @@
 
 - `OCF_AlchSpoiled`
 
-- `OCF_AmmoTypeArrow`
+- `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]
 
-- `OCF_AmmoTypeBullet`
+- `OCF_AmmoTypeBullet` \[`0x86F~OCF.esp`\]
 
-  - `OCF_AmmoTypeBullet1H`
+  - `OCF_AmmoTypeBullet1H` \[`0x875~OCF.esp`\]
 
-    - `OCF_AmmoTypeBullet1H_Basic`
+    - `OCF_AmmoTypeBullet1H_Basic` \[`0x877~OCF.esp`\]
 
-  - ~~`OCF_AmmoTypeBullet2H`~~ **UNUSED**
+  - ~~`OCF_AmmoTypeBullet2H` \[`0x876~OCF.esp`\]~~ **UNUSED**
 
 - `OCF_BookTextAncient`
 
@@ -3850,9 +3850,9 @@
 
   - `OCF_MiscChildToy_Doll`
 
-- `OCF_AmmoTypeBullet`
+- `OCF_AmmoTypeBullet` \[`0x86F~OCF.esp`\]
 
-  - `OCF_AmmoTypeBullet1H`
+  - `OCF_AmmoTypeBullet1H` \[`0x875~OCF.esp`\]
 
 - `OCF_ArtifactDaedric_AzuraStar`
 
@@ -4000,9 +4000,9 @@
 
   ### Inventory Model
 
-- ~~`OCF_AmmoTypeArrow`~~ **UNUSED**
+- ~~`OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]~~ **UNUSED**
 
-- ~~`OCF_AmmoTypeBolt`~~ **UNUSED**
+- ~~`OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\]~~ **UNUSED**
 
 - ~~`OCF_ArmorCuirass_Heavy`~~ **UNUSED**
 

@@ -2,13 +2,25 @@
 
 ## Version 4.9.0
 
+- **Author's Note:** This update is mostly catching up with suggestions and requests. If you suggested something for OCF that I haven't added yet feel free to remind me. Enjoy!
+
+- **ESP (`OCF.esp`):** Added several ammo type keywords (`OCF.esp|xxx`).
+
 - **FLM filters added:** [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/), [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697), [Skyrims Unique Treasures](https://www.nexusmods.com/skyrimspecialedition/mods/5261), other.
 
 - **Keywords (`ACTI`) added:** `OCF_ActiVein_Relic`.
 
 - **Keywords (`ALCH`) added:** `OCF_InvColorGold`, `OCF_MiscSoap`, `OCF_MiscWashcloth`.
 
+- **Keywords (`AMMO`) changed:** `OCF_AmmoTypeArrow` to `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]. `OCF_AmmoTypeArrow_Basic` to `OCF_AmmoTypeArrow_Basic` \[`0x872~OCF.esp`\]. `OCF_AmmoTypeGreatarrow` to `OCF_AmmoTypeGreatarrow` \[`0x873~OCF.esp`\]. `OCF_AmmoTypeJavelin` to `OCF_AmmoTypeJavelin` \[`0x874~OCF.esp`\]. `OCF_AmmoTypeBolt` to `OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\]. `OCF_AmmoTypeBullet` to `OCF_AmmoTypeBullet` \[`0x86F~OCF.esp`\]. `OCF_AmmoTypeBullet1H` to `OCF_AmmoTypeBullet1H` \[`0x875~OCF.esp`\]. `OCF_AmmoTypeBullet1H_Basic` to `OCF_AmmoTypeBullet1H_Basic` \[`0x877~OCF.esp`\]. `OCF_AmmoTypeBullet2H` to `OCF_AmmoTypeBullet2H` \[`0x876~OCF.esp`\]. `OCF_AmmoTypeBullet2H_Basic` to `OCF_AmmoTypeBullet2H_Basic` \[`0x878~OCF.esp`\]. `OCF_AmmoTypeBullet2H_Shotgun` to `OCF_AmmoTypeBullet2H_Shotgun` \[`0x879~OCF.esp`\]. `OCF_AmmoTypeBullet2H_Launcher` to `OCF_AmmoTypeBullet2H_Launcher` \[`0x87A~OCF.esp`\]. `OCF_AmmoTypeDart` to `OCF_AmmoTypeDart` \[`0x870~OCF.esp`\]. `OCF_AmmoTypeSlingshot` to `OCF_AmmoTypeSlingshot` \[`0x871~OCF.esp`\].
+
+- **Keywords (`MGEF`) changed:** `OCF_AmmoTypeArrow` to `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]. `OCF_AmmoTypeBolt` to `OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\].
+
 - **Keywords (`MISC`) added:** `OCF_InvColorBlood`, `OCF_MiscFossil`.
+
+- **Keywords (`MISC`) changed:** `OCF_AmmoTypeArrow` to `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]. `OCF_AmmoTypeBullet` to `OCF_AmmoTypeBullet` \[`0x86F~OCF.esp`\]. `OCF_AmmoTypeBullet1H` to `OCF_AmmoTypeBullet1H` \[`0x875~OCF.esp`\]. `OCF_AmmoTypeBullet1H_Basic` to `OCF_AmmoTypeBullet1H_Basic` \[`0x877~OCF.esp`\].
+
+ **Keywords (`SLGM`) changed:** `OCF_AmmoTypeBullet` to `OCF_AmmoTypeBullet` \[`0x86F~OCF.esp`\]. `OCF_AmmoTypeBullet1H` to `OCF_AmmoTypeBullet1H` \[`0x875~OCF.esp`\].
 
 - **Keyword Categorization added:** [Fossil Mining](https://www.nexusmods.com/skyrimspecialedition/mods/14107) (`ACTI`, `MISC`), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/) (`ACTI`, `ALCH`, `FLOR`, `INGR`, `MISC`) [Inn Soaps (Keep it Clean)](https://www.nexusmods.com/skyrimspecialedition/mods/29615) (`ALCH`), [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846) (`ALCH`, `MISC`), [Meats Meals & More](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Meats Meals & More - Survival Addon](https://www.nexusmods.com/skyrimspecialedition/mods/96718) (`ALCH`), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193) (`BOOK`), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697) (`BOOK`), [Panties of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47574) (`ARMO`), [Skyrims Unique Treasures](https://www.nexusmods.com/skyrimspecialedition/mods/5261) (`ACTI`, `ALCH`, `MISC`, `WEAP`).
 
