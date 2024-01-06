@@ -6,7 +6,9 @@
 
 - **ESP (`OCF.esp`):** Added several ammo type keywords (`OCF.esp|xxx`).
 
-- **FLM filters added:** [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/), [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697), [Skyrims Unique Treasures](https://www.nexusmods.com/skyrimspecialedition/mods/5261), other.
+- **FLM filters added:** [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Corkbulb (Ammunition) Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92827), [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/), [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615), [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697), [Skyrims Unique Treasures](https://www.nexusmods.com/skyrimspecialedition/mods/5261), other.
+
+- **FormList Categorization added:** [CC Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) (`PROJ`), [Corkbulb (Ammunition) Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92827) (`PROJ`, `TREE`).
 
 - **Keywords (`ACTI`) added:** `OCF_ActiVein_Relic`.
 
