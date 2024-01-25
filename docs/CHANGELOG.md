@@ -6,9 +6,11 @@
 
 - **Keywords (`ARMO`) added:** `OCF_HeadTypeCirclet`, `OCF_HeadTypeHat_Conical`, `OCF_HeadTypeHat_Generic`, `OCF_HeadTypeHat_Wizard`.
 
+- **Keywords (`MISC`) added:** `OCF_ReplicaLegendary`.
+
 - **Keywords (`SPEL`) changes:** Changed all the keywords to exactly match the `MGEF` keywords.
 
-- **Keyword Categorization added:** [Armory of the Dragon Cult - Dragon Priest Armor](https://www.nexusmods.com/skyrimspecialedition/mods/94244) (`ARMO`), [Fashons of The Fourth Era](https://sforzmods.tumblr.com/sse_fashions) (`ARMO`), [JS Armored Circlets](https://www.nexusmods.com/skyrimspecialedition/mods/2140) (`ARMO`), [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`MGEF`), [Tes4Mod](https://www.nexusmods.com/skyrimspecialedition/mods/41100) (`ARMO`), [Wizard Hats](https://www.nexusmods.com/skyrimspecialedition/mods/2385) (`ARMO`).
+- **Keyword Categorization added:** [Armory of the Dragon Cult - Dragon Priest Armor](https://www.nexusmods.com/skyrimspecialedition/mods/94244) (`ARMO`), [Fashons of The Fourth Era](https://sforzmods.tumblr.com/sse_fashions) (`ARMO`), [JS Armored Circlets](https://www.nexusmods.com/skyrimspecialedition/mods/2140) (`ARMO`), [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`MGEF`), [Skyrims Unique Treasures - LotD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30980) (`MISC`, `WEAP`), [Tes4Mod](https://www.nexusmods.com/skyrimspecialedition/mods/41100) (`ARMO`), [Wizard Hats](https://www.nexusmods.com/skyrimspecialedition/mods/2385) (`ARMO`).
 
 - **Keyword Categorization fixed:** Vanilla (`MGEF`), [SimonMagus' Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) (`MGEF`), [Tera Armors Collection](https://www.nexusmods.com/skyrimspecialedition/mods/9651) (`ARMO`).
 

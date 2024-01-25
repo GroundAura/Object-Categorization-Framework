@@ -2848,6 +2848,8 @@
 
 - `OCF_Replica` – An imitation or replica of an artifact, relic, or other item.
 
+  - `OCF_ReplicaLegendary`
+
 ### Inventory Color
 
 - `OCF_InvColorBlood`
