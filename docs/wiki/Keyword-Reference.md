@@ -762,6 +762,8 @@
 
   - `OCF_HeadTypeBlindfold`
 
+  - `OCF_HeadTypeCirclet`
+
   - `OCF_HeadTypeEarsReal`
 
   - `OCF_HeadTypeEyePatch`
@@ -775,6 +777,14 @@
   - `OCF_HeadTypeHalo`
 
   - `OCF_HeadTypeHat`
+
+    - `OCF_HeadTypeHat_Conical`
+
+    - `OCF_HeadTypeHat_Generic`
+
+    - ~~`OCF_HeadTypeHat_Stetson`~~ **UNUSED**
+
+    - `OCF_HeadTypeHat_Wizard`
 
   - `OCF_HeadTypeHood`
 
@@ -3876,87 +3886,87 @@
 
 ### Class
 
-- ~~`OCF_SpelClassArcane`~~ **UNUSED**
+- `OCF_MgefClassArcane`
 
-- `OCF_SpelClassArtificer`
+- `OCF_MgefClassArtificer`
 
-- ~~`OCF_SpelClassAsh`~~ **UNUSED**
+- `OCF_MgefClassAsh`
 
-- ~~`OCF_SpelClassAstral`~~ **UNUSED**
+- `OCF_MgefClassAstral`
 
-- ~~`OCF_SpelClassBard`~~ **UNUSED**
+- `OCF_MgefClassBard`
 
-- ~~`OCF_SpelClassBlood`~~ **UNUSED**
+- `OCF_MgefClassBlood`
 
-- ~~`OCF_SpelClassDruid`~~ **UNUSED**
+- `OCF_MgefClassDruid`
 
-- ~~`OCF_SpelClassEarth`~~ **UNUSED**
+- `OCF_MgefClassEarth`
 
-- ~~`OCF_SpelClassEldritch`~~ **UNUSED**
+- `OCF_MgefClassEldritch`
 
-- ~~`OCF_SpelClassFire`~~ **UNUSED**
+- `OCF_MgefClassFire`
 
-- ~~`OCF_SpelClassFrost`~~ **UNUSED**
+- `OCF_MgefClassFrost`
 
-- ~~`OCF_SpelClassGeneral`~~ **UNUSED**
+- `OCF_MgefClassGeneral`
 
-- `OCF_SpelClassHoly`
+- `OCF_MgefClassHoly`
 
-- ~~`OCF_SpelClassMind`~~ **UNUSED**
+- `OCF_MgefClassMind`
 
-- `OCF_SpelClassNecromancy`
+- `OCF_MgefClassNecromancy`
 
-- ~~`OCF_SpelClassPoison`~~ **UNUSED**
+- `OCF_MgefClassPoison`
 
-- ~~`OCF_SpelClassRace_Altmer`~~ **UNUSED**
+- `OCF_MgefClassRace_Altmer`
 
-- ~~`OCF_SpelClassRace_Argonian`~~ **UNUSED**
+- `OCF_MgefClassRace_Argonian`
 
-- ~~`OCF_SpelClassRace_Bosmer`~~ **UNUSED**
+- `OCF_MgefClassRace_Bosmer`
 
-- ~~`OCF_SpelClassRace_Breton`~~ **UNUSED**
+- `OCF_MgefClassRace_Breton`
 
-- ~~`OCF_SpelClassRace_Dunmer`~~ **UNUSED**
+- `OCF_MgefClassRace_Dunmer`
 
-- ~~`OCF_SpelClassRace_Dwemer`~~ **UNUSED**
+- `OCF_MgefClassRace_Dwemer`
 
-- ~~`OCF_SpelClassRace_Falmer`~~ **UNUSED**
+- `OCF_MgefClassRace_Falmer`
 
-- ~~`OCF_SpelClassRace_Imperial`~~ **UNUSED**
+- `OCF_MgefClassRace_Imperial`
 
-- ~~`OCF_SpelClassRace_Khajiit`~~ **UNUSED**
+- `OCF_MgefClassRace_Khajiit`
 
-- `OCF_SpelClassRace_Lich`
+- `OCF_MgefClassRace_Lich`
 
-- ~~`OCF_SpelClassRace_Nord`~~ **UNUSED**
+- `OCF_MgefClassRace_Nord`
 
-- ~~`OCF_SpelClassRace_Orsimer`~~ **UNUSED**
+- `OCF_MgefClassRace_Orsimer`
 
-- ~~`OCF_SpelClassRace_Other`~~ **UNUSED**
+- `OCF_MgefClassRace_Other`
 
-- ~~`OCF_SpelClassRace_Redguard`~~ **UNUSED**
+- `OCF_MgefClassRace_Redguard`
 
-- ~~`OCF_SpelClassRace_Vampire`~~ **UNUSED**
+- `OCF_MgefClassRace_Vampire`
 
-- ~~`OCF_SpelClassRace_Werebeast`~~ **UNUSED**
+- `OCF_MgefClassRace_Werebeast`
 
-- ~~`OCF_SpelClassShadow`~~ **UNUSED**
+- `OCF_MgefClassShadow`
 
-- ~~`OCF_SpelClassShock`~~ **UNUSED**
+- `OCF_MgefClassShock`
 
-- ~~`OCF_SpelClassSurvival`~~ **UNUSED**
+- `OCF_MgefClassSurvival`
 
-  - `OCF_SpelClassSurvival_Needs`F
+  - `OCF_MgefClassSurvival_Needs`
 
-  - ~~`OCF_SpelClassSurvival_Wilderness`~~ **UNUSED**
+  - `OCF_MgefClassSurvival_Wilderness`
 
-- ~~`OCF_SpelClassUtility`~~ **UNUSED**
+- `OCF_MgefClassUtility`
 
-- ~~`OCF_SpelClassWater`~~ **UNUSED**
+- `OCF_MgefClassWater`
 
-- ~~`OCF_SpelClassWind`~~ **UNUSED**
+- `OCF_MgefClassWind`
 
-- ~~`OCF_SpelClassWitcher`~~ **UNUSED**
+- `OCF_MgefClassWitcher`
 
 ### Element
 
@@ -4000,63 +4010,63 @@
 
   ### Inventory Model
 
-- ~~`OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]~~ **UNUSED**
+- `OCF_AmmoTypeArrow` \[`0x86D~OCF.esp`\]
 
-- ~~`OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\]~~ **UNUSED**
+- `OCF_AmmoTypeBolt` \[`0x86E~OCF.esp`\]
 
-- ~~`OCF_ArmorCuirass_Heavy`~~ **UNUSED**
+- `OCF_ArmorCuirass_Heavy`
 
-- ~~`OCF_ArmorCuirass_Light`~~ **UNUSED**
+- `OCF_ArmorCuirass_Light`
 
 - `OCF_ArmorShield_Heavy`
 
-- ~~`OCF_ArmorShield_Light`~~ **UNUSED**
+- `OCF_ArmorShield_Light`
 
-- ~~`OCF_MiscCampingGear`~~ **UNUSED**
+- `OCF_MiscCampingGear`
 
 - `OCF_WeapTypeBattleaxe2H` \[`0x837~OCF.esp`\]
 
 - `OCF_WeapTypeBow2H` \[`0x84C~OCF.esp`\]
 
-- ~~`OCF_WeapTypeClaw1H` \[`0x777776~Update.esm`\]~~ **UNUSED**
+- `OCF_WeapTypeClaw1H` \[`0x777776~Update.esm`\]
 
-- ~~`OCF_WeapTypeCrescent2H` \[`0x839~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeCrescent2H` \[`0x839~OCF.esp`\]
 
-- ~~`OCF_WeapTypeCrossbow2H` \[`0x853~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeCrossbow2H` \[`0x853~OCF.esp`\]
 
 - `OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\]
 
-- ~~`OCF_WeapTypeFishingRod1H` \[`0x81F~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeFishingRod1H` \[`0x81F~OCF.esp`\]
 
 - `OCF_WeapTypeGreatsword2H` \[`0x867~OCF.esp`\]
 
-- ~~`OCF_WeapTypeHalberd2H` \[`0x844~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeHalberd2H` \[`0x844~OCF.esp`\]
 
-- ~~`OCF_WeapTypeHuntingKnife1H` \[`0x80A~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeHuntingKnife1H` \[`0x80A~OCF.esp`\]
 
-- ~~`OCF_WeapTypeKatana1H` \[`0x777779~Update.esm`\]~~ **UNUSED**
+- `OCF_WeapTypeKatana1H` \[`0x777779~Update.esm`\]
 
-- ~~`OCF_WeapTypeKatana2H` \[`0x82E~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeKatana2H` \[`0x82E~OCF.esp`\]
 
-- ~~`OCF_WeapTypeKunai1H` \[`0x803~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeKunai1H` \[`0x803~OCF.esp`\]
 
 - `OCF_WeapTypeMace1H` \[`0x821~OCF.esp`\]
 
-- ~~`OCF_WeapTypePickaxe1H` \[`0x816~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypePickaxe1H` \[`0x816~OCF.esp`\]
 
-- ~~`OCF_WeapTypePike2H` \[`0x847~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypePike2H` \[`0x847~OCF.esp`\]
 
-- ~~`OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]~~ **UNUSED**
+- `OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]
 
-- ~~`OCF_WeapTypeRapier1H` \[`0x777774~Update.esm`\]~~ **UNUSED**
+- `OCF_WeapTypeRapier1H` \[`0x777774~Update.esm`\]
 
-- ~~`OCF_WeapTypeScimitar1H` \[`0x80F~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeScimitar1H` \[`0x80F~OCF.esp`\]
 
-- ~~`OCF_WeapTypeScythe2H` \[`0x777777~Update.esm`\]~~ **UNUSED**
+- `OCF_WeapTypeScythe2H` \[`0x777777~Update.esm`\]
 
-- ~~`OCF_WeapTypeShuriken1H` \[`0x807~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeShuriken1H` \[`0x807~OCF.esp`\]
 
-- ~~`OCF_WeapTypeSpear1H` \[`0x82B~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeSpear1H` \[`0x82B~OCF.esp`\]
 
 - `OCF_WeapTypeSword1H` \[`0x810~OCF.esp`\]
 
@@ -4064,561 +4074,567 @@
 
 - `OCF_WeapTypeWarhammer2H` \[`0x841~OCF.esp`\]
 
-- ~~`OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\]~~ **UNUSED**
+- `OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\]
 
-- ~~`OCF_WeapTypeWoodaxe1H` \[`0x81A~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeWoodaxe1H` \[`0x81A~OCF.esp`\]
 
-- ~~`WAF_ClothingCloak` \[`0xAF0128~Update.esm`\]~~ **UNUSED**
+- `WAF_ClothingCloak` \[`0xAF0128~Update.esm`\]
 
 ### Type
 
-- `OCF_SpelPowerAction`
+- `OCF_MgefPowerAction`
 
-  - ~~`OCF_SpelPowerAction_Bag`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Bag`
 
-  - ~~`OCF_SpelPowerAction_Bard`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Bard`
 
-  - ~~`OCF_SpelPowerAction_Bathe`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Bathe`
 
-  - ~~`OCF_SpelPowerAction_Bless`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Bless`
 
-  - ~~`OCF_SpelPowerAction_BuryCorpse`~~ **UNUSED**
+  - `OCF_MgefPowerAction_BuryCorpse`
 
-  - ~~`OCF_SpelPowerAction_Campfire`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Campfire`
 
-  - ~~`OCF_SpelPowerAction_Coin`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Coin`
 
-  - `OCF_SpelPowerAction_CommandFollower`
+  - `OCF_MgefPowerAction_CommandFollower`
 
-  - ~~`OCF_SpelPowerAction_Craft`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Craft`
 
-  - `OCF_SpelPowerAction_FillWater`
+  - `OCF_MgefPowerAction_FillWater`
 
-  - ~~`OCF_SpelPowerAction_Goggles`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Goggles`
 
-  - ~~`OCF_SpelPowerAction_GogglesSight`~~ **UNUSED**
+  - `OCF_MgefPowerAction_GogglesSight`
 
-  - ~~`OCF_SpelPowerAction_HarvestCorpse`~~ **UNUSED**
+  - `OCF_MgefPowerAction_HarvestCorpse`
 
-  - ~~`OCF_SpelPowerAction_HarvestGather`~~ **UNUSED**
+  - `OCF_MgefPowerAction_HarvestGather`
 
-  - ~~`OCF_SpelPowerAction_HarvestWood`~~ **UNUSED**
+  - `OCF_MgefPowerAction_HarvestWood`
 
-  - ~~`OCF_SpelPowerAction_Horse`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Horse`
 
-    - ~~`OCF_SpelPowerAction_HorseHorn`~~ **UNUSED**
+    - `OCF_MgefPowerAction_HorseHorn`
 
-    - ~~`OCF_SpelPowerAction_HorseWhistle`~~ **UNUSED**
+    - `OCF_MgefPowerAction_HorseWhistle`
 
-  - ~~`OCF_SpelPowerAction_Instincts`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Instincts`
 
-  - ~~`OCF_SpelPowerAction_Lantern`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Lantern`
 
-  - ~~`OCF_SpelPowerAction_PeekKeyhole`~~ **UNUSED**
+  - `OCF_MgefPowerAction_PeekKeyhole`
 
-  - ~~`OCF_SpelPowerAction_PitchTent`~~ **UNUSED**
+  - `OCF_MgefPowerAction_PitchTent`
 
-  - ~~`OCF_SpelPowerAction_Potion`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Potion`
 
-  - `OCF_SpelPowerAction_Pray`
+  - `OCF_MgefPowerAction_Pray`
 
-  - ~~`OCF_SpelPowerAction_Relax`~~ **UNUSED**
+  - `OCF_MgefPowerAction_Relax`
 
-  - `OCF_SpelPowerAction_Speech`
+  - `OCF_MgefPowerAction_Speech`
 
-  - ~~`OCF_SpelPowerAction_StatusFrostfall`~~ **UNUSED**
+  - `OCF_MgefPowerAction_StatusFrostfall`
 
-  - `OCF_SpelPowerAction_StatusLastSeed`
+  - `OCF_MgefPowerAction_StatusLastSeed`
 
-  - ~~`OCF_SpelPowerAction_StatusSunhelm`~~ **UNUSED**
+  - `OCF_MgefPowerAction_StatusSunhelm`
 
-  - ~~`OCF_SpelPowerAction_TameAnimal`~~ **UNUSED**
+  - `OCF_MgefPowerAction_TameAnimal`
 
-  - ~~`OCF_SpelPowerAction_WeaponGrip`~~ **UNUSED**
+  - `OCF_MgefPowerAction_WeaponGrip`
 
-- ~~`OCF_SpelPowerAction_Influence`~~ **UNUSED**
+- `OCF_MgefPowerAction_Influence`
 
-- ~~`OCF_SpelPowerAction_InfluenceEngage`~~ **UNUSED**
+- `OCF_MgefPowerAction_InfluenceEngage`
 
-- ~~`OCF_SpelPowerAlteration`~~ **UNUSED**
+- ~~`OCF_MgefPowerAlteration`~~ **UNUSED**
 
-- ~~`OCF_SpelPowerCheat`~~ **UNUSED**
+- `OCF_MgefPowerCheat`
 
-- `OCF_SpelPowerConfig`
+- `OCF_MgefPowerConfig`
 
-- ~~`OCF_SpelSpellAbsorb_Magicka`~~ **UNUSED**
+- `OCF_MgefPowerConfigWeatherChanger`
 
-- ~~`OCF_SpelSpellAbsorb_MagickaCircle`~~ **UNUSED**
+- `OCF_MgefSpellAbsorb_Magicka`
 
-- ~~`OCF_SpelSpellAbsorb_MagickaCloak`~~ **UNUSED**
+- `OCF_MgefSpellAbsorb_MagickaCircle`
 
-- ~~`OCF_SpelSpellAbsorb_Stamina`~~ **UNUSED**
+- `OCF_MgefSpellAbsorb_MagickaCloak`
 
-- ~~`OCF_SpelSpellAbsorb_StaminaCircle`~~ **UNUSED**
+- `OCF_MgefSpellAbsorb_Stamina`
 
-- ~~`OCF_SpelSpellAbsorb_StaminaCloak`~~ **UNUSED**
+- `OCF_MgefSpellAbsorb_StaminaCircle`
 
-- ~~`OCF_SpelSpellAssist`~~ **UNUSED**
+- `OCF_MgefSpellAbsorb_StaminaCloak`
 
-- ~~`OCF_SpelSpellAssist_DamageDruid`~~ **UNUSED**
+- `OCF_MgefSpellAssist`
 
-- ~~`OCF_SpelSpellAssist_MovementSpeedDruid`~~ **UNUSED**
+- `OCF_MgefSpellAssist_DamageDruid`
 
-- `OCF_SpelSpellAssist_Necromancy`
+- `OCF_MgefSpellAssist_MovementSpeedDruid`
 
-- `OCF_SpelSpellBound`
+- `OCF_MgefSpellAssist_Necromancy`
 
-  - ~~`OCF_SpelSpellBound_Ammo`~~ **UNUSED**
+- `OCF_MgefSpellBound`
 
-  - `OCF_SpelSpellBound_Armor`
+  - `OCF_MgefSpellBound_Ammo`
 
-  - ~~`OCF_SpelSpellBound_MiscItem`~~ **UNUSED**
+  - `OCF_MgefSpellBound_Armor`
 
-  - `OCF_SpelSpellBound_Weapon`
+  - `OCF_MgefSpellBound_MiscItem`
 
-- ~~`OCF_SpelSpellCounter_Astral`~~ **UNUSED**
+  - `OCF_MgefSpellBound_Weapon`
 
-- ~~`OCF_SpelSpellCounter_BloodDruid`~~ **UNUSED**
+- `OCF_MgefSpellCounter_Astral`
 
-- ~~`OCF_SpelSpellCounter_Druid`~~ **UNUSED**
+- `OCF_MgefSpellCounter_BloodDruid`
 
-- ~~`OCF_SpelSpellCounter_DruidHeal`~~ **UNUSED**
+- `OCF_MgefSpellCounter_Druid`
 
-- ~~`OCF_SpelSpellCounter_Fire`~~ **UNUSED**
+- `OCF_MgefSpellCounter_DruidHeal`
 
-- ~~`OCF_SpelSpellCure`~~ **UNUSED**
+- `OCF_MgefSpellCounter_Fire`
 
-- ~~`OCF_SpelSpellCurse`~~ **UNUSED**
+- `OCF_MgefSpellCure`
 
-- ~~`OCF_SpelSpellCurse_Deconstruct`~~ **UNUSED**
+- `OCF_MgefSpellCurse`
 
-- ~~`OCF_SpelSpellCurse_DruidRoot`~~ **UNUSED**
+- `OCF_MgefSpellCurse_Deconstruct`
 
-- `OCF_SpelSpellCurse_Necromancy`
+- `OCF_MgefSpellCurse_DruidRoot`
 
-- ~~`OCF_SpelSpellCurse_Shadow`~~ **UNUSED**
+- `OCF_MgefSpellCurse_Necromancy`
 
-- ~~`OCF_SpelSpellDamage_Arcane`~~ **UNUSED**
+- `OCF_MgefSpellCurse_Shadow`
 
-- ~~`OCF_SpelSpellDamage_ArcaneCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Arcane`
 
-- ~~`OCF_SpelSpellDamage_ArcaneFire`~~ **UNUSED**
+- `OCF_MgefSpellDamage_ArcaneCloak`
 
-- ~~`OCF_SpelSpellDamage_ArcaneFireCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_ArcaneFire`
 
-- ~~`OCF_SpelSpellDamage_Ash`~~ **UNUSED**
+- `OCF_MgefSpellDamage_ArcaneFireCloak`
 
-- ~~`OCF_SpelSpellDamage_AshCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Ash`
 
-- ~~`OCF_SpelSpellDamage_AshFire`~~ **UNUSED**
+- `OCF_MgefSpellDamage_AshCloak`
 
-- ~~`OCF_SpelSpellDamage_AshFireCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_AshFire`
 
-- ~~`OCF_SpelSpellDamage_Astral`~~ **UNUSED**
+- `OCF_MgefSpellDamage_AshFireCloak`
 
-- ~~`OCF_SpelSpellDamage_AstralCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Astral`
 
-- ~~`OCF_SpelSpellDamage_Blood`~~ **UNUSED**
+- `OCF_MgefSpellDamage_AstralCloak`
 
-- ~~`OCF_SpelSpellDamage_BloodCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Blood`
 
-  - ~~`OCF_SpelSpellDamage_BloodCloakVampire`~~ **UNUSED**
+- `OCF_MgefSpellDamage_BloodCloak`
 
-- ~~`OCF_SpelSpellDamage_BloodShock`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_BloodCloakVampire`
 
-- ~~`OCF_SpelSpellDamage_BloodShockCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_BloodShock`
 
-- ~~`OCF_SpelSpellDamage_Deconstruct`~~ **UNUSED**
+- `OCF_MgefSpellDamage_BloodShockCloak`
 
-- ~~`OCF_SpelSpellDamage_DeconstructCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Deconstruct`
 
-- ~~`OCF_SpelSpellDamage_Disease`~~ **UNUSED**
+- `OCF_MgefSpellDamage_DeconstructCloak`
 
-- ~~`OCF_SpelSpellDamage_DiseaseCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Disease`
 
-- ~~`OCF_SpelSpellDamage_Earth`~~ **UNUSED**
+- `OCF_MgefSpellDamage_DiseaseCloak`
 
-- ~~`OCF_SpelSpellDamage_EarthCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Earth`
 
-- ~~`OCF_SpelSpellDamage_Fire`~~ **UNUSED**
+- `OCF_MgefSpellDamage_EarthCloak`
 
-- ~~`OCF_SpelSpellDamage_FireCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Fire`
 
-  - ~~`OCF_SpelSpellDamage_FireCloakDunmer`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FireCloak`
 
-- ~~`OCF_SpelSpellDamage_FireShock`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_FireCloakDunmer`
 
-- ~~`OCF_SpelSpellDamage_FireShockCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FireShock`
 
-- ~~`OCF_SpelSpellDamage_FireShockFrost`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FireShockCloak`
 
-- ~~`OCF_SpelSpellDamage_FireShockFrostCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FireShockFrost`
 
-- ~~`OCF_SpelSpellDamage_Force`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FireShockFrostCloak`
 
-- ~~`OCF_SpelSpellDamage_ForceCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Force`
 
-- ~~`OCF_SpelSpellDamage_Frost`~~ **UNUSED**
+- `OCF_MgefSpellDamage_ForceCloak`
 
-- ~~`OCF_SpelSpellDamage_FrostCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Frost`
 
-- ~~`OCF_SpelSpellDamage_FrostFire`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FrostCloak`
 
-- ~~`OCF_SpelSpellDamage_FrostFireCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_FrostFire`
 
-- `OCF_SpelSpellDamage_Holy`
+- `OCF_MgefSpellDamage_FrostFireCloak`
 
-- ~~`OCF_SpelSpellDamage_HolyCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Holy`
 
-- ~~`OCF_SpelSpellDamage_HolyAstral`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_HolyLunar`
 
-- ~~`OCF_SpelSpellDamage_HolyAstralCloak`~~ **UNUSED**
+  - ~~`OCF_MgefSpellDamage_HolySun`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellDamage_HolyLunar`~~ **UNUSED**
+- `OCF_MgefSpellDamage_HolyCloak`
 
-- ~~`OCF_SpelSpellDamage_HolyLunarCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_HolyLunarCloak`
 
-- ~~`OCF_SpelSpellDamage_Light`~~ **UNUSED**
+  - ~~`OCF_MgefSpellDamage_HolySunCloak`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellDamage_LightCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_HolyAstral`
 
-- `OCF_SpelSpellDamage_Necrotic`
+- `OCF_MgefSpellDamage_HolyAstralCloak`
 
-- ~~`OCF_SpelSpellDamage_NecroticCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Light`
 
-- ~~`OCF_SpelSpellDamage_NecroticFire`~~ **UNUSED**
+- `OCF_MgefSpellDamage_LightCloak`
 
-- ~~`OCF_SpelSpellDamage_NecroticFireCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Necrotic`
 
-- ~~`OCF_SpelSpellDamage_Shadow`~~ **UNUSED**
+- `OCF_MgefSpellDamage_NecroticCloak`
 
-- ~~`OCF_SpelSpellDamage_ShadowCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_NecroticFire`
 
-- ~~`OCF_SpelSpellDamage_Shock`~~ **UNUSED**
+- `OCF_MgefSpellDamage_NecroticFireCloak`
 
-- ~~`OCF_SpelSpellDamage_ShockCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Shadow`
 
-- ~~`OCF_SpelSpellDamage_ShockArc`~~ **UNUSED**
+- `OCF_MgefSpellDamage_ShadowCloak`
 
-- ~~`OCF_SpelSpellDamage_ShockArcCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Shock`
 
-- ~~`OCF_SpelSpellDamage_ShockStorm`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_ShockArc`
 
-- ~~`OCF_SpelSpellDamage_ShockStormCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_ShockStorm`
 
-- ~~`OCF_SpelSpellDamage_Sonic`~~ **UNUSED**
+- `OCF_MgefSpellDamage_ShockCloak`
 
-- ~~`OCF_SpelSpellDamage_SonicCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_ShockArcCloak`
 
-- ~~`OCF_SpelSpellDamage_Poison`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_ShockStormCloak`
 
-  - ~~`OCF_SpelSpellDamage_PoisonBug`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Sonic`
 
-  - ~~`OCF_SpelSpellDamage_PoisonDoomstone`~~ **UNUSED**
+- `OCF_MgefSpellDamage_SonicCloak`
 
-  - ~~`OCF_SpelSpellDamage_PoisonEldritch`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Poison`
 
-- ~~`OCF_SpelSpellDamage_PoisonCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_PoisonBug`
 
-  - ~~`OCF_SpelSpellDamage_PoisonBugCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_PoisonDoomstone`
 
-  - ~~`OCF_SpelSpellDamage_PoisonEldritchCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_PoisonEldritch`
 
-- ~~`OCF_SpelSpellDamage_Steam`~~ **UNUSED**
+- `OCF_MgefSpellDamage_PoisonCloak`
 
-- ~~`OCF_SpelSpellDamage_SteamCloak`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_PoisonBugCloak`
 
-- ~~`OCF_SpelSpellDamage_Water`~~ **UNUSED**
+  - `OCF_MgefSpellDamage_PoisonEldritchCloak`
 
-- ~~`OCF_SpelSpellDamage_WaterCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Steam`
 
-- ~~`OCF_SpelSpellDamage_Wind`~~ **UNUSED**
+- `OCF_MgefSpellDamage_SteamCloak`
 
-- ~~`OCF_SpelSpellDamage_WindCloak`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Water`
 
-- ~~`OCF_SpelSpellDispel`~~ **UNUSED**
+- `OCF_MgefSpellDamage_WaterCloak`
 
-- ~~`OCF_SpelSpellDivination`~~ **UNUSED**
+- `OCF_MgefSpellDamage_Wind`
 
-- ~~`OCF_SpelSpellEnchant`~~ **UNUSED**
+- `OCF_MgefSpellDamage_WindCloak`
 
-- ~~`OCF_SpelSpellEnhance_Attack`~~ **UNUSED**
+- `OCF_MgefSpellDispel`
 
-  - ~~`OCF_SpelSpellEnhance_AttackEldritch`~~ **UNUSED**
+- `OCF_MgefSpellDivination`
 
-- `OCF_SpelSpellEnhance_AttackNecromancy`
+- `OCF_MgefSpellEnchant`
 
-- ~~`OCF_SpelSpellEnhance_CarryWeight`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Attack`
 
-- ~~`OCF_SpelSpellEnhance_Casting`~~ **UNUSED**
+  - `OCF_MgefSpellEnhance_AttackEldritch`
 
-  - ~~`OCF_SpelSpellEnhance_CastingDruid`~~ **UNUSED**
+    - `OCF_MgefSpellEnhance_AttackNecromancy`
 
-  - ~~`OCF_SpelSpellEnhance_CastingEldritch`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_CarryWeight`
 
-- ~~`OCF_SpelSpellEnhance_CritShadowInvis`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Casting`
 
-- ~~`OCF_SpelSpellEnhance_Damage`~~ **UNUSED**
+  - `OCF_MgefSpellEnhance_CastingDruid`
 
-- ~~`OCF_SpelSpellEnhance_DamageArcane`~~ **UNUSED**
+  - `OCF_MgefSpellEnhance_CastingEldritch`
 
-- ~~`OCF_SpelSpellEnhance_DamageAshFire`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_CritShadowInvis`
 
-- ~~`OCF_SpelSpellEnhance_DamageBlood`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Damage`
 
-- ~~`OCF_SpelSpellEnhance_DamageBloodDruid`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageArcane`
 
-- ~~`OCF_SpelSpellEnhance_DamageDruidHunter`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageAshFire`
 
-- ~~`OCF_SpelSpellEnhance_DamageFire`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageBlood`
 
-- ~~`OCF_SpelSpellEnhance_DamageFrost`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageBloodDruid`
 
-- ~~`OCF_SpelSpellEnhance_DamageHolyAstral`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageDruidHunter`
 
-- ~~`OCF_SpelSpellEnhance_DamageHolyLunar`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageFire`
 
-- ~~`OCF_SpelSpellEnhance_DamagePoison`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageFrost`
 
-- ~~`OCF_SpelSpellEnhance_DamagePoisonEldritch`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageHolyAstral`
 
-- ~~`OCF_SpelSpellEnhance_DamageShadow`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageHolyLunar`
 
-- ~~`OCF_SpelSpellEnhance_DamageShock`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamagePoison`
 
-- ~~`OCF_SpelSpellEnhance_DamageShockArc`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamagePoisonEldritch`
 
-- ~~`OCF_SpelSpellEnhance_EldritchTome`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageShadow`
 
-- ~~`OCF_SpelSpellEnhance_Evasion`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageShock`
 
-- ~~`OCF_SpelSpellEnhance_EvasionDruid`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_DamageShockArc`
 
-- ~~`OCF_SpelSpellEnhance_Fall`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_EldritchTome`
 
-- ~~`OCF_SpelSpellEnhance_Flight`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Evasion`
 
-- ~~`OCF_SpelSpellEnhance_Health`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_EvasionDruid`
 
-- ~~`OCF_SpelSpellEnhance_Jump`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Fall`
 
-- ~~`OCF_SpelSpellEnhance_MovementSpeed`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Flight`
 
-- ~~`OCF_SpelSpellEnhance_MovementSpeedDruid`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Health`
 
-- ~~`OCF_SpelSpellEnhance_Regen`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Jump`
 
-- ~~`OCF_SpelSpellEnhance_RegenShadowInvis`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_MovementSpeed`
 
-- ~~`OCF_SpelSpellEnhance_Sight`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_MovementSpeedDruid`
 
-- ~~`OCF_SpelSpellEnhance_SightKhajiit`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Regen`
 
-- ~~`OCF_SpelSpellEnhance_SightVampire`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_RegenShadowInvis`
 
-- ~~`OCF_SpelSpellEnhance_SightWerebeast`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Sight`
 
-- ~~`OCF_SpelSpellEnhance_StaminaDruid`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_SightKhajiit`
 
-- ~~`OCF_SpelSpellEnhance_Swim`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_SightVampire`
 
-- ~~`OCF_SpelSpellEnhance_WaterBreath`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_SightWerebeast`
 
-- ~~`OCF_SpelSpellEnhance_WaterWalk`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_StaminaDruid`
 
-- ~~`OCF_SpelSpellEthereal`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_Swim`
 
-- ~~`OCF_SpelSpellForce`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_WaterBreath`
 
-- ~~`OCF_SpelSpellHarvest`~~ **UNUSED**
+- `OCF_MgefSpellEnhance_WaterWalk`
 
-- ~~`OCF_SpelSpellHeal_Construct`~~ **UNUSED**
+- `OCF_MgefSpellEthereal`
 
-- ~~`OCF_SpelSpellHeal_Daedra`~~ **UNUSED**
+- `OCF_MgefSpellForce`
 
-- ~~`OCF_SpelSpellHeal_Living`~~ **UNUSED**
+- `OCF_MgefSpellHarvest`
 
-  - ~~`OCF_SpelSpellHeal_LivingWater`~~ **UNUSED**
+- `OCF_MgefSpellHeal_Construct`
 
-- ~~`OCF_SpelSpellHeal_LivingCircle`~~ **UNUSED**
+- `OCF_MgefSpellHeal_Daedra`
 
-- ~~`OCF_SpelSpellHeal_Self`~~ **UNUSED**
+- `OCF_MgefSpellHeal_Living`
 
-- ~~`OCF_SpelSpellHeal_SelfCloak`~~ **UNUSED**
+  - `OCF_MgefSpellHeal_LivingWater`
 
-- `OCF_SpelSpellHeal_Undead`
+- `OCF_MgefSpellHeal_LivingCircle`
 
-- ~~`OCF_SpelSpellInvisibility`~~ **UNUSED**
+- `OCF_MgefSpellHeal_Self`
 
-- ~~`OCF_SpelSpellLight`~~ **UNUSED**
+- `OCF_MgefSpellHeal_SelfCloak`
 
-- ~~`OCF_SpelSpellMind_Charm`~~ **UNUSED**
+- `OCF_MgefSpellHeal_Undead`
 
-  - ~~`OCF_SpelSpellMind_CharmImperial`~~ **UNUSED**
+- `OCF_MgefSpellInvisibility`
 
-- ~~`OCF_SpelSpellMind_Control`~~ **UNUSED**
+- `OCF_MgefSpellLight`
 
-- ~~`OCF_SpelSpellMind_ControlBosmer`~~ **UNUSED**
+- `OCF_MgefSpellMind_Charm`
 
-- ~~`OCF_SpelSpellMind_ControlVampire`~~ **UNUSED**
+  - `OCF_MgefSpellMind_CharmImperial`
 
-- ~~`OCF_SpelSpellMind_Fear`~~ **UNUSED**
+- `OCF_MgefSpellMind_Control`
 
-- ~~`OCF_SpelSpellMind_FearNord`~~ **UNUSED**
+- `OCF_MgefSpellMind_ControlBosmer`
 
-- ~~`OCF_SpelSpellMind_FearVampire`~~ **UNUSED**
+- `OCF_MgefSpellMind_ControlVampire`
 
-- ~~`OCF_SpelSpellMind_Frenzy`~~ **UNUSED**
+- `OCF_MgefSpellMind_Fear`
 
-- ~~`OCF_SpelSpellMind_FrenzyShadow`~~ **UNUSED**
+- `OCF_MgefSpellMind_FearNord`
 
-- ~~`OCF_SpelSpellMind_Paralysis`~~ **UNUSED**
+- `OCF_MgefSpellMind_FearVampire`
 
-- ~~`OCF_SpelSpellMind_Rally`~~ **UNUSED**
+- `OCF_MgefSpellMind_Frenzy`
 
-- ~~`OCF_SpelSpellParalysis`~~ **UNUSED**
+- `OCF_MgefSpellMind_FrenzyShadow`
 
-- ~~`OCF_SpelSpellParalysis_Ash`~~ **UNUSED**
+- `OCF_MgefSpellMind_Paralysis`
 
-- ~~`OCF_SpelSpellParalysis_AshCloak`~~ **UNUSED**
+- `OCF_MgefSpellMind_Rally`
 
-- ~~`OCF_SpelSpellParalysis_Druid`~~ **UNUSED**
+- `OCF_MgefSpellParalysis`
 
-- ~~`OCF_SpelSpellProject`~~ **UNUSED**
+- ~~`OCF_MgefSpellParalysis_Ash`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellProtect_Damage`~~ **UNUSED**
+- `OCF_MgefSpellParalysis_AshCloak`
 
-  - ~~`OCF_SpelSpellProtect_DamageEldritch`~~ **UNUSED**
+- `OCF_MgefSpellParalysis_Druid`
 
-- ~~`OCF_SpelSpellProtect_Element`~~ **UNUSED**
+- `OCF_MgefSpellProject`
 
-  - ~~`OCF_SpelSpellProtect_ElementFire`~~ **UNUSED**
+- `OCF_MgefSpellProtect_Damage`
+
+  - `OCF_MgefSpellProtect_DamageEldritch`
+
+- `OCF_MgefSpellProtect_Element`
+
+  - `OCF_MgefSpellProtect_ElementFire`
   
-  - ~~`OCF_SpelSpellProtect_ElementFrost`~~ **UNUSED**
+  - `OCF_MgefSpellProtect_ElementFrost`
 
-  - ~~`OCF_SpelSpellProtect_ElementPoison`~~ **UNUSED**
+  - `OCF_MgefSpellProtect_ElementPoison`
   
-  - ~~`OCF_SpelSpellProtect_ElementShock`~~ **UNUSED**
+  - `OCF_MgefSpellProtect_ElementShock`
 
-- ~~`OCF_SpelSpellProtect_Magic`~~ **UNUSED**
+- `OCF_MgefSpellProtect_Magic`
 
-- ~~`OCF_SpelSpellProtect_Warmth`~~ **UNUSED**
+- `OCF_MgefSpellProtect_Warmth`
 
-- `OCF_SpelSpellReanimate`
+- `OCF_MgefSpellReanimate`
 
-- ~~`OCF_SpelSpellReanimateDoomstone`~~ **UNUSED**
+- `OCF_MgefSpellReanimateDoomstone`
 
-- ~~`OCF_SpelSpellReflect_Druid`~~ **UNUSED**
+- `OCF_MgefSpellReflect_Druid`
 
-- ~~`OCF_SpelSpellRestore_Exposure`~~ **UNUSED**
+- `OCF_MgefSpellRestore_Exposure`
 
-- ~~`OCF_SpelSpellRestore_Magicka`~~ **UNUSED**
+- `OCF_MgefSpellRestore_Magicka`
 
-- ~~`OCF_SpelSpellRestore_MagickaCircle`~~ **UNUSED**
+- `OCF_MgefSpellRestore_MagickaCircle`
 
-- ~~`OCF_SpelSpellRestore_MagickaWater`~~ **UNUSED**
+- `OCF_MgefSpellRestore_MagickaWater`
 
-- ~~`OCF_SpelSpellRestore_Stamina`~~ **UNUSED**
+- `OCF_MgefSpellRestore_Stamina`
 
-- ~~`OCF_SpelSpellRestore_StaminaCircle`~~ **UNUSED**
+- `OCF_MgefSpellRestore_StaminaCircle`
 
-- ~~`OCF_SpelSpellRestore_StaminaDruid`~~ **UNUSED**
+- `OCF_MgefSpellRestore_StaminaDruid`
 
-- ~~`OCF_SpelSpellRestore_Warmth`~~ **UNUSED**
+- `OCF_MgefSpellRestore_Warmth`
 
-- `OCF_SpelSpellSacrifice`
+- `OCF_MgefSpellSacrifice`
 
-- ~~`OCF_SpelSpellSacrifice_Blood`~~ **UNUSED**
+- `OCF_MgefSpellSacrifice_Blood`
 
-- `OCF_SpelSpellSacrifice_Corpse`
+- `OCF_MgefSpellSacrifice_Corpse`
 
-- ~~`OCF_SpelSpellSacrifice_Summon`~~ **UNUSED**
+- `OCF_MgefSpellSacrifice_Summon`
 
-- ~~`OCF_SpelSpellShapechange`~~ **UNUSED**
+- `OCF_MgefSpellShapechange`
 
-  - ~~`OCF_SpelSpellShapechange_Creature`~~ **UNUSED**
+  - `OCF_MgefSpellShapechange_Creature`
 
-  - ~~`OCF_SpelSpellShapechange_Vampire`~~ **UNUSED**
+  - `OCF_MgefSpellShapechange_Vampire`
 
-  - ~~`OCF_SpelSpellShapechange_Werebeast`~~ **UNUSED**
+  - `OCF_MgefSpellShapechange_Werebeast`
 
-- ~~`OCF_SpelSpellSilence`~~ **UNUSED**
+- `OCF_MgefSpellSilence`
 
-- ~~`OCF_SpelSpellSoulTrap`~~ **UNUSED**
+- `OCF_MgefSpellSoulTrap`
 
-- ~~`OCF_SpelSpellSoulTrapCloak`~~ **UNUSED**
+- `OCF_MgefSpellSoulTrapCloak`
 
-- ~~`OCF_SpelSpellSpace`~~ **UNUSED**
+- `OCF_MgefSpellSpace`
 
-  - ~~`OCF_SpelSpellSpace_Banish`~~ **UNUSED**
+  - `OCF_MgefSpellSpace_Banish`
 
-  - `OCF_SpelSpellSpace_Teleport`
+  - `OCF_MgefSpellSpace_Teleport`
 
-- ~~`OCF_SpelSpellStealth`~~ **UNUSED**
+- `OCF_MgefSpellStealth`
 
-- ~~`OCF_SpelSpellStealth_Invisibility`~~ **UNUSED**
+- `OCF_MgefSpellStealth_Invisibility`
 
-  - ~~`OCF_SpelSpellStealth_InvisibilityDoomstone`~~ **UNUSED**
+  - `OCF_MgefSpellStealth_InvisibilityDoomstone`
 
-  - ~~`OCF_SpelSpellStealth_InvisibilityVampire`~~ **UNUSED**
+  - `OCF_MgefSpellStealth_InvisibilityVampire`
 
-- ~~`OCF_SpelSpellStealth_InvisibilityDruid`~~ **UNUSED**
+- `OCF_MgefSpellStealth_InvisibilityDruid`
 
-- `OCF_SpelSpellSummon_Construct`
+- `OCF_MgefSpellSummon_Construct`
 
-  - ~~`OCF_SpelSpellSummon_ConstructAsh`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_ConstructAsh`~~ **UNUSED**
 
-  - `OCF_SpelSpellSummon_ConstructDwemer`
+  - ~~`OCF_MgefSpellSummon_ConstructDwemer`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellSummon_Creature`~~ **UNUSED**
+- `OCF_MgefSpellSummon_Creature`
 
-  - ~~`OCF_SpelSpellSummon_CreatureDruid`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_CreatureDruid`~~ **UNUSED**
 
-    - ~~`OCF_SpelSpellSummon_CreatureDruidFire`~~ **UNUSED**
+    - ~~`OCF_MgefSpellSummon_CreatureDruidFire`~~ **UNUSED**
 
-    - ~~`OCF_SpelSpellSummon_CreatureDruidFrost`~~ **UNUSED**
+    - ~~`OCF_MgefSpellSummon_CreatureDruidFrost`~~ **UNUSED**
 
-    - ~~`OCF_SpelSpellSummon_CreatureDruidShock`~~ **UNUSED**
+    - ~~`OCF_MgefSpellSummon_CreatureDruidShock`~~ **UNUSED**
 
-    - ~~`OCF_SpelSpellSummon_CreatureDruidWater`~~ **UNUSED**
+    - ~~`OCF_MgefSpellSummon_CreatureDruidWater`~~ **UNUSED**
 
-- `OCF_SpelSpellSummon_Daedra`
+- `OCF_MgefSpellSummon_Daedra`
 
-  - ~~`OCF_SpelSpellSummon_DaedraEldritch`~~ **UNUSED**
+  - `OCF_MgefSpellSummon_DaedraEldritch`
 
-  - ~~`OCF_SpelSpellSummon_DaedraFire`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_DaedraFire`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellSummon_DaedraFrost`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_DaedraFrost`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellSummon_DaedraShock`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_DaedraShock`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellSummon_Object`~~ **UNUSED**
+- `OCF_MgefSpellSummon_Object`
 
-- `OCF_SpelSpellSummon_Spirit`
+- `OCF_MgefSpellSummon_Spirit`
 
-  - ~~`OCF_SpelSpellSummon_SpiritFire`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_SpiritFire`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellSummon_SpiritFrost`~~ **UNUSED**
+  - `OCF_MgefSpellSummon_SpiritFrost`
 
-  - ~~`OCF_SpelSpellSummon_SpiritShadow`~~ **UNUSED**
+  - `OCF_MgefSpellSummon_SpiritShadow`
 
-- `OCF_SpelSpellSummon_Undead`
+- `OCF_MgefSpellSummon_Undead`
 
-  - ~~`OCF_SpelSpellSummon_UndeadAsh`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_UndeadAsh`~~ **UNUSED**
 
-  - ~~`OCF_SpelSpellSummon_UndeadBlood`~~ **UNUSED**
+  - ~~`OCF_MgefSpellSummon_UndeadBlood`~~ **UNUSED**
 
-- ~~`OCF_SpelSpellTime`~~ **UNUSED**
+- `OCF_MgefSpellTime`
 
-- ~~`OCF_SpelSpellTransmute`~~ **UNUSED**
+- `OCF_MgefSpellTransmute`
 
-- ~~`OCF_SpelSpellTurnUndead`~~ **UNUSED**
+- `OCF_MgefSpellTurnUndead`
 
-- ~~`OCF_SpelSpellTurnUndeadCircle`~~ **UNUSED**
+- `OCF_MgefSpellTurnUndeadCircle`
 
-- ~~`OCF_SpelSpellUnlock`~~ **UNUSED**
+- `OCF_MgefSpellUnlock`
 
-- ~~`OCF_SpelSpellWard`~~ **UNUSED**
+- `OCF_MgefSpellWard`
 
 ---
 

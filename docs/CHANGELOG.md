@@ -1,5 +1,23 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.0.0
+
+- **Author's Note:** Thanks to [Genskicc/Komegaki](https://www.nexusmods.com/skyrimspecialedition/users/80113953?tab=user+files) for most of these changes.
+
+- **Keywords (`ARMO`) added:** `OCF_HeadTypeCirclet`, `OCF_HeadTypeHat_Conical`, `OCF_HeadTypeHat_Generic`, `OCF_HeadTypeHat_Wizard`.
+
+- **Keywords (`SPEL`) changes:** Changed all the keywords to exactly match the `MGEF` keywords.
+
+- **Keyword Categorization added:** [Armory of the Dragon Cult - Dragon Priest Armor](https://www.nexusmods.com/skyrimspecialedition/mods/94244) (`ARMO`), [Fashons of The Fourth Era](https://sforzmods.tumblr.com/sse_fashions) (`ARMO`), [JS Armored Circlets](https://www.nexusmods.com/skyrimspecialedition/mods/2140) (`ARMO`), [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`MGEF`), [Tes4Mod](https://www.nexusmods.com/skyrimspecialedition/mods/41100) (`ARMO`), [Wizard Hats](https://www.nexusmods.com/skyrimspecialedition/mods/2385) (`ARMO`).
+
+- **Keyword Categorization fixed:** Vanilla (`MGEF`), [SimonMagus' Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) (`MGEF`), [Tera Armors Collection](https://www.nexusmods.com/skyrimspecialedition/mods/9651) (`ARMO`).
+
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`), COCO Ronin (`ARMO`), Immersive Armors (`ARMO`), Skyrim on Skooma (`ARMO`), zzjay's Wardrobe (`ARMO`), general (`ARMO`).
+
+- **Keyword Categorization changes:** Changed all the `SPEL` keyword distribution for Class, Inventory Model, and Type to exactly match the `MGEF` keyword distribution. Moved around some code between files to ease development.
+
+OCF_HeadTypeCirclet
+
 ## Version 4.9.0
 
 - **Author's Note:** This update is mostly catching up with suggestions and requests. If you suggested something for OCF that I haven't added yet feel free to remind me. Enjoy!
