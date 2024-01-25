@@ -5338,28 +5338,4 @@
 
 - `OCF_WeapTypeWakizashi1H` \[`0x822~OCF.esp`\] – Any 1H blade with the name "Wakizashi". Includes any weapons with the keywords `OCF_WeapTypeTanto1H` or `OCF_WeapTypeKatana1H` that fit the description.
 
-### Type C
-
-- `OCF_WeapTypeClaw1H` \[`0x777776~Update.esm`\]
-
-- `OCF_WeapTypeKatana1H` \[`0x777779~Update.esm`\]
-
-- `OCF_WeapTypeRapier1H` \[`0x777774~Update.esm`\]
-
-- `OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\]
-
-- `OCF_WeapTypeJavelin1H` \[`0x777771~Update.esm`\]
-
-- `OCF_WeapTypePole1H_Thrust` \[`0xCD0100~Update.esm`\]
-
-- `OCF_WeapTypeScythe2H` \[`0x777777~Update.esm`\]
-
-- `OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]
-
-- `OCF_WeapTypePole2H_Swing` \[`0x777773~Update.esm`\]
-
-- `OCF_WeapTypePole2H_Thrust` \[`0x777772~Update.esm`\]
-
-- `OCF_WeapTypeGun` \[`0x77777A~Update.esm`\]
-
 ---

@@ -210,6 +210,5 @@
 - [Tools](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#tools-1)
 - [Type A](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-a-4)
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-4)
-- [Type C](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-c)
 
 ---

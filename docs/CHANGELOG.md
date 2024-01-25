@@ -1,13 +1,5 @@
 # Object Categorization Framework - Changelog
 
-## Version 5.0.0
-
-- **ESP (`OCF.esp`):** 
-
-- **Keywords (`WEAP`) added:** 
-
-- **Keywords (`WEAP`) changed:** `OCF_WeapTypeClaw1H` \[`0x777776~Update.esm`\] changed to `OCF_WeapTypeClaw1H` \[`0x???~OCF.esp`\]. `OCF_WeapTypeKatana1H` \[`0x777779~Update.esm`\] changed to `OCF_WeapTypeKatana1H` \[`0x???~OCF.esp`\]. `OCF_WeapTypeRapier1H` \[`0x777774~Update.esm`\] changed to `OCF_WeapTypeRapier1H` \[`0x???~OCF.esp`\]. `OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\] changed to `OCF_WeapTypeWhip1H` \[`0x???~OCF.esp`\]. `OCF_WeapTypeJavelin1H` \[`0x777771~Update.esm`\] changed to `OCF_WeapTypeJavelin1H` \[`0x???~OCF.esp`\]. `OCF_WeapTypePole1H_Thrust` \[`0xCD0100~Update.esm`\] changed to `OCF_WeapTypePole1H_Thrust` \[`0x???~OCF.esp`\]. `OCF_WeapTypeScythe2H` \[`0x777777~Update.esm`\] changed to `OCF_WeapTypeScythe2H` \[`0x???~OCF.esp`\]. `OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\] changed to `OCF_WeapTypeQuarterstaff2H` \[`0x???~OCF.esp`\]. `OCF_WeapTypePole2H_Swing` \[`0x777773~Update.esm`\] changed to `OCF_WeapTypePole2H_Swing` \[`0x???~OCF.esp`\]. `OCF_WeapTypePole2H_Thrust` \[`0x777772~Update.esm`\] changed to `OCF_WeapTypePole2H_Thrust` \[`0x???~OCF.esp`\]. `OCF_WeapTypeGun` \[`0x77777A~Update.esm`\] changed to `OCF_WeapTypeGun` \[`0x???~OCF.esp`\].
-
 ## Version 4.9.0
 
 - **Author's Note:** This update is mostly catching up with suggestions and requests. If you suggested something for OCF that I haven't added yet feel free to remind me. Enjoy!
