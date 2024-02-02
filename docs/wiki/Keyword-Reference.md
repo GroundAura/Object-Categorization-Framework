@@ -584,6 +584,76 @@
 
 - `WearWhenStripped` \[`0xAF0509~Update.esm`\]
 
+### Equip Slot
+
+- `OCF_EquipSlot30` - Called 'Head' by the CK. Per vanilla standard, used as a tertiary head slot.
+
+- `OCF_EquipSlot31` - Called 'Hair' by the CK. Per vanilla standard, used as the main head slot.
+
+- `OCF_EquipSlot32` - Called 'Body' by the CK. Per vanilla standard, used as the main body slot.
+
+- `OCF_EquipSlot33` - Called 'Hands' by the CK. Per vanilla standard, used as the main hands slot.
+
+- `OCF_EquipSlot34` - Called 'Forearms' by the CK.
+
+- `OCF_EquipSlot35` - Called 'Amulet' by the CK. Per vanilla standard, used as the main necklace slot.
+
+- `OCF_EquipSlot36` - Called 'Ring' by the CK. Per vanilla standard, used as the main ring slot.
+
+- `OCF_EquipSlot37` - Called 'Feet' by the CK. Per vanilla standard, used as the main feet slot.
+
+- `OCF_EquipSlot38` - Called 'Calves' by the CK.
+
+- `OCF_EquipSlot39` - Called 'Shield' by the CK. Per vanilla standard, used as the shield slot.
+
+- `OCF_EquipSlot40` - Called 'Tail' by the CK. Per modding standards, used by many tails and some cloaks.
+
+- `OCF_EquipSlot41` - Called 'LongHair' by the CK.
+
+- `OCF_EquipSlot42` - Called 'Circlet' by the CK. Per vanilla standard, used as the main circlet slot and a secondary head slot.
+
+- `OCF_EquipSlot43` - Called 'Ears' by the CK. Per vanilla standard, used as a tertiary head slot.
+
+- `OCF_EquipSlot44` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot45` - Called 'Unnamed' by the CK. Per modding standards, used by some cloaks.
+
+- `OCF_EquipSlot46` - Called 'Unnamed' by the CK. Per modding standards, used by many cloaks.
+
+- `OCF_EquipSlot47` - Called 'Unnamed' by the CK. Per modding standards, used by many backpacks and wings.
+
+- `OCF_EquipSlot48` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot49` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot50` - Called 'DecapitateHead' by the CK.
+
+- `OCF_EquipSlot51` - Called 'Decapitate' by the CK.
+
+- `OCF_EquipSlot52` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot53` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot54` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot55` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot56` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot57` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot58` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot59` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot60` - Called 'Unnamed' by the CK.
+
+- `OCF_EquipSlot61` - Called 'FX01' by the CK.
+
+### Equip Type
+
+- `OCF_EquipTypeShield` - Uses the left hand slot.
+
 ### Inventory Color
 
 - ~~`OCF_InvColorLegendary`~~ **UNUSED**
@@ -3698,6 +3768,16 @@
 
 ## SCROLL [`SCRL`]
 
+### Equip Type
+
+- `OCF_EquipTypeBothHands` - Uses both the left and right hand slots.
+
+- `OCF_EquipTypeEitherHand` - Uses either the left or right hand slot.
+
+- `OCF_EquipTypeLeftHand` - Uses the left hand slot.
+
+- `OCF_EquipTypeRightHand` - Uses the right hand slot.
+
 ### Inventory Color
 
 - ~~`OCF_InvColorAlteration`~~ **UNUSED**
@@ -3999,6 +4079,18 @@
 - ~~`OCF_SpelElementWater`~~ **UNUSED**
 
 - ~~`OCF_SpelElementWind`~~ **UNUSED**
+
+### Equip Type
+
+- `OCF_EquipTypeBothHands` - Uses both the left and right hand slots.
+
+- `OCF_EquipTypeEitherHand` - Uses either the left or right hand slot.
+
+- `OCF_EquipTypeLeftHand` - Uses the left hand slot.
+
+- `OCF_EquipTypeRightHand` - Uses the right hand slot.
+
+- `OCF_EquipTypeVoice` - Uses the power slot.
 
 ### Gathering
 
@@ -4921,6 +5013,16 @@
 - ~~`OCF_MatContainsGold`~~ **UNUSED**
 
 - `OCF_MatContainsSilver`
+
+### Equip Type
+
+- `OCF_EquipTypeBothHands` - Uses both the left and right hand slots.
+
+- `OCF_EquipTypeEitherHand` - Uses either the left or right hand slot.
+
+- `OCF_EquipTypeLeftHand` - Uses the left hand slot.
+
+- `OCF_EquipTypeRightHand` - Uses the right hand slot.
 
 ### Gathering
 

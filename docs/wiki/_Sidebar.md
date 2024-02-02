@@ -89,6 +89,8 @@
 - [Contains Gems](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-gems)
 - [Contains Metals](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-metals)
 - [Don't Undress](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#dont-undress)
+- [Equip Slot](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-slot)
+- [Equip Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-type)
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-1)
 - [Inventory Material](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-material-1)
 - [Inventory Style](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-style-1)
@@ -170,6 +172,7 @@
 - [Type B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-b-3)
 
 ### **SCROLL [`SCRL`]**
+- [Equip Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-type-1)
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-7)
 - [Material B](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#material-b-2)
 - [Throwable](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#throwable-2)
@@ -187,6 +190,7 @@
 ### **SPELL [`SPEL`]**
 - [Class](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#class-1)
 - [Element](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#element)
+- [Equip Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-type-2)
 - [Gathering](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gathering)
 - [Inventory Model](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-model-1)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-12)
@@ -198,6 +202,7 @@
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-7)
 - [Contains Gems](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-gems-1)
 - [Contains Metals](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-metals-1)
+- [Equip Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-type-3)
 - [Gathering](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gathering-1)
 - [Grip](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#grip)
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-9)
