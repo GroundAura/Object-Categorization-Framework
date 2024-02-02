@@ -2,9 +2,11 @@
 
 ## Version 5.0.0
 
-- **Author's Note:** Thanks to [Genskicc/Komegaki](https://www.nexusmods.com/skyrimspecialedition/users/80113953?tab=user+files) for most of these changes.
+- **Now requires** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+) for bugfixes and new filtering features.
 
-- **Keywords (`ARMO`) added:** `OCF_EquipSlot30`, `OCF_EquipSlot31`, `OCF_EquipSlot32`, `OCF_EquipSlot33`, `OCF_EquipSlot34`, `OCF_EquipSlot35`, `OCF_EquipSlot36`, `OCF_EquipSlot37`, `OCF_EquipSlot38`, `OCF_EquipSlot39`, `OCF_EquipSlot40`, `OCF_EquipSlot41`, `OCF_EquipSlot42`, `OCF_EquipSlot43`, `OCF_EquipSlot44`, `OCF_EquipSlot45`, `OCF_EquipSlot46`, `OCF_EquipSlot47`, `OCF_EquipSlot48`, `OCF_EquipSlot49`, `OCF_EquipSlot50`, `OCF_EquipSlot51`, `OCF_EquipSlot52`, `OCF_EquipSlot53`, `OCF_EquipSlot54`, `OCF_EquipSlot55`, `OCF_EquipSlot56`, `OCF_EquipSlot57`, `OCF_EquipSlot58`, `OCF_EquipSlot59`, `OCF_EquipSlot60`, `OCF_EquipSlot61`, `OCF_EquipTypeShield`, `OCF_HeadTypeCirclet`, `OCF_HeadTypeHat_Conical`, `OCF_HeadTypeHat_Generic`, `OCF_HeadTypeHat_Wizard`.
+- **Author's Note:** Thanks to [Genskicc/Komegaki](https://www.nexusmods.com/skyrimspecialedition/users/80113953?tab=user+files) for a lot of these changes.
+
+- **Keywords (`ARMO`) added:** `OCF_ArmorShield`, `OCF_EquipSlot30`, `OCF_EquipSlot31`, `OCF_EquipSlot32`, `OCF_EquipSlot33`, `OCF_EquipSlot34`, `OCF_EquipSlot35`, `OCF_EquipSlot36`, `OCF_EquipSlot37`, `OCF_EquipSlot38`, `OCF_EquipSlot39`, `OCF_EquipSlot40`, `OCF_EquipSlot41`, `OCF_EquipSlot42`, `OCF_EquipSlot43`, `OCF_EquipSlot44`, `OCF_EquipSlot45`, `OCF_EquipSlot46`, `OCF_EquipSlot47`, `OCF_EquipSlot48`, `OCF_EquipSlot49`, `OCF_EquipSlot50`, `OCF_EquipSlot51`, `OCF_EquipSlot52`, `OCF_EquipSlot53`, `OCF_EquipSlot54`, `OCF_EquipSlot55`, `OCF_EquipSlot56`, `OCF_EquipSlot57`, `OCF_EquipSlot58`, `OCF_EquipSlot59`, `OCF_EquipSlot60`, `OCF_EquipSlot61`, `OCF_EquipTypeShield`, `OCF_HeadTypeCirclet`, `OCF_HeadTypeHat_Conical`, `OCF_HeadTypeHat_Generic`, `OCF_HeadTypeHat_Wizard`.
 
 - **Keywords (`MISC`) added:** `OCF_ReplicaLegendary`.
 
@@ -16,9 +18,9 @@
 
 - **Keyword Categorization added:** [Armory of the Dragon Cult - Dragon Priest Armor](https://www.nexusmods.com/skyrimspecialedition/mods/94244) (`ARMO`), [Fashons of The Fourth Era](https://sforzmods.tumblr.com/sse_fashions) (`ARMO`), [JS Armored Circlets](https://www.nexusmods.com/skyrimspecialedition/mods/2140) (`ARMO`), [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`MGEF`), [Skyrims Unique Treasures - LotD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/30980) (`MISC`, `WEAP`), [Tes4Mod](https://www.nexusmods.com/skyrimspecialedition/mods/41100) (`ARMO`), [Wizard Hats](https://www.nexusmods.com/skyrimspecialedition/mods/2385) (`ARMO`).
 
-- **Keyword Categorization fixed:** Vanilla (`MGEF`), [SimonMagus' Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) (`MGEF`), [Tera Armors Collection](https://www.nexusmods.com/skyrimspecialedition/mods/9651) (`ARMO`).
+- **Keyword Categorization fixed:** Vanilla (`MGEF`), [SimonMagus' Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) (`MGEF`), [Tera Armors Collection](https://www.nexusmods.com/skyrimspecialedition/mods/9651) (`ARMO`), general (`ARMO`).
 
-- **Keyword Categorization tweaked:** Vanilla (`ARMO`), COCO Ronin (`ARMO`), Immersive Armors (`ARMO`), Skyrim on Skooma (`ARMO`), zzjay's Wardrobe (`ARMO`), general (`ARMO`, `MISC`).
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`), COCO Ronin (`ARMO`), Immersive Armors (`ARMO`), Skyrim on Skooma (`ARMO`), zzjay's Wardrobe (`ARMO`), general (`ARMO`, `MISC`, `SCRL`, `SPEL`, `WEAP`).
 
 - **Keyword Categorization changes:** Changed all the `SPEL` keyword distribution for Class, Inventory Model, and Type to exactly match the `MGEF` keyword distribution. Moved around some code between files to ease development.
 
@@ -208,7 +210,7 @@
 
 ## Version 4.2.3
 
-**Now requires** Keyword Item Distributer v3.0.4+. For critical bugfix and new filtering feature.
+- **Now requires** Keyword Item Distributer v3.0.4+. For critical bugfix and new filtering feature.
 
 - **FLM filters added:** Elemental Destruction Magic, Elemental Destruction Magic Redux, Plantable Roses of Remembrance.
 

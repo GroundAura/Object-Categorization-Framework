@@ -788,7 +788,7 @@
 
 - `OCF_ArmorTypeOther`
 
-  - `ArmorShield` \[`0x965B2~Skyrim.esm`\]
+  - `OCF_ArmorShield`
 
     - `OCF_ArmorShield_Heavy`
 
@@ -996,17 +996,13 @@
 
 - `OCF_ArmorTypeOther`
 
-  - `ArmorShield` \[`0x965B2~Skyrim.esm`\]
+  - `OCF_ArmorShield`
 
     - `OCF_ShieldTypeBuckler`
 
     - `OCF_ShieldTypeKite`
 
     - `OCF_ShieldTypeTower`
-
-    - `OCF_ToolCompass`
-
-    - `OCF_ToolSpyglass`
 
     - `OCF_ToolWalkingStick`
 
@@ -1050,6 +1046,8 @@
 
       - `OCF_ToolExtractor`
 
+    - `OCF_ToolCompass`
+
     - `OCF_ToolLantern`
 
       - `OCF_MiscEmptyVessel_Jar`
@@ -1057,6 +1055,8 @@
       - `OCF_MiscJarBug`
 
       - `OCF_ToolLanternPaper`
+
+    - `OCF_ToolSpyglass`
 
     - `OCF_VesselFlask`
 
