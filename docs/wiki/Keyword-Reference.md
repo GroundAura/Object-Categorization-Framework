@@ -882,17 +882,19 @@
 
 - `OCF_ArmorTypeBody`
 
-  - `ClothingChoker` \[`0xDD103~Update.esm`\]
+  - `OCF_BodyTypeAbs`
 
-  - `ClothingHighNecklace` \[`0xFB81E~Update.esm`\]
-
-  - ~~`OCF_BodyTypeAbs`~~ **UNUSED**
-
-  - `OCF_BodyTypeCollar`
+  - `OCF_BodyTypeCloak`
 
   - `OCF_BodyTypeCorset`
 
   - `OCF_BodyTypeDress`
+
+  - `OCF_BodyTypeLapels`
+
+  - `OCF_BodyTypeGorget`
+
+  - `OCF_BodyTypeHighNecklace`
 
   - `OCF_BodyTypeMantle`
 
@@ -908,17 +910,21 @@
 
   - `OCF_BodyTypeRobes`
 
+    - `OCF_BodyTypeRobes_Generic`
+
+    - `OCF_BodyTypeRobes_Mage`
+
   - `OCF_BodyTypeScarf`
 
   - `OCF_BodyTypeSkirt`
 
-  - ~~`OCF_BodyTypeSpine`~~ **UNUSED**
+  - `OCF_BodyTypeSpine`
 
   - `OCF_BodyTypeTail`
 
-    - `OCF_BodyTypeTailArmor`
+    - `OCF_BodyTypeTail_Armor`
 
-    - `OCF_BodyTypeTailReal`
+    - `OCF_BodyTypeTail_Real`
 
   - `OCF_BodyTypeTasset`
 
@@ -934,9 +940,7 @@
 
     - `OCF_BodyTypeUnderwearF`
 
-      - `ClothingBra` \[`0xAF0500~Update.esm`\]
-
-      - `ClothingPanties` \[`0xAF0501~Update.esm`\]
+      - `OCF_BodyTypeUnderwearF_Bottom`
 
       - `OCF_BodyTypeUnderwearF_Full`
 
@@ -944,15 +948,15 @@
 
         - `OCF_BodyTypeUnderwearF_Full2P`
 
+      - `OCF_BodyTypeUnderwearF_Top`
+
     - `OCF_BodyTypeUnderwearM`
 
   - `OCF_BodyTypeWings`
 
-    - `OCF_BodyTypeWingsJewelry`
+    - `OCF_BodyTypeWings_Jewelry`
 
-    - `OCF_BodyTypeWingsReal`
-
-  - `WAF_ClothingCloak` \[`0xAF0128~Update.esm`\]
+    - `OCF_BodyTypeWings_Real`
 
 - `OCF_ArmorTypeHands`
 
@@ -960,21 +964,19 @@
 
   - `OCF_HandTypeArmlet`
 
+  - `OCF_HandTypeBandage`
+
+  - `OCF_HandTypeBracer`
+
+  - `OCF_HandTypeCestus`
+
   - `OCF_HandTypeClaws`
+
+  - `OCF_HandTypeCuffs`
 
   - `OCF_HandTypeNails`
 
-  - `WAF_FingerlessGauntletsBracers` \[`0xAF0122~Update.esm`\]
-
-    - `OCF_HandTypeBandage`
-
-    - `OCF_HandTypeBracer`
-
-    - `OCF_HandTypeCuffs`
-
-  - `OCF_WeapTypeCestus1H` \[`0x81D~OCF.esp`\]
-
-  - `WAF_SpikedGauntletGloves` \[`0xAF0226~Update.esm`\]
+  - `OCF_HandTypeRing`
 
 - `OCF_ArmorTypeFeet`
 
@@ -984,7 +986,9 @@
 
   - `OCF_FeetTypeHeels`
 
-    - `OCF_FeetTypeHeelsBoots`
+    - `OCF_FeetTypeHeels_Boots`
+
+    - `OCF_FeetTypeHeels_Generic`
 
   - `OCF_FeetTypeHooves`
 
