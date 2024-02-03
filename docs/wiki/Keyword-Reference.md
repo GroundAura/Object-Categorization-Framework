@@ -636,7 +636,7 @@
 
 - `OCF_EquipSlot54` - Called 'Unnamed' by the CK.
 
-- `OCF_EquipSlot55` - Called 'Unnamed' by the CK.
+- `OCF_EquipSlot55` - Called 'Unnamed' by the CK. Per modding standards, used by some horns.
 
 - `OCF_EquipSlot56` - Called 'Unnamed' by the CK.
 
@@ -704,11 +704,13 @@
 
   - `OCF_ToolLantern`
 
-    - `OCF_MiscEmptyVessel_Jar`
+    - `OCF_ToolLantern_Bug`
 
-    - `OCF_MiscJarBug`
+    - `OCF_ToolLantern_BugEmpty`
 
-    - `OCF_ToolLanternPaper`
+    - `OCF_ToolLantern_Generic`
+
+    - `OCF_ToolLantern_Magic`
 
   - `OCF_ToolWalkingStick`
 
@@ -818,12 +820,6 @@
 
 - `OCF_ArmorTypeHead`
 
-  - `ClothingCrown` \[`0x10AB46~Update.esm`\]
-
-  - `ClothingEarCuffs` \[`0xEC4C8~Update.esm`\]
-
-  - `ClothingEarrings` \[`0xDE3FD2~Update.esm`\]
-
   - `OCF_HeadTypeBandage`
 
   - `OCF_HeadTypeBandana`
@@ -834,7 +830,13 @@
 
   - `OCF_HeadTypeCirclet`
 
-  - `OCF_HeadTypeEarsReal`
+  - `OCF_HeadTypeCrown`
+
+  - `OCF_HeadTypeEarCuffs`
+
+  - `OCF_HeadTypeEarrings`
+
+  - `OCF_HeadTypeEars`
 
   - `OCF_HeadTypeEyePatch`
 
@@ -858,19 +860,23 @@
 
   - `OCF_HeadTypeHood`
 
+  - `OCF_HeadTypeHoodLowered`
+
   - `OCF_HeadTypeHorns`
 
-    - `OCF_HeadTypeHornsAntlers`
+    - `OCF_HeadTypeHorns_Antlers`
+
+    - `OCF_HeadTypeHorns_Generic`
 
   - `OCF_HeadTypeMask`
 
-    - `OCF_HeadTypeMaskEyes`
+    - `OCF_HeadTypeMask_Eyes`
 
-    - `OCF_HeadTypeMaskFull`
+    - `OCF_HeadTypeMask_Full`
 
-    - `OCF_HeadTypeMaskHood`
+    - `OCF_HeadTypeMask_Hood`
 
-    - `OCF_HeadTypeMaskMouth`
+    - `OCF_HeadTypeMask_Mouth`
 
   - `OCF_HeadTypeWig`
 
@@ -1050,11 +1056,13 @@
 
     - `OCF_ToolLantern`
 
-      - `OCF_MiscEmptyVessel_Jar`
+      - `OCF_ToolLantern_Bug`
 
-      - `OCF_MiscJarBug`
+      - `OCF_ToolLantern_BugEmpty`
 
-      - `OCF_ToolLanternPaper`
+      - `OCF_ToolLantern_Generic`
+
+      - `OCF_ToolLantern_Magic`
 
     - `OCF_ToolSpyglass`
 
