@@ -870,13 +870,17 @@
 
   - `OCF_HeadTypeMask`
 
-    - `OCF_HeadTypeHoodMasked`
+    - `OCF_HeadTypeHoodMasked` - A hood with a mask, such as the [Shrouded Cowl](https://en.uesp.net/wiki/Skyrim:Shrouded_Cowl).
 
-    - `OCF_HeadTypeMask_Eyes`
+    - `OCF_HeadTypeMask_Eyes` - A mask that covers just the eyes, such as one in the style of a [masquerade mask](https://www.google.com/search?q=masquerade+mask).
 
-    - `OCF_HeadTypeMask_Full`
+    - `OCF_HeadTypeMask_Full` - A mask that covers all or almost all of the entire face, such as a [Dragon Priest Mask](https://en.uesp.net/wiki/Skyrim:Armor_Artifacts#Dragon_Priest_Masks).
 
-    - `OCF_HeadTypeMask_Mouth`
+    - `OCF_HeadTypeMask_Mouth` - A mask that covers just the mouth, such as a []() or [oni mask](https://www.google.com/search?q=oni+mouth+mask)
+
+      - `OCF_HeadTypeMask_MouthCloth` - A mask that covers just the mouth, made of cloth.
+
+      - `OCF_HeadTypeMask_MouthOther` - A mask that covers just the mouth, made of a material other than cloth, such as metal.
 
   - `OCF_HeadTypeWig`
 
@@ -977,6 +981,10 @@
   - `OCF_HandTypeNails`
 
   - `OCF_HandTypeRing`
+
+    - `OCF_HandTypeRing_Slot36`
+
+    - `OCF_HandTypeRing_SlotOther`
 
 - `OCF_ArmorTypeFeet`
 

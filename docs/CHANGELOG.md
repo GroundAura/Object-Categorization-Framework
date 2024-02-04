@@ -24,7 +24,7 @@
 
 - **Keyword Categorization fixed:** Vanilla (`MGEF`), [SimonMagus' Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) (`MGEF`), [Tera Armors Collection](https://www.nexusmods.com/skyrimspecialedition/mods/9651) (`ARMO`), general (`ARMO`).
 
-- **Keyword Categorization tweaked:** Vanilla (`ARMO`), COCO Ronin (`ARMO`), Immersive Armors (`ARMO`), Skyrim on Skooma (`ARMO`), zzjay's Wardrobe (`ARMO`), general (`ARMO`, `MISC`, `SCRL`, `SPEL`, `WEAP`).
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`), [COCO Ronin](https://www.nexusmods.com/skyrimspecialedition/mods/47462) (`ARMO`), Immersive Armors (`ARMO`), Skyrim on Skooma (`ARMO`), zzjay's Wardrobe (`ARMO`), general (`ARMO`, `MISC`, `SCRL`, `SPEL`, `WEAP`).
 
 - **Keyword Categorization changes:** Changed all the `SPEL` keyword distribution for Class, Inventory Model, and Type to exactly match the `MGEF` keyword distribution. Moved around some code between files to ease development.
 
