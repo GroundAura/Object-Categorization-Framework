@@ -870,11 +870,11 @@
 
   - `OCF_HeadTypeMask`
 
+    - `OCF_HeadTypeHoodMasked`
+
     - `OCF_HeadTypeMask_Eyes`
 
     - `OCF_HeadTypeMask_Full`
-
-    - `OCF_HeadTypeMask_Hood`
 
     - `OCF_HeadTypeMask_Mouth`
 
