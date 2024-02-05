@@ -3358,6 +3358,8 @@
 
   - `OCF_ToolLight_Candle`
 
+  - `OCF_ToolLight_LanternBug`
+
   - `OCF_ToolLight_Torch`
 
   - `OCF_ToolLockpick`
