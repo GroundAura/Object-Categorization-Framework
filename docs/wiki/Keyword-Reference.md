@@ -790,6 +790,8 @@
 
 - `OCF_ArmorTypeOther`
 
+  - `OCF_Accessory`
+
   - `OCF_ArmorShield`
 
     - `OCF_ArmorShield_Heavy`
@@ -797,16 +799,6 @@
     - ~~`OCF_ArmorShield_Medium`~~ **UNUSED**
 
     - `OCF_ArmorShield_Light`
-
-  - `BYOHAdoptionToyKeyword` \[`0xD824~HearthFires.esm`\]
-
-  - `ClothingStrapOn` \[`0xAF0502~Update.esm`\]
-
-  - `OCF_AccessoryEffect`
-
-  - `WAF_ClothingAccessories` \[`0xAF0136~Update.esm`\]
-
-  - `WAF_ClothingPouch` \[`0xAF0129~Update.esm`\]
 
 - `OCF_MiscHorseGear`
 
@@ -858,6 +850,8 @@
 
     - `OCF_HeadTypeHat_Wizard`
 
+  - `OCF_HeadTypeHeadgear`
+
   - `OCF_HeadTypeHood`
 
   - `OCF_HeadTypeHoodLowered`
@@ -887,6 +881,8 @@
 - `OCF_ArmorTypeBody`
 
   - `OCF_BodyTypeAbs`
+
+  - `OCF_BodyTypeAmulet`
 
   - `OCF_BodyTypeCloak`
 
@@ -924,6 +920,8 @@
 
   - `OCF_BodyTypeSpine`
 
+  - `OCF_BodyTypeStrapOn`
+
   - `OCF_BodyTypeTail`
 
     - `OCF_BodyTypeTail_Armor`
@@ -933,10 +931,6 @@
   - `OCF_BodyTypeTasset`
 
   - `OCF_BodyTypeTorc`
-
-    - `ArmorTorc` \[`0xDE33A9~Update.esm`\]
-
-    - `JewelryTorc` \[`0xDE3399~Update.esm`\]
 
   - `OCF_BodyTypeTorso`
 
@@ -1024,13 +1018,15 @@
 
     - `OCF_ToolWalkingStick`
 
-  - `BYOHAdoptionToyKeyword` \[`0xD824~HearthFires.esm`\]
+  - `OCF_Accessory`
 
-  - `ClothingStrapOn` \[`0xAF0502~Update.esm`\]
+    - `OCF_AccessoryBag`
 
-  - `OCF_AccessoryEffect`
+      - `OCF_AccessoryBag_Backpack`
 
-  - `WAF_ClothingAccessories` \[`0xAF0136~Update.esm`\]
+      - `OCF_AccessoryBag_Bandolier`
+
+      - `OCF_AccessoryBag_Belt`
 
     - `OCF_AccessoryBanner`
 
@@ -1038,7 +1034,11 @@
 
     - `OCF_AccessoryBeltBook`
 
-    - ~~`OCF_AccessoryFlower`~~ **UNUSED**
+    - `OCF_AccessoryEffect`
+
+    - `OCF_AccessoryFlower`
+
+    - `OCF_AccessoryInstrument`
 
     - `OCF_AccessoryJewelry`
 
@@ -1052,13 +1052,15 @@
 
     - `OCF_AccessoryTattoo`
 
+    - `OCF_AccessoryToy`
+
     - `OCF_ArtifactAedric_Worship`
 
     - `OCF_ArtifactDaedric_Worship`
 
     - `OCF_BookTextMap`
 
-    - `OCF_MiscInstrument`
+    - `OCF_MiscEmptyVessel_Flask`
 
     - `OCF_ToolAlchemy`
 
@@ -1080,17 +1082,7 @@
 
     - `OCF_VesselFlask`
 
-      - `OCF_MiscEmptyVessel_Flask`
-
     - `OCF_VesselWaterskin`
-
-  - `WAF_ClothingPouch` \[`0xAF0129~Update.esm`\]
-
-    - `OCF_BagTypeBackpack`
-
-    - `OCF_BagTypeBandolier`
-
-    - `OCF_BagTypeBelt`
 
 - `OCF_MiscHorseGear`
 
