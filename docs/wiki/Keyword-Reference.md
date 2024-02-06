@@ -1618,6 +1618,8 @@
 
 - `OCF_AlchDrug`
 
+  - `OCF_AlchDrug_Eversnow`
+
   - `OCF_AlchDrugSap`
 
   - `OCF_AlchDrugSkooma` \[`0xD9FF06~Update.esm`\]
