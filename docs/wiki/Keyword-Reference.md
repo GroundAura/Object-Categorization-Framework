@@ -5332,7 +5332,7 @@
 
     - ~~`OCF_WeapTypeHatchet2H`~~ **UNUSED**
 
-    - `OCF_WeapTypeMassiveAxe2H`
+    - `OCF_WeapTypeMassiveAxe2H` \[`0x87B~OCF.esp`\]
 
     - `OCF_WeapTypePickaxe2H` \[`0x83A~OCF.esp`\]
 
@@ -5354,7 +5354,7 @@
 
       - ~~`OCF_WeapTypeMaceFlanged2H`~~ **UNUSED**
 
-    - `OCF_WeapTypeMassiveHammer2H`
+    - `OCF_WeapTypeMassiveHammer2H` \[`0x87C~OCF.esp`\]
 
     - `OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]
 
