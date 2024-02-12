@@ -5230,6 +5230,8 @@
 
     - `OCF_WeapTypeHatchet1H` \[`0x815~OCF.esp`\]
 
+    - ~~`OCF_WeapTypeMassiveAxe1H`~~ **UNUSED**
+
     - `OCF_WeapTypePickaxe1H` \[`0x816~OCF.esp`\]
 
     - `OCF_WeapTypeSickle1H` \[`0x817~OCF.esp`\]
@@ -5257,6 +5259,8 @@
     - `OCF_WeapTypeHammer1H` \[`0x820~OCF.esp`\]
 
     - `OCF_WeapTypeMace1H` \[`0x821~OCF.esp`\]
+
+    - ~~`OCF_WeapTypeMassiveHammer1H`~~ **UNUSED**
 
     - ~~`OCF_WeapTypePernach1H`~~ **UNUSED**
 
@@ -5328,6 +5332,8 @@
 
     - ~~`OCF_WeapTypeHatchet2H`~~ **UNUSED**
 
+    - `OCF_WeapTypeMassiveAxe2H`
+
     - `OCF_WeapTypePickaxe2H` \[`0x83A~OCF.esp`\]
 
     - `OCF_WeapTypeScythe2H` \[`0x777777~Update.esm`\]
@@ -5347,6 +5353,8 @@
     - `OCF_WeapTypeMace2H` \[`0x840~OCF.esp`\]
 
       - ~~`OCF_WeapTypeMaceFlanged2H`~~ **UNUSED**
+
+    - `OCF_WeapTypeMassiveHammer2H`
 
     - `OCF_WeapTypeQuarterstaff2H` \[`0x777775~Update.esm`\]
 
