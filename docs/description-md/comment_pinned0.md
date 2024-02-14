@@ -1,0 +1,2 @@
+If you want to follow my progress on my mods, join my [url=https://discord.gg/zft8DmbfKv]Discord[/url].
+If you like my mods and want to support me, I now have a [b][url=https://ko-fi.com/groundaura]Kofi[/url].[/b]
