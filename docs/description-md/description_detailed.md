@@ -1,14 +1,13 @@
-# \[center\]**\[color=#ffd966\]ProjectName\[/color\]**\[/center\]
-
-## \[center\]**\[color=#93c47d\]Subtitle\[/color\]**\[/center\]
-
+# \[center\]**\[color=#ffd966\]Object Categorization Framework\[/color\]**\[/center\]
+---
 \[center\][![kofi](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true)](https://ko-fi.com/groundaura)          [![linktree](https://i.imgur.com/jOQE4n8.png)](https://linktr.ee/groundaura)          [![discord](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true)](https://discord.gg/zft8DmbfKv)\[/center\]
+\[center\]\[font=Verdana\]**Find me in other places**\[/font\]\[/center\]
 
 ---
 
 ## \[center\]**\[color=#ffd966\]Overview\[/color\]**\[/center\]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**[color=#f6b26b]Object Categorization Framework[/color]** (or **[color=#f6b26b]OCF[/color]**) is a resource that categorizes items and other [base objects](https://www.creationkit.com/index.php?title=Base_Object#Base_Object) into groups that can be easily used in conditions by other mods. It does this by distributing hundreds of new [keywords](https://www.creationkit.com/index.php?title=Keyword) (using [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://www.creationkit.com/index.php?title=FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
 
 ---
 
@@ -30,15 +29,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## \[center\]**\[color=#ffd966\]Installation\[/color\]**\[/center\]
 
-Install ProjectName and its requirements with your choice of mod manager. Overwrite any other files if asked. Let me know if you have any problems.
+Install Object Categorization Framework and its requirements with your choice of mod manager. Overwrite any other files if asked. Let me know if you have any problems.
 
-### **\[color=#93c47d\]Hard Requirements:\[/color\]**
+### **\[color=#93c47d\]Requirements:\[/color\]**
 
-- [ModName](https://www.nexusmods.com/skyrimspecialedition/mods/) v1.0.0+.
+- [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+).
+- [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037) (v1.7.0+).
+- [Spell Perk Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v6.6.0+). You may or may not be able to use older versions successfully.
 
-### **\[color=#93c47d\]Soft Requirements:\[/color\]**
+### **\[color=#93c47d\]Optional Requirements:\[/color\]**
 
-- [ModName](https://www.nexusmods.com/skyrimspecialedition/mods/) v1.0.0+ – Conditions.
+- [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
+- [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by FLM/KID/SPID.
 
 ### **\[color=#93c47d\]Asset Load Order\[/color\]**
 
