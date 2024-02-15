@@ -6,34 +6,28 @@
 
 ---
 
-## ![Overview](https://i.imgur.com/Ne4Acy5.png)
+\[center\]![Overview](https://i.imgur.com/Ne4Acy5.png)\[/center\]
 
 **[color=#f6b26b]Object Categorization Framework[/color]** (or **[color=#f6b26b]OCF[/color]**) is a resource that categorizes items and other [base objects](https://www.creationkit.com/index.php?title=Base_Object#Base_Object) into groups that can be easily used in conditions by other mods. It does this by distributing hundreds of new [keywords](https://www.creationkit.com/index.php?title=Keyword) (using [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://www.creationkit.com/index.php?title=FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
 
----
-
-## ![Installation](https://i.imgur.com/LmWYnja.png)
+\[center\]![Installation](https://i.imgur.com/LmWYnja.png)\[/center\]
 
 Install Object Categorization Framework and its requirements with your choice of mod manager. Overwrite any other files if asked. Let me know if you have any problems.
 
-### **\[color=#93c47d\]Requirements:\[/color\]**
+## **\[color=#93c47d\]Requirements:\[/color\]**
 
 - [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+).
 - [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037) (v1.7.0+).
 - [Spell Perk Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v6.6.0+). You may or may not be able to use older versions successfully.
 
-### **\[color=#93c47d\]Optional Requirements:\[/color\]**
+## **\[color=#93c47d\]Optional Requirements:\[/color\]**
 
 - [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
 - [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by FLM/KID/SPID.
 
----
+\[center\]![Compatibility](https://i.imgur.com/soFzBkR.png)\[/center\]
 
-## ![Compatibility](https://i.imgur.com/soFzBkR.png)
-
----
-
-## ![Info](https://i.imgur.com/DZLaSei.png)
+\[center\]![Info](https://i.imgur.com/DZLaSei.png)\[/center\]
 
 OCF categorizes objects using keywords when possible (when the form type accepts keywords). For an organized list of keywords, see [the Keyword Reference on OCF's wiki](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference). When keywords can't be used, FormLists are used instead. For an organized list of FormLists, see [the FormList Reference on OCF's wiki](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference).
 
@@ -49,9 +43,7 @@ If you're a mod author who's interested in utilizing OCF's Keywords or FormLists
 
 If you have any other questions or suggestions feel free to leave a comment or otherwise contact me. Enjoy! :)
 
----
-
-## ![Recommendations](https://i.imgur.com/spSnqsA.png)
+\[center\]![Recommendations](https://i.imgur.com/spSnqsA.png)\[/center\]
 
 - [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) - Patches some mods to benefit from OCF's categories and mod support and includes other keyword related patches, fixes, and tweaks.
 - [FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626) - Patches some mods to benefit from OCF's categories and mod support and includes other FormList related patches, fixes, and tweaks.
@@ -63,9 +55,7 @@ If you have any other questions or suggestions feel free to leave a comment or o
 - [Immersive Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/97729) - Simplifies the activate text with support for OCF's keywords.
 - [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210) - Quick equip HUD mod with support for OCF's keywords.
 
----
-
-## ![FAQ](https://i.imgur.com/vwDgCVz.png)
+\[center\]![FAQ](https://i.imgur.com/vwDgCVz.png)\[/center\]
 
 ### **\[color=#93c47d\]Q1: What versions are supported?\[/color\]**
 
@@ -83,9 +73,7 @@ All plugins included are .esl or .esp/.esm with the ESL flag.
 
 As far as I know it should be fine. However, when changing any mods at all midplaythrough, consider following good modding practices such as making backups, using tools like [ReSaver](https://www.nexusmods.com/skyrimspecialedition/mods/5031), and using bugfix/stability mods like [Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565) ([VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)).
 
----
-
-![Credits & Thanks](https://i.imgur.com/XJ561x1.png)
+\[center\]![Credits & Thanks](https://i.imgur.com/XJ561x1.png)\[/center\]
 
 [spoiler]
 
