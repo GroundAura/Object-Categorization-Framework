@@ -1,9 +1,5 @@
 # **\[font=Verdana\]\[center\]\[u\]OBJECT CATEGORIZATION FRAMEWORK\[/u\]\[/center\]\[/font\]**
 
-\[center\][![linktree](https://i.imgur.com/jOQE4n8.png)](https://linktr.ee/groundaura)[\[font=Verdana\]\[color=#ffffff\]**Find me on Linktree**\[/font\]\[/color\]](https://linktr.ee/groundaura)\[/center\]
-\[center\][![discord](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true)](https://discord.gg/zft8DmbfKv)\[/center\]
-\[center\][![kofi](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true)](https://ko-fi.com/groundaura)\[/center\]
-
 \[center\]![Overview](https://i.imgur.com/Ne4Acy5.png)\[/center\]
 
 **\[font=Verdana\]Object Categorization Framework\[/font\]** (or **\[font=Verdana\]OCF\[/font\]**) is a resource that categorizes items and other [base objects](https://ck.uesp.net/wiki/Glossary#Base_Object) into groups that can be easily used in conditions by other mods. It does this by distributing hundreds of new [Keywords](https://ck.uesp.net/wiki/Keyword) (using [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://ck.uesp.net/wiki/FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
@@ -77,3 +73,7 @@ As far as I know it should be fine. However, when changing any mods at all mid-p
 - [Komegaki/Genskicc](https://www.nexusmods.com/skyrimspecialedition/users/80113953), [Horf/PRieST47](https://www.nexusmods.com/skyrimspecialedition/users/927130), and everyone else on Discord and Nexus who've helped me with patches, suggestions, and feedback!
 
 ## \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**> > > Check Out My Other Mods! < < <**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/users/97658973?tab=user+files)\[/center\]
+
+\[center\][![linktree](https://i.imgur.com/jOQE4n8.png)](https://linktr.ee/groundaura)[\[font=Verdana\]\[color=#ffffff\]**Find me on Linktree**\[/font\]\[/color\]](https://linktr.ee/groundaura)\[/center\]
+\[center\][![discord](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true)](https://discord.gg/zft8DmbfKv)\[/center\]
+\[center\][![kofi](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true)](https://ko-fi.com/groundaura)\[/center\]
