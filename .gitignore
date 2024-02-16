@@ -24,8 +24,10 @@ build/release/
 #dist/**/scripts/*.pex
 
 # Custom #
-{PluginNameShort}_MCM.pex
-ExampleScript.pex
+__temp.bbcode
+__temp.md
+_snippets.bbcode
+_snippets.md
 
 # Dependencies #
 

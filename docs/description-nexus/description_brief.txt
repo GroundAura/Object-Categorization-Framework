@@ -1,1 +1,1 @@
-A framework that creates and distributes categories to items and other base objects from hundreds of mods using KID, FLM, and SPID.
+OCF is a framework mod that categorizes items and other objects from hundreds of mods and provides those categories as Keywords and FormLists to be utilized as conditions by other mods.

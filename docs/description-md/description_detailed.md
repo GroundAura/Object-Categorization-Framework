@@ -2,22 +2,7 @@
 
 \[center\]![Overview](https://i.imgur.com/Ne4Acy5.png)\[/center\]
 
-**\[font=Verdana\]Object Categorization Framework\[/font\]** (or **\[font=Verdana\]OCF\[/font\]**) is a resource that categorizes items and other [base objects](https://ck.uesp.net/wiki/Glossary#Base_Object) into groups that can be easily used in conditions by other mods. It does this by distributing hundreds of new [Keywords](https://ck.uesp.net/wiki/Keyword) (using [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://ck.uesp.net/wiki/FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
-
-\[center\]![Installation](https://i.imgur.com/LmWYnja.png)\[/center\]
-
-Install Object Categorization Framework and its requirements with your choice of mod manager.
-
-## **\[font=Verdana\]Requirements:\[/font\]**
-
-- [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+).
-- [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037) (v1.7.0+).
-- [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v6.6.0+). You may or may not be able to use older versions.
-
-## **\[font=Verdana\]Optional Requirements:\[/font\]**
-
-- [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
-- [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037)/[KID](https://www.nexusmods.com/skyrimspecialedition/mods/55728)/[SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869).
+**\[font=Verdana\]Object Categorization Framework\[/font\]** (or **\[font=Verdana\]OCF\[/font\]**) is a framework mod that categorizes items and other [base objects](https://ck.uesp.net/wiki/Glossary#Base_Object) into groups that can be easily used as conditions by other mods. It does this by distributing hundreds of new [Keywords](https://ck.uesp.net/wiki/Keyword) (using [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://ck.uesp.net/wiki/FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
 
 \[center\]![Details](https://i.imgur.com/KWDeTFX.png)\[/center\]
 
@@ -34,6 +19,21 @@ If you want to try your hand at helping to add support for more mods, I apprecia
 If you're a mod author who's interested in utilizing OCF's Keywords or FormLists in their mod, feel free to contact me on Discord or Nexus. I can try to answer any questions you might have. I'm also open to taking suggestions, such as adding new Keywords or FormLists. If you're considering making a new keyword resource, please consider contacting me first, as adding the desired keywords to OCF might be easier for everyone, and even if they don't fit I'd be happy to share anything I could.
 
 If you have any other questions or suggestions feel free to leave a comment or otherwise contact me. Enjoy! :)
+
+\[center\]![Installation](https://i.imgur.com/LmWYnja.png)\[/center\]
+
+Install Object Categorization Framework and its requirements with your choice of mod manager.
+
+## **\[font=Verdana\]Requirements:\[/font\]**
+
+- [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+).
+- [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037) (v1.7.0+).
+- [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v6.6.0+). You may or may not be able to use older versions.
+
+## **\[font=Verdana\]Optional Requirements:\[/font\]**
+
+- [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
+- [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037)/[KID](https://www.nexusmods.com/skyrimspecialedition/mods/55728)/[SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869).
 
 \[center\]![Recommendations](https://i.imgur.com/spSnqsA.png)\[/center\]
 
