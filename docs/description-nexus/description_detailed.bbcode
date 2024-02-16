@@ -24,8 +24,6 @@ Install Object Categorization Framework and its requirements with your choice of
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/92529]Keyword Patch Collection[/url] – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/74689]MergeMapper[/url] – Only if you use [url=https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/]zMerge[/url]. MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by FLM/KID/SPID.
 [/list]
-[center][img]https://i.imgur.com/soFzBkR.png[/img][/center]
-
 [center][img]https://i.imgur.com/DZLaSei.png[/img][/center]
 
 OCF categorizes objects using keywords when possible (when the form type accepts keywords). For an organized list of keywords, see [url=https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference]the Keyword Reference on OCF's wiki[/url]. When keywords can't be used, FormLists are used instead. For an organized list of FormLists, see [url=https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference]the FormList Reference on OCF's wiki[/url].
@@ -57,21 +55,23 @@ If you have any other questions or suggestions feel free to leave a comment or o
 [/list]
 [center][img]https://i.imgur.com/vwDgCVz.png[/img][/center]
 
-[size=4][b][font=Verdana]Q1: What versions are supported?[/font][/b][/size]
+[size=4][b][font=Verdana]Q1: What Skyrim versions are supported?[/font][/b][/size]
 
-This mod is not version dependant as it doesn't have any SKSE plugins. Some required mods may be version dependant, so you'll have to install the correct versions and those mods may need to be updated if Skyrim gets any breaking updates in the future. It should work on any version of Skyrim including SE/AE/GOG/v1.5.x/v1.6.x/VR, but it hasn't been tested on every version. Oldrim and console are not supported, but you're welcome to try to port it yourself (see permissions).
+[list]
+[*]This mod is not directly dependent on any specific Skyrim version.
+[*]It does require mods that are version dependent, so you'll have to install the correct versions of those mods for your Skyrim version.
+[*]When everything is properly installed, it should work on any version of Skyrim Special Edition (1.5.x/1.6.x/SE/AE/GOG/Steam) or Skyrim VR, although it hasn't been tested on every version.
+[*]I do not directly support Oldrim/LE or console, but you're welcome to try to port it yourself (see permissions).
+[/list]
+[size=4][b][font=Verdana]Q2: What types of plugins are used?[/font][/b][/size]
 
-[size=4][b][font=Verdana]Q2: Does this take plugin slots?[/font][/b][/size]
-
-No .esp/.esm/.esl plugins are included.
-
-OR
-
-All plugins included are .esl or .esp/.esm with the ESL flag.
-
+[list]
+[*]All plugins included are .esp/.esl/.esm with the ESL flag. This means the plugins count towards the ~4096 ESL limit, not the ~255 ESP limit.
+[*]Plugin header version is 1.70, meaning [url=https://www.nexusmods.com/skyrimspecialedition/mods/106441]BEES[/url] for SE v1.5.97-1.6.659 or [url=https://www.nexusmods.com/skyrimspecialedition/mods/106712/]VR ESL Support[/url] for VR are not required.
+[/list]
 [size=4][b][font=Verdana]Q3: Does installing/updating/uninstalling on an existing save work?[/font][/b][/size]
 
-As far as I know it should be fine. However, when changing any mods at all midplaythrough, consider following good modding practices such as making backups, using tools like [url=https://www.nexusmods.com/skyrimspecialedition/mods/5031]ReSaver[/url], and using bugfix/stability mods like [url=https://www.nexusmods.com/skyrimspecialedition/mods/85565]Save Unbaker[/url] ([url=https://www.nexusmods.com/skyrimspecialedition/mods/86265]VR[/url]).
+As far as I know it should be fine. However, when changing any mods at all mid-playthrough, consider following good modding practices such as making backups, using tools like [url=https://www.nexusmods.com/skyrimspecialedition/mods/5031]ReSaver[/url], and using bugfix/stability mods like [url=https://www.nexusmods.com/skyrimspecialedition/mods/85565]Save Unbaker[/url] ([url=https://www.nexusmods.com/skyrimspecialedition/mods/86265]VR[/url]).
 
 [center][img]https://i.imgur.com/EKEX9qa.png[/img][/center]
 
@@ -81,4 +81,4 @@ As far as I know it should be fine. However, when changing any mods at all midpl
 [*][url=https://www.nexusmods.com/skyrimspecialedition/users/10236085]Ashingda[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/3127912]NickaNak[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/25225299]LeonardoVAC[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/61720101]TateTaylorOH[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/123185483]Admiral30[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/6308735]V3cta[/url], and others, whose mods inspired this framework in the first place.
 [*]Everyone on Discord and Nexus who've helped me with suggestions and patches!
 [/list]
-[size=5][center][url=https://www.nexusmods.com/users/97658973][font=Verdana][color=#ffffff][u][b]> > > Check Out My Other Mods! < < <[/b][/u][/font][/color][/url][/center][/size]
+[size=5][center][url=https://www.nexusmods.com/users/97658973?tab=user+files][font=Verdana][color=#ffffff][u][b]> > > Check Out My Other Mods! < < <[/b][/u][/font][/color][/url][/center][/size]
