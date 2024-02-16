@@ -1,6 +1,9 @@
 name: Wiki Sync (Auto)
 
-on: [push]
+on:
+  push:
+    paths:
+      - 'docs/wiki/**'
 
 jobs:
   build:
