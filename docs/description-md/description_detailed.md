@@ -37,15 +37,15 @@ Install Object Categorization Framework and its requirements with your choice of
 
 \[center\]![Recommendations](https://i.imgur.com/spSnqsA.png)\[/center\]
 
-- [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) - Patches some mods to benefit from OCF's categories and mod support and includes other keyword related patches, fixes, and tweaks.
-- [FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626) - Patches some mods to benefit from OCF's categories and mod support and includes other FormList related patches, fixes, and tweaks.
-- [Aura's Inventory Tweaks for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/68557) - Overhauls some of SkyUI's features using OCF's categories including item icons, types, sorting, and more.
-- [Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/89823) - Just the food and potion icons and types from Aura's Inventory Tweaks. Made for the [NOLVUS](https://www.nolvus.net/) modlist.
-- [Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)](https://www.nexusmods.com/skyrimspecialedition/mods/90526) - Just the ingredients icons and types from Aura's Inventory Tweaks. Made for the [NOLVUS](https://www.nolvus.net/) modlist.
-- [Injected Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/74737) - Shares the same FormIDs as a few of OCF's keywords, which gives its [DAR](https://www.nexusmods.com/skyrimspecialedition/mods/33746) conditions some inherent support with the new weapons supported by OCF.
-- [Weapon Speed - IPM](https://www.nexusmods.com/skyrimspecialedition/mods/96828) - Allows you to dynamically change the attack speed of weapons based on weapon type keywords, with support for OCF's keywords.
-- [Immersive Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/97729) - Simplifies the activate text with support for OCF's keywords.
-- [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210) - Quick equip HUD mod with support for OCF's keywords.
+**\[font=Verdana\]A few mods that utilize OCF:\[/font\]**
+- [Aura's Inventory Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/68557) - Overhauls some of SkyUI's features using OCF keywords including item icons, types, sorting, and more.
+- [FormList Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626) - Patches some mods to benefit from OCF categories and mod support and includes other FormList related patches, fixes, and tweaks.
+- [I4 Weapon Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/106432) - Adds new icons for weapons tailored to OCF keywords.
+- [Immersive Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/97729) - Simplifies the activate text with support for OCF keywords.
+- [Injected Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/74737) - Adds Animated Armoury animations using [OAR](https://www.nexusmods.com/skyrimspecialedition/mods/81469) to weapons supported by OCF.
+- [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) - Patches some mods to benefit from OCF categories and mod support and includes other keyword related patches, fixes, and tweaks.
+- [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210) - Quick equip HUD mod with support for OCF keywords.
+- [Weapon Speed - IPM](https://www.nexusmods.com/skyrimspecialedition/mods/96828) - Allows you to dynamically change the attack speed of weapons based on weapon type keywords, with support for OCF keywords.
 
 \[center\]![FAQ](https://i.imgur.com/vwDgCVz.png)\[/center\]
 
@@ -72,8 +72,7 @@ As far as I know it should be fine. However, when changing any mods at all mid-p
 - [Ashingda](https://www.nexusmods.com/skyrimspecialedition/users/10236085), [NickaNak](https://www.nexusmods.com/skyrimspecialedition/users/3127912), [LeonardoVAC](https://www.nexusmods.com/skyrimspecialedition/users/25225299), [TateTaylorOH](https://www.nexusmods.com/skyrimspecialedition/users/61720101), [Admiral30](https://www.nexusmods.com/skyrimspecialedition/users/123185483), [V3cta](https://www.nexusmods.com/skyrimspecialedition/users/6308735), and others, whose mods inspired this framework in the first place!
 - [Komegaki/Genskicc](https://www.nexusmods.com/skyrimspecialedition/users/80113953), [Horf/PRieST47](https://www.nexusmods.com/skyrimspecialedition/users/927130), and everyone else on Discord and Nexus who've helped me with patches, suggestions, and feedback!
 
-## \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**> > > Check Out My Other Mods! < < <**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/users/97658973?tab=user+files)\[/center\]
-
 \[center\][![linktree](https://i.imgur.com/jOQE4n8.png)](https://linktr.ee/groundaura)[\[font=Verdana\]\[color=#ffffff\]**Find me on Linktree**\[/font\]\[/color\]](https://linktr.ee/groundaura)\[/center\]
 \[center\][![discord](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true)](https://discord.gg/zft8DmbfKv)\[/center\]
 \[center\][![kofi](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true)](https://ko-fi.com/groundaura)\[/center\]
+## \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**> > > Check Out My Other Mods! < < <**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/users/97658973?tab=user+files)\[/center\]
