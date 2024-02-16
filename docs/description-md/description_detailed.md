@@ -56,13 +56,13 @@ If you have any other questions or suggestions feel free to leave a comment or o
 
 - This mod is not directly dependent on any specific Skyrim version.
 - It does require mods that are version dependent, so you'll have to install the correct versions of those mods for your Skyrim version.
-- When everything is installed properly, it should work on any version of Skyrim Special Edition (1.5.x/1.6.x/SE/AE/GOG/Steam) or Skyrim VR, although it hasn't been tested on every version.
+- When everything is installed properly, it should work on any modern version of Skyrim (SE/AE/1.5.x/1.6.x/Steam/GOG/VR), although it hasn't been tested on every version.
 - I do not directly support Oldrim/LE or console, but you're welcome to try to port it yourself (see permissions).
 
 ### **\[font=Verdana\]Q2: What types of plugins are used?\[/font\]**
 
 - All plugins included are .esp/.esl/.esm with the ESL flag. This means the plugins count towards the ~4096 ESL limit, not the ~255 ESP limit.
-- Plugin header version is 1.70, meaning [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441) for SE v1.5.97-1.6.659 or [VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712/) for VR are not required.
+- Plugin header version is 1.70. This means [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441) for SE v1.5.97-1.6.659 (never required on v1.6.1130+) or [VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712/) for VR are not required.
 
 ### **\[font=Verdana\]Q3: Does installing/updating/uninstalling on an existing save work?\[/font\]**
 
@@ -70,9 +70,9 @@ As far as I know it should be fine. However, when changing any mods at all mid-p
 
 \[center\]![Thanks](https://i.imgur.com/EKEX9qa.png)\[/center\]
 
-- [powerofthree](https://www.nexusmods.com/skyrimspecialedition/users/2148728) for creating [KID](https://www.nexusmods.com/skyrimspecialedition/users/2148728) and [SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and adding some features I suggested, which made this framework possible.
-- [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094) for creating [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037) and adding some features I suggested, which made this framework possible.
-- [Ashingda](https://www.nexusmods.com/skyrimspecialedition/users/10236085), [NickaNak](https://www.nexusmods.com/skyrimspecialedition/users/3127912), [LeonardoVAC](https://www.nexusmods.com/skyrimspecialedition/users/25225299), [TateTaylorOH](https://www.nexusmods.com/skyrimspecialedition/users/61720101), [Admiral30](https://www.nexusmods.com/skyrimspecialedition/users/123185483), [V3cta](https://www.nexusmods.com/skyrimspecialedition/users/6308735), and others, whose mods inspired this framework in the first place.
-- Everyone on Discord and Nexus who've helped me with suggestions and patches!
+- [powerofthree](https://www.nexusmods.com/skyrimspecialedition/users/2148728) for creating [KID](https://www.nexusmods.com/skyrimspecialedition/users/2148728) and [SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and adding some features I suggested, which made this framework possible!
+- [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094) for creating [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037) and adding some features I suggested, which made this framework possible!
+- [Ashingda](https://www.nexusmods.com/skyrimspecialedition/users/10236085), [NickaNak](https://www.nexusmods.com/skyrimspecialedition/users/3127912), [LeonardoVAC](https://www.nexusmods.com/skyrimspecialedition/users/25225299), [TateTaylorOH](https://www.nexusmods.com/skyrimspecialedition/users/61720101), [Admiral30](https://www.nexusmods.com/skyrimspecialedition/users/123185483), [V3cta](https://www.nexusmods.com/skyrimspecialedition/users/6308735), and others, whose mods inspired this framework in the first place!
+- [Komegaki/Genskicc](https://www.nexusmods.com/skyrimspecialedition/users/80113953), [Horf/PRieST47](https://www.nexusmods.com/skyrimspecialedition/users/927130), and everyone else on Discord and Nexus who've helped me with patches, suggestions, and feedback!
 
 ## \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**> > > Check Out My Other Mods! < < <**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/users/97658973?tab=user+files)\[/center\]
