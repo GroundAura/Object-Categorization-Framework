@@ -63,7 +63,7 @@ Install Object Categorization Framework and its requirements with your choice of
 
 ### **\[font=Verdana\]Q3: Does installing/updating/uninstalling on an existing save work?\[/font\]**
 
-As far as I know it should be fine. However, when changing any mods at all mid-playthrough, consider following good modding practices such as making backups, using tools like [ReSaver](https://www.nexusmods.com/skyrimspecialedition/mods/5031), and using bugfix/stability mods like [Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565) ([VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)).
+- As far as I know it should be fine. However, when changing any mods at all mid-playthrough, consider following good modding practices such as making backups, using tools like [ReSaver](https://www.nexusmods.com/skyrimspecialedition/mods/5031), and using bugfix/stability mods like [Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565) ([VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)).
 
 \[center\]![Thanks](https://i.imgur.com/EKEX9qa.png)\[/center\]
 
@@ -75,4 +75,5 @@ As far as I know it should be fine. However, when changing any mods at all mid-p
 \[center\][![linktree](https://i.imgur.com/jOQE4n8.png)](https://linktr.ee/groundaura)[\[font=Verdana\]\[color=#ffffff\]**Find me on Linktree**\[/font\]\[/color\]](https://linktr.ee/groundaura)\[/center\]
 \[center\][![discord](https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true)](https://discord.gg/zft8DmbfKv)\[/center\]
 \[center\][![kofi](https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true)](https://ko-fi.com/groundaura)\[/center\]
+
 ## \[center\][\[font=Verdana\]\[color=#ffffff\]\[u\]**> > > Check Out My Other Mods! < < <**\[/u\]\[/font\]\[/color\]](https://www.nexusmods.com/users/97658973?tab=user+files)\[/center\]
