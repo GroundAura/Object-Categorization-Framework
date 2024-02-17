@@ -43,6 +43,7 @@
 - Key icon from [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) by [psychosteve](https://www.nexusmods.com/users/37741).
 - Note icon from [Psychosteves SkyUI Icon Set](https://www.nexusmods.com/skyrim/mods/11010) by [psychosteve](https://www.nexusmods.com/users/37741).
 - Magnifying glass icon from [Game-Icons.net](https://game-icons.net/1x1/lorc/magnifying-glass.html) by [Lorc](https://lorcblog.blogspot.com/).
+- Wing icon from [UX Wing](https://uxwing.com/wing-icon/) by [UXWing](https://uxwing.com/).
 - Widgets from [nexusmods-widgets](https://github.com/doodlum/nexusmods-widgets) by [doodlum](https://www.nexusmods.com/skyrimspecialedition/users/28038035).
 
 \[font=Verdana\]**Tools Used:**\[/font\]
