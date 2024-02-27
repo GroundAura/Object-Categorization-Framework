@@ -24,10 +24,9 @@ build/release/
 #dist/**/scripts/*.pex
 
 # Custom #
-__temp.bbcode
-__temp.md
-_snippets.bbcode
-_snippets.md
+*_KW-Patch_*
+*temp.*
+*snippets.*
 
 # Dependencies #
 
