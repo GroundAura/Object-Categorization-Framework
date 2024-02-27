@@ -6,7 +6,7 @@
 
 - **Author's Note:** Thanks to [Genskicc/Komegaki](https://www.nexusmods.com/skyrimspecialedition/users/80113953?tab=user+files) for a lot of these changes.
 
-- **Now requires** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+) for bugfixes and new filtering features.
+- **Now requires** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.2.0+) for bugfixes and new filtering features.
 
 - **FLM collections (`ARMO`) changed:** `armoKW_OCF_BagTypeBackpack` to `armoKW_OCF_AccessoryBag_Backpack`.
 
