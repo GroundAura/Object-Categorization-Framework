@@ -8,6 +8,8 @@
 
 - **Now requires** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.1.0+) for bugfixes and new filtering features.
 
+- **FLM collections (`ARMO`) changed:** `armoKW_OCF_BagTypeBackpack` to `armoKW_OCF_AccessoryBag_Backpack`.
+
 - **FLM filters added:** [Colorful Torches V1](https://www.nexusmods.com/skyrimspecialedition/mods/73459), [Colorful Torches V2](https://www.nexusmods.com/skyrimspecialedition/mods/73459), [Improved Butterfliegen](https://www.nexusmods.com/skyrimspecialedition/mods/33701), [More Colorful Torchbug Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/34776), [More Colorful Torchbug Lanterns - Butterfliegen Craftable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/34776), [More Colorful Torchbug Lanterns - More Colorful Critters V3 Craftable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/34776).
 
 - **FormList Categorization added:** [Colorful Torches V1](https://www.nexusmods.com/skyrimspecialedition/mods/73459) (`LIGH`), [Colorful Torches V2](https://www.nexusmods.com/skyrimspecialedition/mods/73459) (`LIGH`), [More Colorful Torchbug Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/34776) (`LIGH`), [More Colorful Torchbug Lanterns - Butterfliegen Craftable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/34776) (`LIGH`), [More Colorful Torchbug Lanterns - More Colorful Critters V3 Craftable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/34776) (`LIGH`).
