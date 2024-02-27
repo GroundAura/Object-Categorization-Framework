@@ -8,12 +8,6 @@
             "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
         },
         {
-            "label": "copy-pex.bat",
-            "type": "shell",
-            "command": ".vscode\\scripts\\copy-pex.bat",
-            "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
-        },
-        {
             "label": "md2nexus.bat",
             "type": "shell",
             "command": ".vscode\\scripts\\md2nexus.bat",
@@ -38,43 +32,39 @@
             "presentation": {"echo": false, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
         },
         {
-            "label": "Build to build\\",
+            "label": "Zip to build",
             "group": "build",
             "dependsOn": [
                 "copy-img.bat",
-                "copy-pex.bat",
                 "zip.bat"
             ]
         },
         {
-            "label": "Build to dist\\",
+            "label": "Copy to dist",
             "group": "build",
             "dependsOn": [
-                "copy-img.bat",
-                "copy-pex.bat"
+                "copy-img.bat"
             ]
         },
         {
-            "label": "Build to MO2\\downloads\\",
+            "label": "Zip to MO2\\downloads",
             "group": "build",
             "dependsOn": [
                 "copy-img.bat",
-                "copy-pex.bat",
                 "zip.bat",
                 "mo2-downloads.bat"
             ]
         },
         {
-            "label": "Build to MO2\\mods\\",
+            "label": "Copy to MO2\\mods",
             "group": "build",
             "dependsOn": [
                 "copy-img.bat",
-                "copy-pex.bat",
                 "mo2-mod.bat"
             ]
         },
         {
-            "label": "Build to docs\\description-nexus\\",
+            "label": "Compile description",
             "group": "build",
             "dependsOn": [
                 "md2nexus.bat"
