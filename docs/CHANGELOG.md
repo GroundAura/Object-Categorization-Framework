@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.1.0
+
+- **Keyword Categorization added:** [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), [Furious Granny's Roasted Donald](https://www.nexusmods.com/skyrimspecialedition/mods/55434) (`ALCH`), [KS Hairdos Physics - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/31300) (`ARMO`), [Necro Pizza](https://www.nexusmods.com/skyrimspecialedition/mods/57561) (`ALCH`, `ARMO`), [Necro Pizzeria](https://www.nexusmods.com/skyrimspecialedition/mods/84066) (`ALCH`), [Sausages of Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/70251) (`ALCH`, `ARMO`), [Simple Bosmer Harvesting](https://www.nexusmods.com/skyrimspecialedition/mods/112722) (`ALCH`), [TacocaT](https://www.nexusmods.com/skyrimspecialedition/mods/69098) (`ALCH`).
+
 ## Version 5.0.0
 
 - **Author's Note:** There are a lot of changes to armor in this update. A lot more stuff will be dynamically categorized in a similar way to how weapons are, but that inevitabaly will result in some miscategorization. If you notice any armor that seems to have incorrect keywords, let me know. I have also changed the names of many armor keywords for cleanliness/clarity, so any mods utilizing these OCF keywords will need to change to the new EditorIDs.
