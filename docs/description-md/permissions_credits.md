@@ -55,6 +55,6 @@
 - [GitHub Desktop](https://desktop.github.com)
 - [Inkscape](https://inkscape.org)
 - [md2nexus](https://www.nexusmods.com/skyrimspecialedition/mods/100441)
-- [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164)
+- [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164) + [Copy EditorIDs Script](https://www.nexusmods.com/skyrimspecialedition/mods/74037?tab=files) + [Copy Records to Clipboard Script](https://www.nexusmods.com/skyrimspecialedition/mods/103494)
 - [VS Code](https://code.visualstudio.com)
 - [WinMerge](https://winmerge.org)
