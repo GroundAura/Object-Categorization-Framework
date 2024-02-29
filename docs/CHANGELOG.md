@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.2.0
+
+- **Keyword Categorization tweaked:** [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), general (`ARMO`).
+
 ## Version 5.1.0
 
 - **Keyword Categorization added:** [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), [Furious Granny's Roasted Donald](https://www.nexusmods.com/skyrimspecialedition/mods/55434) (`ALCH`), [KS Hairdos Physics - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/31300) (`ARMO`), [Necro Pizza](https://www.nexusmods.com/skyrimspecialedition/mods/57561) (`ALCH`, `ARMO`), [Necro Pizzeria](https://www.nexusmods.com/skyrimspecialedition/mods/84066) (`ALCH`), [Sausages of Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/70251) (`ALCH`, `ARMO`), [Simple Bosmer Harvesting](https://www.nexusmods.com/skyrimspecialedition/mods/112722) (`ALCH`), [TacocaT](https://www.nexusmods.com/skyrimspecialedition/mods/69098) (`ALCH`).
