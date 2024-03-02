@@ -2,7 +2,13 @@
 
 ## Version 5.2.0
 
-- **Keyword Categorization tweaked:** [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), general (`ARMO`).
+- **FLM filters added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [SimonMagus' Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138).
+
+- **FormList Categorization added:** [SimonMagus' Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) (`HAZD`, `PROJ`).
+
+- **Keyword Categorization added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`ARMO`, `MGEF`, `SPEL`), [Vahlok's Mask for Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/112808) (`ARMO`).
+
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`), [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) (`ARMO`), [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) (`ARMO`), general (`ARMO`).
 
 ## Version 5.1.0
 
