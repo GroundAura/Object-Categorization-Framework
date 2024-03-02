@@ -1,0 +1,40 @@
+Keywords on Magic Effects that have the Dispel with Keywords flag, according to a test on a light modlist
+
+2	MagicAlchBeneficialDISPEL
+1	MagicAlchDamageHealth
+1	MagicAlchDamageStamina
+1	MagicAlchDurationBased
+3	MagicAlchHarmful
+4	MagicArmorSpell
+19	MagicBlessing
+72	MagicCloak
+7	MagicDamageFire
+4	MagicDamageFrost
+5	MagicDamageShock
+214	MagicInfluence
+38	MagicInfluenceCharm
+32	MagicInfluenceFear
+21	MagicInfluenceFrenzy
+7	MagicInvisibility
+8	MagicNightEye
+10	MagicParalysis
+3	MagicRestoreHealth
+6	MagicRune
+1	MagicSchoolConjuration
+3	MagicShout
+15	MagicSlow
+2	MagicSummonFamiliar
+1	MagicSummonFire
+1	MagicSummonFrost
+1	MagicSummonShock
+1	MagicSummonUndead
+2	MagicThrallHealthRegen
+2	MagicTrapGas
+1	MagicTrapPoison
+5	MagicTurnUndead
+1	MagicVampireDrain
+16	MagicVoiceChangeWeather
+1	MagicWard
+2	MagicWeaponSpeed
+
+
