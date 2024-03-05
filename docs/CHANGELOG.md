@@ -6,11 +6,11 @@
 
 - **FormList Categorization added:** [SimonMagus' Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) (`HAZD`, `PROJ`).
 
-- **Keyword Categorization added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`ARMO`, `MGEF`, `SPEL`), [Vahlok's Mask for Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/112808) (`ARMO`).
+- **Keyword Categorization added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`ARMO`, `MGEF`, `SPEL`), [Vahlok's Mask for Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/112808) (`ARMO`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`ARMO`, `WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`ARMO`, `WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`ARMO`, `WEAP`).
 
 - **Keyword Categorization fixed:** General (`ARMO`).
 
-- **Keyword Categorization tweaked:** Vanilla (`ARMO`), [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) (`ARMO`), [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) (`ARMO`), [SimonMagus' Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) (`MGEF`, `SPEL`), other (`ARMO`), general (`ARMO`).
+- **Keyword Categorization tweaked:** Vanilla (`ARMO`), [Burger Jarl](https://www.nexusmods.com/skyrimspecialedition/mods/64815) (`ALCH`), [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) (`ARMO`), [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) (`ARMO`), [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) (`ARMO`), [SimonMagus' Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) (`MGEF`, `SPEL`), other (`ARMO`), general (`ARMO`).
 
 ## Version 5.1.0
 
