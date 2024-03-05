@@ -852,6 +852,12 @@
 
   - `OCF_HeadTypeHeadgear`
 
+  - ~~`OCF_HeadTypeHelmet`~~
+
+    - ~~`OCF_HeadTypeHelmet_Closed`~~
+
+    - ~~`OCF_HeadTypeHelmet_Open`~~
+
   - `OCF_HeadTypeHood`
 
   - `OCF_HeadTypeHoodLowered`
