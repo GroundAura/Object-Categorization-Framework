@@ -1072,9 +1072,9 @@
 
     - `OCF_AccessoryTattoo`
 
-    - ~~`OCF_AccessoryTrinket`~~
-
     - `OCF_AccessoryToy`
+
+    - ~~`OCF_AccessoryTrinket`~~
 
     - `OCF_ArtifactAedric_Worship`
 
