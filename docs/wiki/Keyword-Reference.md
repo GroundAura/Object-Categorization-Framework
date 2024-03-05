@@ -972,6 +972,8 @@
 
   - `OCF_HandTypeBracer`
 
+  - ~~`OCF_HandTypeBrawling`~~
+
   - `OCF_HandTypeCestus`
 
   - `OCF_HandTypeClaws`
