@@ -1040,9 +1040,13 @@
 
     - `OCF_AccessoryBeltBook`
 
+    - `OCF_AccessoryDagger`
+
     - `OCF_AccessoryEffect`
 
     - `OCF_AccessoryFlower`
+
+    - `OCF_AccessoryGarment`
 
     - `OCF_AccessoryInstrument`
 
@@ -1052,7 +1056,11 @@
 
     - `OCF_AccessoryMagic`
 
+    - ~~`OCF_AccessoryOther`~~
+
     - `OCF_AccessoryPiercing`
+
+    - `OCF_AccessoryScabbard`
 
     - `OCF_AccessoryShield`
 
@@ -1063,6 +1071,8 @@
       - ~~`OCF_AccessoryShield_Other`~~
 
     - `OCF_AccessoryTattoo`
+
+    - ~~`OCF_AccessoryTrinket`~~
 
     - `OCF_AccessoryToy`
 
