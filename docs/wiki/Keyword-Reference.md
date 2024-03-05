@@ -1050,6 +1050,12 @@
 
     - `OCF_AccessoryShield`
 
+      - ~~`OCF_AccessoryShield_Heavy`~~
+
+      - ~~`OCF_AccessoryShield_Light`~~
+
+      - ~~`OCF_AccessoryShield_Other`~~
+
     - `OCF_AccessoryTattoo`
 
     - `OCF_AccessoryToy`
