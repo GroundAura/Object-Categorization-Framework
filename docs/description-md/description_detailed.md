@@ -58,8 +58,8 @@ Install Object Categorization Framework and its requirements with your choice of
 
 ### **\[font=Verdana\]Q2: What types of plugins are used?\[/font\]**
 
-- All plugins included are .esp/.esl/.esm with the ESL flag. This means the plugins count towards the ~4096 ESL limit, not the ~255 ESP limit.
-- Plugin header version is 1.70. This means [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441) for SE v1.5.97-1.6.659 (never required on v1.6.1130+) or [VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712/) for VR are not required.
+- All plugins included are .esp/.esl/.esm with the ESL flag. This means the plugins count towards the ~4096 ESL limit, not the ~255 ESP limit. If you are on VR, you will need [VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712/) to make use of the ESL flag.
+- Plugin header version is 1.70. This means [BEES](https://www.nexusmods.com/skyrimspecialedition/mods/106441) for SE v1.5.97-1.6.659 (never required on v1.6.1130+) or [VR ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106712/) for VR are not required to load the plugins in this mod.
 
 ### **\[font=Verdana\]Q3: Does installing/updating/uninstalling on an existing save work?\[/font\]**
 
