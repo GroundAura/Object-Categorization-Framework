@@ -2,6 +2,8 @@
 
 ## Version 5.2.0
 
+- **Recommended to update** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) to v3.3.0+ for optimizations to keyword distribution time. This should decrease the time to load to main menu when using OCF.
+
 - **FLM filters added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [SimonMagus' Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138).
 
 - **FormList Categorization added:** [SimonMagus' Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) (`HAZD`, `PROJ`).
@@ -9,6 +11,8 @@
 - **Keywords (`ARMO`) added:** `OCF_AccessoryDagger`, `OCF_AccessoryJewelry`, `OCF_AccessoryGarment`, `OCF_AccessoryScabbard`.
 
 - **Keyword Categorization added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`ARMO`, `MGEF`, `SPEL`), [Vahlok's Mask for Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/112808) (`ARMO`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`ARMO`, `WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`ARMO`, `WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`ARMO`, `WEAP`).
+
+- **Keyword Categorization added:** General (`ARMO`).
 
 - **Keyword Categorization fixed:** General (`ARMO`).
 
