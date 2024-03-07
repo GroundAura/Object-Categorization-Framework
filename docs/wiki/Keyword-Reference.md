@@ -876,7 +876,7 @@
 
     - `OCF_HeadTypeMask_Full` - A mask that covers all or almost all of the entire face, such as a [Dragon Priest Mask](https://en.uesp.net/wiki/Skyrim:Armor_Artifacts#Dragon_Priest_Masks).
 
-    - `OCF_HeadTypeMask_Mouth` - A mask that covers just the mouth, such as a []() or [oni mask](https://www.google.com/search?q=oni+mouth+mask)
+    - `OCF_HeadTypeMask_Mouth` - A mask that covers just the mouth, such as a [bandana mask](https://www.google.com/search?q=bandana+mask) or an [oni mask](https://www.google.com/search?q=oni+mouth+mask)
 
       - `OCF_HeadTypeMask_MouthCloth` - A mask that covers just the mouth, made of cloth.
 

@@ -1,5 +1,13 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.3.0
+
+- **Keyword Categorization added:** [GTFO My Room](https://www.nexusmods.com/skyrimspecialedition/mods/17968) (`MGEF`, `SPEL`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`MGEF`, `SPEL`).
+
+- **Keyword Categorization fixed:** Vanilla (`ARMO`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), general (`ARMO`).
+
+- **Keyword Categorization tweaked:** [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), general (`ARMO`).
+
 ## Version 5.2.0
 
 - **Recommended to update** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) to v3.3.0+ for optimizations to keyword distribution time. This should decrease the time to load to main menu when using OCF.
@@ -10,9 +18,7 @@
 
 - **Keywords (`ARMO`) added:** `OCF_AccessoryDagger`, `OCF_AccessoryJewelry`, `OCF_AccessoryGarment`, `OCF_AccessoryScabbard`.
 
-- **Keyword Categorization added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`ARMO`, `MGEF`, `SPEL`), [Vahlok's Mask for Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/112808) (`ARMO`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`ARMO`, `WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`ARMO`, `WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`ARMO`, `WEAP`).
-
-- **Keyword Categorization added:** General (`ARMO`).
+- **Keyword Categorization added:** [SimonMagus' Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) (`ARMO`, `MGEF`, `SPEL`), [Vahlok's Mask for Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/112808) (`ARMO`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`ARMO`, `WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`ARMO`, `WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`ARMO`, `WEAP`), general (`ARMO`).
 
 - **Keyword Categorization fixed:** General (`ARMO`).
 
