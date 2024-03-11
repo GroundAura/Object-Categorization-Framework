@@ -2,7 +2,7 @@
 
 ## Version 5.3.0
 
-- **Keyword Categorization added:** [GTFO My Room](https://www.nexusmods.com/skyrimspecialedition/mods/17968) (`MGEF`, `SPEL`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`MGEF`, `SPEL`), [Vyn Exports Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) (`ACTI`, `ALCH`).
+- **Keyword Categorization added:** [Dynamic Armor Variants - Menu](https://www.nexusmods.com/skyrimspecialedition/mods/65963) (`MGEF`, `SPEL`), [GTFO My Room](https://www.nexusmods.com/skyrimspecialedition/mods/17968) (`MGEF`, `SPEL`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`MGEF`, `SPEL`), [Vyn Exports Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) (`ACTI`, `ALCH`).
 
 - **Keyword Categorization fixed:** Vanilla (`ARMO`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), general (`ARMO`).
 
