@@ -964,13 +964,13 @@
 
 - `OCF_ArmorTypeHands`
 
-  - `ClothingBracelet` \[`0xE814F1~Update.esm`\]
-
   - `OCF_HandTypeArmlet`
 
   - `OCF_HandTypeBandage`
 
   - `OCF_HandTypeBracer`
+
+  - `OCF_HandTypeBracelet`
 
   - ~~`OCF_HandTypeBrawling`~~
 
