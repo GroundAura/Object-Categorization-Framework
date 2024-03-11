@@ -6,7 +6,7 @@
 
 - **Keyword Categorization fixed:** Vanilla (`ARMO`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), general (`ARMO`).
 
-- **Keyword Categorization tweaked:** [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), general (`ARMO`).
+- **Keyword Categorization tweaked:** [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943) (`ALCH`, `MISC`), general (`ARMO`).
 
 ## Version 5.2.0
 
