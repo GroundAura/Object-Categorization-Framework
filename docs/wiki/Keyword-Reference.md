@@ -902,6 +902,8 @@
 
   - `OCF_BodyTypeGorget`
 
+  - `OCF_BodyTypeHarness`
+
   - `OCF_BodyTypeHighNecklace`
 
   - `OCF_BodyTypeMantle`
