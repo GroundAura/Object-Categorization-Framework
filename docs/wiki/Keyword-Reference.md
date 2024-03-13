@@ -894,6 +894,8 @@
 
   - `OCF_BodyTypeCorset`
 
+  - `OCF_BodyTypeCuisses`
+
   - `OCF_BodyTypeDress`
 
   - `OCF_BodyTypeLapels`
