@@ -10,11 +10,11 @@
 
 - **Keywords (`ARMO`) added:** `OCF_BodyTypeCuisses`, `OCF_BodyTypeHarness`.
 
-- **Keyword Categorization added:** [Dynamic Armor Variants - Menu](https://www.nexusmods.com/skyrimspecialedition/mods/65963) (`MGEF`, `SPEL`), [GTFO My Room](https://www.nexusmods.com/skyrimspecialedition/mods/17968) (`MGEF`, `SPEL`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`MGEF`, `SPEL`), [Mooncakes](https://www.nexusmods.com/skyrimspecialedition/mods/113796) (`ALCH`), [Spoiled Goods](https://www.nexusmods.com/skyrimspecialedition/mods/61893) (`ALCH`), [Simple Food Spoilage System](https://www.nexusmods.com/skyrimspecialedition/mods/113658) (`ALCH`, `INGR`), [Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935) (`ALCH`, `FLOR`, `INGR`), [Vyn Exports Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) (`ACTI`, `ALCH`), general (`ARMO`).
+- **Keyword Categorization added:** [Dynamic Armor Variants - Menu](https://www.nexusmods.com/skyrimspecialedition/mods/65963) (`MGEF`, `SPEL`), [GTFO My Room](https://www.nexusmods.com/skyrimspecialedition/mods/17968) (`MGEF`, `SPEL`), [Hasphat's Awesome Vegetables](https://www.nexusmods.com/skyrimspecialedition/mods/95506) (`ALCH`, `FLOR`, `INGR`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`MGEF`, `SPEL`), [Mooncakes](https://www.nexusmods.com/skyrimspecialedition/mods/113796) (`ALCH`), [Spoiled Goods](https://www.nexusmods.com/skyrimspecialedition/mods/61893) (`ALCH`), [Simple Food Spoilage System](https://www.nexusmods.com/skyrimspecialedition/mods/113658) (`ALCH`, `INGR`), [Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935) (`ALCH`, `FLOR`, `INGR`), [Vyn Exports Ice Claws](https://www.nexusmods.com/skyrimspecialedition/mods/53219) (`ACTI`, `ALCH`), general (`ARMO`).
 
 - **Keyword Categorization fixed:** Vanilla (`ARMO`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), general (`ARMO`).
 
-- **Keyword Categorization tweaked:** [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943) (`ALCH`, `MISC`), general (`ARMO`).
+- **Keyword Categorization tweaked:** [Diverse Foods](https://www.nexusmods.com/skyrimspecialedition/mods/91599) (`INGR`), [Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479) (`ARMO`), [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943) (`ALCH`, `MISC`), general (`ARMO`).
 
 ## Version 5.2.0
 
