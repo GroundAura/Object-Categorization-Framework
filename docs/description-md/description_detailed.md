@@ -1,10 +1,10 @@
-# **\[font=Verdana\]\[center\]\[u\]OBJECT CATEGORIZATION FRAMEWORK\[/u\]\[/center\]\[/font\]**
+# \[center\]![Object Categorization Framework](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/brand/Title.png)\[/center\]
 
-\[center\]![Overview](https://i.imgur.com/Ne4Acy5.png)\[/center\]
+\[center\]![Overview](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Overview.png)\[/center\]
 
 **\[font=Verdana\]Object Categorization Framework\[/font\]** (or **\[font=Verdana\]OCF\[/font\]**) is a framework mod that categorizes items and other [base objects](https://ck.uesp.net/wiki/Glossary#Base_Object) into groups that can be easily used as conditions by other mods. It does this by distributing hundreds of new [Keywords](https://ck.uesp.net/wiki/Keyword) (using [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://ck.uesp.net/wiki/FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
 
-\[center\]![Details](https://i.imgur.com/KWDeTFX.png)\[/center\]
+\[center\]![Details](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Details.png)\[/center\]
 
 OCF categorizes objects using keywords when possible (when the form type accepts keywords). For an organized list of keywords, see [the Keyword Reference on OCF's wiki](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference). When keywords can't be used, FormLists are used instead. For an organized list of FormLists, see [the FormList Reference on OCF's wiki](https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference).
 
@@ -20,7 +20,7 @@ If you're a mod author who's interested in utilizing OCF's Keywords or FormLists
 
 If you have any other questions or suggestions feel free to leave a comment or otherwise contact me. Enjoy! :)
 
-\[center\]![Installation](https://i.imgur.com/LmWYnja.png)\[/center\]
+\[center\]![Installation](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Installation.png)\[/center\]
 
 Install Object Categorization Framework and its requirements with your choice of mod manager.
 
@@ -35,7 +35,7 @@ Install Object Categorization Framework and its requirements with your choice of
 - [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
 - [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037)/[KID](https://www.nexusmods.com/skyrimspecialedition/mods/55728)/[SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869).
 
-\[center\]![Recommendations](https://i.imgur.com/spSnqsA.png)\[/center\]
+\[center\]![Recommendations](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Recommendations.png)\[/center\]
 
 **\[font=Verdana\]A few mods that utilize OCF:\[/font\]**
 - [Aura's Inventory Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/68557) - Overhauls some of SkyUI's features using OCF keywords including item icons, types, sorting, and more.
@@ -47,7 +47,7 @@ Install Object Categorization Framework and its requirements with your choice of
 - [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210) - Quick equip HUD mod with support for OCF keywords.
 - [Weapon Speed - IPM](https://www.nexusmods.com/skyrimspecialedition/mods/96828) - Allows you to dynamically change the attack speed of weapons based on weapon type keywords, with support for OCF keywords.
 
-\[center\]![FAQ](https://i.imgur.com/vwDgCVz.png)\[/center\]
+\[center\]![FAQ](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/FAQ.png)\[/center\]
 
 ### **\[font=Verdana\]Q1: What Skyrim versions are supported?\[/font\]**
 
@@ -65,7 +65,7 @@ Install Object Categorization Framework and its requirements with your choice of
 
 - As far as I know it should be fine. However, when changing any mods at all mid-playthrough, consider following good modding practices such as making backups, using tools like [ReSaver](https://www.nexusmods.com/skyrimspecialedition/mods/5031), and using bugfix/stability mods like [Save Unbaker](https://www.nexusmods.com/skyrimspecialedition/mods/85565) ([VR](https://www.nexusmods.com/skyrimspecialedition/mods/86265)).
 
-\[center\]![Thanks](https://i.imgur.com/EKEX9qa.png)\[/center\]
+\[center\]![Thanks](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Thanks.png)\[/center\]
 
 - [powerofthree](https://www.nexusmods.com/skyrimspecialedition/users/2148728) for creating [KID](https://www.nexusmods.com/skyrimspecialedition/users/2148728) and [SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and adding some features I suggested, which made this framework possible!
 - [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094) for creating [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037) and adding some features I suggested, which made this framework possible!
