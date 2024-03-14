@@ -26,7 +26,7 @@ Install Object Categorization Framework and its requirements with your choice of
 
 ## **\[font=Verdana\]Requirements:\[/font\]**
 
-- [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.3.0+).
+- [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.4.0+).
 - [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037) (v1.7.0+).
 - [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v6.6.0+). You may or may not be able to use older versions.
 
