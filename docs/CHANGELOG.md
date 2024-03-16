@@ -6,7 +6,7 @@
 
 - **Keyword Categorization tweaked:** General (`WEAP`).
 
-- **Code Organization**: Alphabatized dynamic distribution.
+- **Code Organization**: Alphabatized dynamic distribution, added "OCF_" prefix to variable keywords.
 
 ## Version 5.3.0
 
