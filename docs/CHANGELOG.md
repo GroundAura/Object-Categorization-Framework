@@ -6,6 +6,8 @@
 
 - **Keyword Categorization tweaked:** General (`WEAP`).
 
+- **Code Organization**: Alphabatized dynamic distribution.
+
 ## Version 5.3.0
 
 - **Recommended to update** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) to v3.4.0+ for bugfixes.
