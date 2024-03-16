@@ -4,7 +4,9 @@
 
 - **FOMOD:** Tweaked some descriptions.
 
-- **Keyword Categorization tweaked:** General (`WEAP`).
+- **Keyword Categorization added:** General (`WEAP`).
+
+- **Keyword Categorization tweaked:** General (`ARMO`, `BOOK`, `WEAP`).
 
 - **Code Organization**: Alphabatized dynamic distribution, added "OCF_" prefix to variable keywords.
 
