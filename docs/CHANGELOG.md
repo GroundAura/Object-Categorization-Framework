@@ -1,5 +1,11 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.4.0
+
+- **FOMOD:** Tweaked some descriptions.
+
+- **Keyword Categorization tweaked:** General (`WEAP`).
+
 ## Version 5.3.0
 
 - **Recommended to update** [Keyword Item Distributer](https://www.nexusmods.com/skyrimspecialedition/mods/55728) to v3.4.0+ for bugfixes.
