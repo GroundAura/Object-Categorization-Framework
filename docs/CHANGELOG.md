@@ -6,6 +6,8 @@
 
 - **Keyword Categorization added:** General (`WEAP`).
 
+- **Keyword Categorization fixed:** General (`ARMO`).
+
 - **Keyword Categorization tweaked:** General (`ARMO`, `BOOK`, `WEAP`).
 
 - **Code Organization**: Alphabatized dynamic distribution, added "OCF_" prefix to variable keywords.

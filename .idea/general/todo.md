@@ -110,6 +110,8 @@
 
 ## Other
 
+- [**Scimitar - Curved Swords Tweaks Patches & Animations | Comments**](https://www.nexusmods.com/skyrimspecialedition/mods/84759?tab=posts)
+
 - [ ] [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
   - [ ] `MGEF`/`SPEL`
   - [ ] `MISC`
