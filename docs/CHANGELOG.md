@@ -6,7 +6,7 @@
 
 - **Keyword Categorization added:** General (`WEAP`).
 
-- **Keyword Categorization fixed:** General (`ARMO`).
+- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), General (`ARMO`).
 
 - **Keyword Categorization tweaked:** General (`ARMO`, `BOOK`, `WEAP`).
 
