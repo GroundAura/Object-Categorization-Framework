@@ -4,9 +4,11 @@
 
 - **FOMOD:** Tweaked some descriptions.
 
-- **Keyword Categorization added:** General (`WEAP`).
+- **FLM filters added:** [SimonMagus' Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979).
 
-- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), General (`ARMO`).
+- **Keyword Categorization added:** [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`), general (`WEAP`).
+
+- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), general (`ARMO`).
 
 - **Keyword Categorization tweaked:** General (`ARMO`, `BOOK`, `WEAP`).
 
