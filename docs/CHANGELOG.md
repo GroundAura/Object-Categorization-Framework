@@ -4,23 +4,35 @@
 
 - **FOMOD:** Tweaked some descriptions.
 
-- **ESP (`OCF.esp`):** Added new FormList (`OCF.esp|xxx`). Added new Keywords (`OCF.esp|xxx`).
+- **ESP (`OCF.esp`):** Added new FormList (`OCF.esp|xxx`). Added new Keywords (`OCF.esp|xxx`). Changed the EditorIDs of a couple keywords (`OCF.esp|xxx`). Cleaned unused masters.
 
 - **FormLists (`HDPT`) added:** `OCF_FL_HDPT_Hair` \[`0xB02~OCF.esp`\].
 
 - **FLM filters added:** [SimonMagus' Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979).
 
-- **Keywords (`WEAP`) added:** `OCF_WeapTypeFlail1H` \[`0x87D~OCF.esp`\], `OCF_WeapTypeFlail2H` \[`0x87E~OCF.esp`\].
+- **Keywords (`ALCH`) changed:** `WAF_WeapTypeGrenade` \[`0xAF0237~Update.esm`\] to `OCF_WeapTypeBomb1H` \[`0x88A~OCF.esp`\].
 
-- **Keywords (`WEAP`) changed:**
+- **Keywords (`AMMO`) added:** `OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\].
+
+- **Keywords (`AMMO`) changed:** `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\] to `OCF_WeapMelee` \[`0x866~OCF.esp`\], `OCF_WeapTypePole1H` \[`0x824~OCF.esp`\] to `OCF_WeapPole1H` \[`0x824~OCF.esp`\], `WAF_WeapTypeGrenade` \[`0xAF0237~Update.esm`\] to `OCF_WeapTypeBomb1H` \[`0x88A~OCF.esp`\], `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\] to `OCF_WeapSmallBladed1H` \[`0x887~OCF.esp`\], `WeapTypeWarAxe` \[`0x1E712~Skyrim.esm`\] to `OCF_WeapEdged1H` \[`0x886~OCF.esp`\].
+
+- **Keywords (`MISC`) changed:** `OCF_WeapTypeStaff` \[`0x863~OCF.esp`\] to `OCF_WeapTypeStaffBlank` \[`0x862~OCF.esp`\], `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\] to `OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\].
+
+- **Keywords (`SCRL`) changed:** `OCF_WeapTypeDart1H` to `OCF_WeapTypeDart1H` \[`0x88B~OCF.esp`\], `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\] to `OCF_WeapMelee` \[`0x866~OCF.esp`\], `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\] to `OCF_WeapSmallBladed1H` \[`0x887~OCF.esp`\].
+
+- **Keywords (`WEAP`) added:** `OCF_WeapTypeFlail1H` \[`0x87D~OCF.esp`\], `OCF_WeapTypeFlail2H` \[`0x87E~OCF.esp`\], `OCF_WeapTypeWand1H` \[`0x888~OCF.esp`\], `OCF_WeapTypeWandBlank` \[`0x889~OCF.esp`\].
+
+- **Keywords (`WEAP`) changed:** `OCF_WeapTypeBlankStaff` \[`0x862~OCF.esp`\] to `OCF_WeapTypeStaffBlank` \[`0x862~OCF.esp`\], `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\] to `OCF_WeapMelee` \[`0x866~OCF.esp`\], `OCF_WeapTypePole1H` \[`0x824~OCF.esp`\] to `OCF_WeapPole1H` \[`0x824~OCF.esp`\], `OCF_WeapTypePole2H` \[`0x842~OCF.esp`\] to `OCF_WeapPole2H` \[`0x842~OCF.esp`\]`OCF_WeapTypeStaff` \[`0x863~OCF.esp`\] to `OCF_WeapTypeStaff1H` \[`0x863~OCF.esp`\], `OCF_WeapTypeUnarmed` \[`0x82D~OCF.esp`\] to `OCF_WeapUnarmed` \[`0x82D~OCF.esp`\], `WAF_WeapTypeGrenade` \[`0xAF0237~Update.esm`\] to `OCF_WeapTypeBomb1H` \[`0x88A~OCF.esp`\], `WeapTypeBattleaxe` \[`0x6D932~Skyrim.esm`\] to `OCF_WeapEdged2H` \[`0x883~OCF.esp`\], `WeapTypeBow` \[`0x1E715~Skyrim.esm`\] to `OCF_WeapRanged` \[`0x87F~OCF.esp`\], `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\] to `OCF_WeapSmallBladed1H` \[`0x887~OCF.esp`\], `WeapTypeGreatsword` \[`0x6D931~Skyrim.esm`\] to `OCF_WeapBladed2H` \[`0x881~OCF.esp`\], `WeapTypeStaff` \[`0x1E716~Skyrim.esm`\] to `OCF_WeapCasting` \[`0x880~OCF.esp`\], `WeapTypeSword` \[`0x1E711~Skyrim.esm`\] to `OCF_WeapBladed1H` \[`0x884~OCF.esp`\], `WeapTypeWarAxe` \[`0x1E712~Skyrim.esm`\] to `OCF_WeapEdged1H` \[`0x886~OCF.esp`\], `WeapTypeWarhammer` \[`0x6D930~Skyrim.esm`\], `OCF_WeapBlunt2H` \[`0x882~OCF.esp`\].
 
 - **Keyword Categorization added:** [Gild's Flailin Around](https://www.nexusmods.com/skyrimspecialedition/mods/114272) (`WEAP`), [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`), general (`WEAP`).
 
-- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`WEAP`), general (`ARMO`).
+- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`WEAP`), general (`ARMO`, `WEAP`).
 
-- **Keyword Categorization tweaked:** General (`ARMO`, `BOOK`, `WEAP`).
+- **Keyword Categorization tweaked:** Vanilla (`WEAP`), other (`ALCH`, `AMMO`, `MISC`), general (`ALCH`, `AMMO`, `ARMO`, `BOOK`, `MISC`, `SCRL`, `WEAP`).
 
-- **Code Organization**: Alphabatized dynamic distribution, added "OCF_" prefix to variable keywords.
+- **Keyword Categorization changes:** Vanilla weapon keywords are no longer distributed, now replaced by new OCF keywords. This should fix some issues where OCF was affecting gameplay (such as animations, selling, and perks).
+
+- **Code Organization**: Alphabatized dynamic distribution strings for easier reading. Added "OCF_" prefix to variable keywords for clarity.
 
 ## Version 5.3.0
 

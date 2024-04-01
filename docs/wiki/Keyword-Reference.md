@@ -244,19 +244,21 @@
 
 - `OCF_AmmoTypeSlingshot` \[`0x871~OCF.esp`\]
 
-- `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\]
+- `OCF_WeapMelee` \[`0x866~OCF.esp`\]
 
-  - `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\]
+  - `OCF_WeapSmallBladed1H` \[`0x887~OCF.esp`\]
 
-  - `WeapTypeWarAxe` \[`0x1E712~Skyrim.esm`\]
+    - `OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\]
+
+  - `OCF_WeapEdged1H` \[`0x886~OCF.esp`\]
 
     - `OCF_WeapTypeHatchet1H` \[`0x815~OCF.esp`\]
 
-  - `OCF_WeapTypePole1H` \[`0x824~OCF.esp`\]
+  - `OCF_WeapPole1H` \[`0x824~OCF.esp`\]
 
     - `OCF_WeapTypeJavelin1H` \[`0x777771~Update.esm`\]
 
-- `WAF_WeapTypeGrenade` \[`0xAF0237~Update.esm`\]
+- `OCF_WeapTypeBomb1H` \[`0x88A~OCF.esp`\]
 
 ---
 
@@ -1688,6 +1690,8 @@
 
 - `OCF_VesselWaterskin_000`
 
+- `OCF_WeapTypeBomb1H` \[`0x88A~OCF.esp`\]
+
 - `VendorItemPoison` \[`0x8CDED~Skyrim.esm`\]
 
   - `CACO_MagicAlchWeaponOil` \[`0xCCA048~Update.esm`\]
@@ -1697,8 +1701,6 @@
 - `VendorItemPotion` \[`0x8CDEC~Skyrim.esm`\]
 
   - `OCF_AlchPotion_Misc`
-
-- `WAF_WeapTypeGrenade` \[`0xAF0237~Update.esm`\]
 
 ---
 
@@ -3430,9 +3432,11 @@
 
 - `OCF_WeapTypeClub2H` \[`0x83F~OCF.esp`\]
 
-- ~~`OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\]~~ **UNUSED**
+- `OCF_WeapTypeDagger1H` \[`0x802~OCF.esp`\]
 
-- ~~`OCF_WeapTypeStaff`~~ **UNUSED**
+- ~~`OCF_WeapTypeStaff1H` \[`0x863~OCF.esp`\]~~ **UNUSED**
+
+- `OCF_WeapTypeStaffBlank` \[`0x862~OCF.esp`\]
 
 - `VendorItemAnimalHide` \[`0x914EA~Skyrim.esm`\]
 
@@ -3545,10 +3549,6 @@
 - `VendorItemIngredient` \[`0x8CDEB~Skyrim.esm`\]
 
 - `VendorItemKey` \[`0x914EF~Skyrim.esm`\]
-
-- `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\]
-
-- `WeapTypeStaff` \[`0x1E716~Skyrim.esm`\]
 
 ---
 
@@ -3870,11 +3870,11 @@
 
 - `OCF_ScrlSpider`
 
-- `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\]
+- `OCF_WeapMelee` \[`0x866~OCF.esp`\]
 
-  - `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\]
+  - `OCF_WeapSmallBladed1H` \[`0x887~OCF.esp`\]
 
-    - `OCF_WeapTypeDart1H`
+    - `OCF_WeapTypeDart1H` \[`0x88B~OCF.esp`\]
 
     - `OCF_WeapTypeKunai1H` \[`0x803~OCF.esp`\]
 
@@ -5186,9 +5186,9 @@
 
 ### Type A
 
-- `OCF_WeapTypeMelee` \[`0x866~OCF.esp`\]
+- `OCF_WeapMelee` \[`0x866~OCF.esp`\]
 
-  - `WeapTypeDagger` \[`0x1E713~Skyrim.esm`\]
+  - `OCF_WeapSmallBladed1H` \[`0x887~OCF.esp`\]
 
     - `OCF_WeapTypeChakram1H` \[`0x800~OCF.esp`\]
 
@@ -5218,7 +5218,7 @@
 
     - `OCF_WeapTypeTwinDagger1H`
 
-  - `WeapTypeSword` \[`0x1E711~Skyrim.esm`\]
+  - `OCF_WeapBladed1H` \[`0x884~OCF.esp`\]
 
     - ~~`OCF_WeapTypeGladius1H`~~ **UNUSED**
 
@@ -5248,7 +5248,7 @@
 
     - ~~`OCF_WeapTypeTwinSword1H`~~ **UNUSED**
 
-  - `WeapTypeWarAxe` \[`0x1E712~Skyrim.esm`\]
+  - `OCF_WeapEdged1H` \[`0x886~OCF.esp`\]
 
     - `OCF_WeapTypeCleaver1H` \[`0x812~OCF.esp`\]
 
@@ -5272,7 +5272,7 @@
 
     - `OCF_WeapTypeWoodHatchet1H` \[`0x81B~OCF.esp`\]
 
-  - `WeapTypeMace` \[`0x1E714~Skyrim.esm`\]
+  - `OCF_WeapBlunt1H` \[`0x885~OCF.esp`\]
 
     - `OCF_WeapTypeBoomerang1H` \[`0x81C~OCF.esp`\]
 
@@ -5300,7 +5300,7 @@
 
     - `OCF_WeapTypeWhip1H` \[`0x777778~Update.esm`\]
 
-  - `OCF_WeapTypePole1H` \[`0x824~OCF.esp`\]
+  - `OCF_WeapPole1H` \[`0x824~OCF.esp`\]
 
     - `OCF_WeapTypeJavelin1H` \[`0x777771~Update.esm`\]
 
@@ -5322,9 +5322,9 @@
 
       - `OCF_WeapTypeTrident1H` \[`0x82C~OCF.esp`\]
 
-  - `OCF_WeapTypeUnarmed` \[`0x82D~OCF.esp`\]
+  - `OCF_WeapUnarmed` \[`0x82D~OCF.esp`\]
 
-  - `WeapTypeGreatsword` \[`0x6D931~Skyrim.esm`\]
+  - `OCF_WeapBladed2H` \[`0x881~OCF.esp`\]
 
     - `OCF_WeapTypeGreatsword2H` \[`0x867~OCF.esp`\]
 
@@ -5352,7 +5352,7 @@
 
     - ~~`OCF_WeapTypeTwinSword2H`~~ **UNUSED**
 
-  - `WeapTypeBattleaxe` \[`0x6D932~Skyrim.esm`\]
+  - `OCF_WeapEdged2H` \[`0x883~OCF.esp`\]
 
     - `OCF_WeapTypeBattleaxe2H` \[`0x837~OCF.esp`\]
 
@@ -5372,7 +5372,7 @@
 
     - `OCF_WeapTypeWoodaxe2H` \[`0x83D~OCF.esp`\]
 
-  - `WeapTypeWarhammer` \[`0x6D930~Skyrim.esm`\]
+  - `OCF_WeapBlunt2H` \[`0x882~OCF.esp`\]
 
     - `OCF_WeapTypeBladestaff2H` \[`0x83E~OCF.esp`\]
 
@@ -5392,7 +5392,7 @@
 
     - `OCF_WeapTypeWarhammer2H` \[`0x841~OCF.esp`\]
 
-  - `OCF_WeapTypePole2H` \[`0x842~OCF.esp`\]
+  - `OCF_WeapPole2H` \[`0x842~OCF.esp`\]
 
     - `OCF_WeapTypePole2H_Swing` \[`0x777773~Update.esm`\]
 
@@ -5412,9 +5412,9 @@
 
       - `OCF_WeapTypeTrident2H` \[`0x849~OCF.esp`\]
 
-- `WAF_WeapTypeGrenade` \[`0xAF0237~Update.esm`\]
+- `OCF_WeapTypeBomb1H` \[`0x88A~OCF.esp`\]
 
-- `WeapTypeBow` \[`0x1E715~Skyrim.esm`\]
+- `OCF_WeapRanged` \[`0x87F~OCF.esp`\]
 
   - `OCF_WeapTypeBlowgun2H` \[`0x84A~OCF.esp`\]
 
@@ -5496,15 +5496,15 @@
 
   - `OCF_WeapTypeSlingshot2H` \[`0x861~OCF.esp`\]
 
-- `WeapTypeStaff` \[`0x1E716~Skyrim.esm`\]
+- `OCF_WeapCasting` \[`0x880~OCF.esp`\]
 
-  - `OCF_WeapTypeBlankStaff` \[`0x862~OCF.esp`\]
+  - `OCF_WeapTypeStaff1H` \[`0x863~OCF.esp`\]
 
-  - ~~`OCF_WeapTypeBlankWand`~~ **UNUSED**
+  - `OCF_WeapTypeStaffBlank` \[`0x862~OCF.esp`\]
 
-  - `OCF_WeapTypeStaff` \[`0x863~OCF.esp`\]
+  - `OCF_WeapTypeWand1H` \[`0x888~OCF.esp`\]
 
-  - ~~`OCF_WeapTypeWand`~~ **UNUSED**
+  - `OCF_WeapTypeWandBlank` \[`0x889~OCF.esp`\]
 
 ### Type B
 
