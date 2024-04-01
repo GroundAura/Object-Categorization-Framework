@@ -4,11 +4,19 @@
 
 - **FOMOD:** Tweaked some descriptions.
 
+- **ESP (`OCF.esp`):** Added new FormList (`OCF.esp|xxx`). Added new Keywords (`OCF.esp|xxx`).
+
+- **FormLists (`HDPT`) added:** `OCF_FL_HDPT_Hair` \[`0xB02~OCF.esp`\].
+
 - **FLM filters added:** [SimonMagus' Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979).
 
-- **Keyword Categorization added:** [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`), general (`WEAP`).
+- **Keywords (`WEAP`) added:** `OCF_WeapTypeFlail1H` \[`0x87D~OCF.esp`\], `OCF_WeapTypeFlail2H` \[`0x87E~OCF.esp`\].
 
-- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), general (`ARMO`).
+- **Keywords (`WEAP`) changed:**
+
+- **Keyword Categorization added:** [Gild's Flailin Around](https://www.nexusmods.com/skyrimspecialedition/mods/114272) (`WEAP`), [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`), general (`WEAP`).
+
+- **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`WEAP`), general (`ARMO`).
 
 - **Keyword Categorization tweaked:** General (`ARMO`, `BOOK`, `WEAP`).
 

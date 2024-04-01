@@ -5282,6 +5282,8 @@
 
     - `OCF_WeapTypeFishingRod1H` \[`0x81F~OCF.esp`\]
 
+    - `OCF_WeapTypeFlail1H` \[`0x87D~OCF.esp`\]
+
     - ~~`OCF_WeapTypeGoedendag1H`~~ **UNUSED**
 
     - `OCF_WeapTypeHammer1H` \[`0x820~OCF.esp`\]
@@ -5375,6 +5377,8 @@
     - `OCF_WeapTypeBladestaff2H` \[`0x83E~OCF.esp`\]
 
     - `OCF_WeapTypeClub2H` \[`0x83F~OCF.esp`\]
+
+    - `OCF_WeapTypeFlail2H` \[`0x87E~OCF.esp`\]
 
     - ~~`OCF_WeapTypeGoedendag2H`~~ **UNUSED**
 
