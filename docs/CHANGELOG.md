@@ -2,6 +2,8 @@
 
 ## Version 5.4.0
 
+- **Author's Note:** Distribution of non-OCF keywords is going to be phased out. New keywords will be added to replace the specific category cases of vanilla/other keywords. This is to fix issues where OCF could inadvertently affect gameplay (such as animations, selling, and perks). They will be slowly phased out (old keywords will temporarily still be distributed) to allow some wiggle room for mods relying on OCF to ensure they switch if necessary.
+
 - **FOMOD:** Tweaked some descriptions.
 
 - **ESP (`OCF.esp`):** Added new FormList (`OCF.esp|xxx`). Added new Keywords (`OCF.esp|xxx`). Changed the EditorIDs of a couple keywords (`OCF.esp|xxx`). Cleaned unused masters.
@@ -26,11 +28,11 @@
 
 - **Keyword Categorization added:** [Gild's Flailin Around](https://www.nexusmods.com/skyrimspecialedition/mods/114272) (`WEAP`), [Vanilla Hair Remake (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`), general (`WEAP`).
 
+- **Keyword Categorization changes:** Vanilla weapon keywords are being phased out. New OCF keywords added to take their place.
+
 - **Keyword Categorization fixed:** [HS Resources](https://www.nexusmods.com/skyrimspecialedition/mods/72307) (`FLOR`), [Vicn's Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) (`WEAP`), [Vicn's Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) (`WEAP`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`WEAP`), general (`ARMO`, `WEAP`).
 
 - **Keyword Categorization tweaked:** Vanilla (`WEAP`), other (`ALCH`, `AMMO`, `MISC`), general (`ALCH`, `AMMO`, `ARMO`, `BOOK`, `MISC`, `SCRL`, `WEAP`).
-
-- **Keyword Categorization changes:** Vanilla weapon keywords are no longer distributed, now replaced by new OCF keywords. This should fix some issues where OCF was affecting gameplay (such as animations, selling, and perks).
 
 - **Code Organization**: Alphabatized dynamic distribution strings for easier reading. Added "OCF_" prefix to variable keywords for clarity.
 
