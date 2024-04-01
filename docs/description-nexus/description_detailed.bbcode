@@ -1,11 +1,10 @@
 [size=6][center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/brand/Title.png[/img][/center][/size]
+[line]
 
-[center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Overview.png[/img][/center]
+[font=Verdana][b]Object Categorization Framework[/b][/font] (or [font=Verdana][b]OCF[/b][/font]) is a framework mod that categorizes items and other [url=https://ck.uesp.net/wiki/Glossary#Base_Object]base objects[/url] into groups that can be easily used as conditions by other mods. It does this by distributing hundreds of new [url=https://ck.uesp.net/wiki/Keyword]Keywords[/url] (using [url=https://www.nexusmods.com/skyrimspecialedition/mods/55728]Keyword Item Distributor[/url] and [url=https://www.nexusmods.com/skyrimspecialedition/mods/36869]Spell Perk Item Distributor[/url]) and [url=https://ck.uesp.net/wiki/FormList]FormLists[/url] (using [url=https://www.nexusmods.com/skyrimspecialedition/mods/74037]FormList Manipulator[/url]) to base objects from hundreds of mods.
 
-[b][font=Verdana]Object Categorization Framework[/font][/b] (or [b][font=Verdana]OCF[/font][/b]) is a framework mod that categorizes items and other [url=https://ck.uesp.net/wiki/Glossary#Base_Object]base objects[/url] into groups that can be easily used as conditions by other mods. It does this by distributing hundreds of new [url=https://ck.uesp.net/wiki/Keyword]Keywords[/url] (using [url=https://www.nexusmods.com/skyrimspecialedition/mods/55728]Keyword Item Distributor[/url] and [url=https://www.nexusmods.com/skyrimspecialedition/mods/36869]Spell Perk Item Distributor[/url]) and [url=https://ck.uesp.net/wiki/FormList]FormLists[/url] (using [url=https://www.nexusmods.com/skyrimspecialedition/mods/74037]FormList Manipulator[/url]) to base objects from hundreds of mods.
 
-[center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Details.png[/img][/center]
-
+[center][img]https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Details.png[/img][/center]
 OCF categorizes objects using keywords when possible (when the form type accepts keywords). For an organized list of keywords, see [url=https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference]the Keyword Reference on OCF's wiki[/url]. When keywords can't be used, FormLists are used instead. For an organized list of FormLists, see [url=https://github.com/GroundAura/Object-Categorization-Framework/wiki/FormList-Reference]the FormList Reference on OCF's wiki[/url].
 
 For the vast majority of categorization support, I have to manually add each object (item, spell, etc.) to my INIs, apart from the few places I use general variables, like string wildcards or model names. The process for "supporting" a new mod can take anywhere from a couple minutes to several hours depending on the mod's size and complexity. I also may have to come back to it later if I change OCF's categories or add new categories, especially for new form types.
@@ -20,26 +19,26 @@ If you're a mod author who's interested in utilizing OCF's Keywords or FormLists
 
 If you have any other questions or suggestions feel free to leave a comment or otherwise contact me. Enjoy! :)
 
-[center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Installation.png[/img][/center]
 
-Install Object Categorization Framework and its requirements with your choice of mod manager.
+[center][img]https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Installation.png[/img][/center]
+Install this mod and its requirements with your choice of mod manager.
 
-[size=5][b][font=Verdana]Requirements:[/font][/b][/size]
+[size=5][font=Verdana][b]Requirements:[/b][/font][/size]
 
 [list]
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/55728]Keyword Item Distributor[/url] (v3.4.0+).
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/74037]FormList Manipulator[/url] (v1.7.0+).
-[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/36869]Spell Perk Item Distributor[/url] (v6.6.0+). You may or may not be able to use older versions.
+[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/55728]Keyword Item Distributor (KID)[/url] (v3.4.0+).
+[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/74037]FormList Manipulator (FLM)[/url] (v1.7.0+).
+[*][url=https://www.nexusmods.com/skyrimspecialedition/mods/36869]Spell Perk Item Distributor (SPID)[/url] (v6.6.0+). You may or may not be able to use older versions.
 [/list]
-[size=5][b][font=Verdana]Optional Requirements:[/font][/b][/size]
+[size=5][font=Verdana][b]Optional Requirements:[/b][/font][/size]
 
 [list]
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/92529]Keyword Patch Collection[/url] – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/74689]MergeMapper[/url] – Only if you use [url=https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/]zMerge[/url]. MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by [url=https://www.nexusmods.com/skyrimspecialedition/mods/74037]FLM[/url]/[url=https://www.nexusmods.com/skyrimspecialedition/mods/55728]KID[/url]/[url=https://www.nexusmods.com/skyrimspecialedition/mods/36869]SPID[/url].
 [/list]
-[center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Recommendations.png[/img][/center]
 
-[b][font=Verdana]A few mods that utilize OCF:[/font][/b]
+[center][img]https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Recommendations.png[/img][/center]
+[font=Verdana][b]A few mods that utilize OCF:[/b][/font]
 
 [list]
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/68557]Aura's Inventory Tweaks[/url] - Overhauls some of SkyUI's features using OCF keywords including item icons, types, sorting, and more.
@@ -51,9 +50,9 @@ Install Object Categorization Framework and its requirements with your choice of
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/96210]Soulsy HUD[/url] - Quick equip HUD mod with support for OCF keywords.
 [*][url=https://www.nexusmods.com/skyrimspecialedition/mods/96828]Weapon Speed - IPM[/url] - Allows you to dynamically change the attack speed of weapons based on weapon type keywords, with support for OCF keywords.
 [/list]
-[center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/FAQ.png[/img][/center]
 
-[size=4][b][font=Verdana]Q1: What Skyrim versions are supported?[/font][/b][/size]
+[center][img]https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/FAQ.png[/img][/center]
+[size=4][font=Verdana][b]Q1: What Skyrim versions are supported?[/b][/font][/size]
 
 [list]
 [*]This mod is not directly dependent on any specific Skyrim version.
@@ -61,27 +60,27 @@ Install Object Categorization Framework and its requirements with your choice of
 [*]When everything is installed properly, it should work on any modern version of Skyrim (SE/AE/1.5.x/1.6.x/Steam/GOG/VR), although it hasn't been tested on every version.
 [*]I do not directly support Oldrim/LE or console, but you're welcome to try to port it yourself (see permissions).
 [/list]
-[size=4][b][font=Verdana]Q2: What types of plugins are used?[/font][/b][/size]
+[size=4][font=Verdana][b]Q2: What types of plugins are used?[/b][/font][/size]
 
 [list]
 [*]All plugins included are .esp/.esl/.esm with the ESL flag. This means the plugins count towards the ~4096 ESL limit, not the ~255 ESP limit. If you are on VR, you will need [url=https://www.nexusmods.com/skyrimspecialedition/mods/106712/]VR ESL Support[/url] to make use of the ESL flag.
 [*]Plugin header version is 1.70. This means [url=https://www.nexusmods.com/skyrimspecialedition/mods/106441]BEES[/url] for SE v1.5.97-1.6.659 (never required on v1.6.1130+) or [url=https://www.nexusmods.com/skyrimspecialedition/mods/106712/]VR ESL Support[/url] for VR are not required to load the plugins in this mod.
 [/list]
-[size=4][b][font=Verdana]Q3: Does installing/updating/uninstalling on an existing save work?[/font][/b][/size]
+[size=4][font=Verdana][b]Q3: Does installing/updating/uninstalling on an existing save work?[/b][/font][/size]
 
 [list]
 [*]As far as I know it should be fine. However, when changing any mods at all mid-playthrough, consider following good modding practices such as making backups, using tools like [url=https://www.nexusmods.com/skyrimspecialedition/mods/5031]ReSaver[/url], and using bugfix/stability mods like [url=https://www.nexusmods.com/skyrimspecialedition/mods/85565]Save Unbaker[/url] ([url=https://www.nexusmods.com/skyrimspecialedition/mods/86265]VR[/url]).
 [/list]
-[center][img]https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/banners/Thanks.png[/img][/center]
 
+[center][img]https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Thanks.png[/img][/center]
 [list]
 [*][url=https://www.nexusmods.com/skyrimspecialedition/users/2148728]powerofthree[/url] for creating [url=https://www.nexusmods.com/skyrimspecialedition/users/2148728]KID[/url] and [url=https://www.nexusmods.com/skyrimspecialedition/mods/36869]SPID[/url] and adding some features I suggested, which made this framework possible!
 [*][url=https://www.nexusmods.com/skyrimspecialedition/users/22822094]MaskedRPGFan[/url] for creating [url=https://www.nexusmods.com/skyrimspecialedition/mods/74037]FLM[/url] and adding some features I suggested, which made this framework possible!
 [*][url=https://www.nexusmods.com/skyrimspecialedition/users/10236085]Ashingda[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/3127912]NickaNak[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/25225299]LeonardoVAC[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/61720101]TateTaylorOH[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/123185483]Admiral30[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/6308735]V3cta[/url], and others, whose mods inspired this framework in the first place!
 [*][url=https://www.nexusmods.com/skyrimspecialedition/users/80113953]Komegaki/Genskicc[/url], [url=https://www.nexusmods.com/skyrimspecialedition/users/927130]Horf/PRieST47[/url], and everyone else on Discord and Nexus who've helped me with patches, suggestions, and feedback!
 [/list]
-[center][url=https://linktr.ee/groundaura][img]https://i.imgur.com/jOQE4n8.png[/img][/url][url=https://linktr.ee/groundaura][font=Verdana][color=#ffffff][b]Find me on Linktree[/b][/font][/color][/url][/center]
+[center][url=https://linktr.ee/groundaura][img]https://i.imgur.com/jOQE4n8.png[/img][/url][url=https://linktr.ee/groundaura][font=Verdana][color=#ffffff][b]Find me on Linktree[/b][/color][/font][/url][/center]
 [center][url=https://discord.gg/zft8DmbfKv][img]https://github.com/doodlum/nexusmods-widgets/blob/main/Discord_40px.png?raw=true[/img][/url][/center]
 [center][url=https://ko-fi.com/groundaura][img]https://github.com/doodlum/nexusmods-widgets/blob/main/Ko-fi_40px_60fps.png?raw=true[/img][/url][/center]
 
-[size=5][center][url=https://www.nexusmods.com/users/97658973?tab=user+files][font=Verdana][color=#ffffff][u][b]> > > Check Out My Other Mods! < < <[/b][/u][/font][/color][/url][/center][/size]
+[size=5][center][url=https://www.nexusmods.com/users/97658973?tab=user+files][font=Verdana][color=#ffffff][u][b]> > > Check Out My Other Mods! < < <[/b][/u][/color][/font][/url][/center][/size]
