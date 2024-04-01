@@ -1,6 +1,4 @@
-# \[center\]![Object Categorization Framework](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/brand/Title.png)\[/center\]
-
----
+# \[center\]![Object Categorization Framework](https://raw.githubusercontent.com/GroundAura/Object-Categorization-Framework/main/docs/images/brand/Title.png)\[/center\]\[line\]
 
 \[font=Verdana\]**Object Categorization Framework**\[/font\] (or \[font=Verdana\]**OCF**\[/font\]) is a framework mod that categorizes items and other [base objects](https://ck.uesp.net/wiki/Glossary#Base_Object) into groups that can be easily used as conditions by other mods. It does this by distributing hundreds of new [Keywords](https://ck.uesp.net/wiki/Keyword) (using [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728) and [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)) and [FormLists](https://ck.uesp.net/wiki/FormList) (using [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)) to base objects from hundreds of mods.
 
@@ -22,7 +20,7 @@ If you have any other questions or suggestions feel free to leave a comment or o
 
 \[center\]![Installation](https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Installation.png)\[/center\]
 
-Install this mod and its requirements with your choice of mod manager.
+Install this mod normally, with MO2, Vortex, or another mod manager that supports FOMOD installers.
 
 ## \[font=Verdana\]**Requirements:**\[/font\]
 
@@ -33,7 +31,7 @@ Install this mod and its requirements with your choice of mod manager.
 ## \[font=Verdana\]**Optional Requirements:**\[/font\]
 
 - [Keyword Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/92529) – I strongly recommended it for the fixes it makes to other mods' KID files that may otherwise interact poorly with OCF.
-- [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by [FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037)/[KID](https://www.nexusmods.com/skyrimspecialedition/mods/55728)/[SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869).
+- [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689) – Only if you use [zMerge](https://www.reddit.com/r/skyrimmods/comments/9sgnpy/zedit_v050_zmerge_successor_of_merge_plugins/). MergeMapper will help ensure FormIDs in plugins that have been zMerged can still be found correctly by FLM/KID/SPID.
 
 \[center\]![Recommendations](https://raw.githubusercontent.com/GroundAura/Auras-Resources/main/Images/Banners/Skyrim-1/Recommendations.png)\[/center\]
 
