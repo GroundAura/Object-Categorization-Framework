@@ -1,1 +1,1 @@
-OCF is a framework mod that categorizes items and other objects from hundreds of mods and provides those categories as Keywords and FormLists to be utilized as conditions by other mods.
+OCF is a framework mod that categorizes items and other forms from hundreds of mods and provides those categories as Keywords and FormLists to be utilized as conditions by other mods.
