@@ -41,6 +41,7 @@
 - Animal Chitin
 - Animal Feathers
 - Animal Fur, Hide
+- [Bonemold](https://en.uesp.net/wiki/Skyrim:Bonemold) - A mixture of bone meal, iron, netch leather, and sometimes additional ingredients.
 - Dragon Bones
 - Dragon Scales
 
@@ -60,7 +61,10 @@
 
 ## Other Materials
 
+- [Amber](https://en.uesp.net/wiki/Lore:Amber) - 
 - Charcoal
+- Cotton
+- Cloth
 - Leather - Tanned animal hide
 - Stone
 - Wood
