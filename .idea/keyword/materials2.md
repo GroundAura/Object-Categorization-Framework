@@ -35,6 +35,10 @@
 - Stalhrim
 - Fur
 - Adamantium
+- Magic, Bound, Ghostly, Holy Energy
+- Cloth
+- Calcinium
+- Galatite
 
 ## Pseudo-Materials and Styles
 
@@ -63,4 +67,4 @@
 - Cultist
 - Skaal
 - Faction
-
+- Dwarven Scrap
