@@ -2,7 +2,11 @@
 
 ## Version 5.5.0
 
-- **Keyword Categorization updated:** [Vanilla Hair Remake (SMP) - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`).
+- **FLM filters added:** [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027).
+
+- **Keyword Categorization added:** Realistic Camp Storage (`MISC`), [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027) (`MISC`), unknown.
+
+- **Keyword Categorization updated:** [Simple Campfire Additions](https://www.nexusmods.com/skyrimspecialedition/mods/21956) (`MISC`), [Vanilla Hair Remake (SMP) - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`).
 
 ## Version 5.4.0
 
