@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.5.0
+
+- **Keyword Categorization updated:** [Vanilla Hair Remake (SMP) - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`).
+
 ## Version 5.4.0
 
 - **Author's Note:** Distribution of non-OCF keywords is going to be phased out. New keywords will be added to replace the specific category cases of vanilla/other keywords. This is to fix issues where OCF could inadvertently affect gameplay (such as animations, selling, and perks). They will be slowly phased out (old keywords will temporarily still be distributed) to allow some wiggle room for mods relying on OCF to ensure they switch if necessary.
