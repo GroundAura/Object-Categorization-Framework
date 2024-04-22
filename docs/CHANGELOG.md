@@ -2,9 +2,11 @@
 
 ## Version 5.5.0
 
-- **FLM filters added:** [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027).
+- **FLM filters added:** [Creation Resource Pack](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch), [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027).
 
-- **Keyword Categorization added:** Realistic Camp Storage (`MISC`), [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027) (`MISC`), unknown.
+- **FormList Categorization added:** [Creation Resource Pack](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch) (`STAT`, `TREE`).
+
+- **Keyword Categorization added:** [Creation Resource Pack](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch) (`ACTI`, `FLOR`, `INGR`, `MISC`), Realistic Camp Storage (`MISC`), [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027) (`MISC`), unknown.
 
 - **Keyword Categorization updated:** [Simple Campfire Additions](https://www.nexusmods.com/skyrimspecialedition/mods/21956) (`MISC`), [Vanilla Hair Remake (SMP) - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/63979) (`ARMO`).
 
