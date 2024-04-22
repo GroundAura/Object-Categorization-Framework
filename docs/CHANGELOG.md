@@ -2,6 +2,8 @@
 
 ## Version 5.5.0
 
+- **ESP (`OCF.esp`):** Added the 3 new keywords from v1.6.1130 of `Update.esm` (`Update.esm|xxxxxx`).
+
 - **FLM filters added:** [Creation Resource Pack](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch), [Simple Bedrolls & Supplies](https://www.nexusmods.com/skyrim/mods/74027).
 
 - **FormList Categorization added:** [Creation Resource Pack](https://en.uesp.net/wiki/Skyrim:Special_Edition_Patch) (`STAT`, `TREE`).
