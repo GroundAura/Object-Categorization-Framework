@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.6.0
+
+- **Keyword Categorization added:** [SV Mods Menu](https://www.nexusmods.com/skyrimspecialedition/mods/34784) (`BOOK`).
+
 ## Version 5.5.0
 
 - **ESP (`OCF.esp`):** Added the 3 new keywords from v1.6.1130 of `Update.esm` (`Update.esm|xxxxxx`).
