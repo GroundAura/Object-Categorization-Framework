@@ -2,7 +2,11 @@
 
 ## Version 5.6.0
 
-- **Keyword Categorization added:** [SV Mods Menu](https://www.nexusmods.com/skyrimspecialedition/mods/34784) (`BOOK`).
+- **FLM filters added:** [jg1's Braided Wreath SMP](https://www.nexusmods.com/skyrimspecialedition/mods/71072), [jg1's Forest Cat](https://www.nexusmods.com/skyrimspecialedition/mods/72351), [jg1's Lion's Mane](https://www.nexusmods.com/skyrimspecialedition/mods/72166), [jg1's Long Hair SMP](https://www.nexusmods.com/skyrimspecialedition/mods/62574), [jg1's Thick Braid SMP](https://www.nexusmods.com/skyrimspecialedition/mods/62997).
+
+- **FLM filters tweaked:** [jg1's Vanilla Hair Remake (SMP) - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/63979).
+
+- **Keyword Categorization added:** [jg1's Braided Wreath SMP](https://www.nexusmods.com/skyrimspecialedition/mods/71072) (`ARMO`), [jg1's Forest Cat](https://www.nexusmods.com/skyrimspecialedition/mods/72351) (`ARMO`), [jg1's Forest Cat - Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73126) (`ARMO`), [jg1's Lion's Mane](https://www.nexusmods.com/skyrimspecialedition/mods/72166) (`ARMO`), [jg1's Lion's Mane - Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73126) (`ARMO`), [SV Mods Menu](https://www.nexusmods.com/skyrimspecialedition/mods/34784) (`BOOK`).
 
 ## Version 5.5.0
 
