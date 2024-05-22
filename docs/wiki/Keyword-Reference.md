@@ -4904,6 +4904,10 @@
 
     - `OCF_ArtifactExternal_Stormbreaker`
 
+    - `OCF_ArtifactLegendary_ArmChaosMoon`
+
+    - `OCF_ArtifactLegendary_ArmChaosSun`
+
     - `OCF_ArtifactLegendary_BlackwaterBlade`
 
     - `OCF_ArtifactLegendary_BloodskalBlade`
@@ -4962,10 +4966,6 @@
 
   - ~~`OCF_RelicLegendary`~~ **UNUSED**
 
-    - ~~`OCF_RelicLegendary_ArmChaosMoon`~~ **UNUSED**
-
-    - ~~`OCF_RelicLegendary_ArmChaosSun`~~ **UNUSED**
-
   - `OCF_RelicNordic`
 
 - `OCF_Replica` – An imitation or replica of an artifact, relic, or other item.
@@ -5019,6 +5019,10 @@
     - `OCF_ReplicaDwarven_Sunder`
 
   - `OCF_ReplicaLegendary` – An imitation or replica of an artifact with mortal or other origins and/or associations.
+
+    - `OCF_ReplicaLegendary_ArmChaosMoon`
+
+    - `OCF_ReplicaLegendary_ArmChaosSun`
 
     - `OCF_ReplicaLegendary_BlackwaterBlade`
 

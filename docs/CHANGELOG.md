@@ -6,7 +6,11 @@
 
 - **FLM filters tweaked:** [jg1's Vanilla Hair Remake (SMP) - Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/63979).
 
+- **Keywords (`WEAP`) added:** `OCF_ArtifactLegendary_ArmChaosMoon`, `OCF_ArtifactLegendary_ArmChaosSun`, `OCF_ReplicaLegendary_ArmChaosMoon`, `OCF_ReplicaLegendary_ArmChaosSun`.
+
 - **Keyword Categorization added:** [jg1's Braided Wreath SMP](https://www.nexusmods.com/skyrimspecialedition/mods/71072) (`ARMO`), [jg1's Forest Cat](https://www.nexusmods.com/skyrimspecialedition/mods/72351) (`ARMO`), [jg1's Forest Cat - Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73126) (`ARMO`), [jg1's Lion's Mane](https://www.nexusmods.com/skyrimspecialedition/mods/72166) (`ARMO`), [jg1's Lion's Mane - Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73126) (`ARMO`), [LRS Hunter Extension for Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/24084) (`KEYM`), [SV Mods Menu](https://www.nexusmods.com/skyrimspecialedition/mods/34784) (`BOOK`).
+
+- **Keyword Categorization tweaked:** CC Arms of Chaos (`WEAP`), general (`WEAP`).
 
 ## Version 5.5.0
 
