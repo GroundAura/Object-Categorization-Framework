@@ -3594,219 +3594,614 @@
 
 > todo
 
+- `ActorTypeTroll` \[`0xF5D16~Skyrim.esm`\]
+
+- `DLC2NetchKeyword` \[`0x3A157~Dragonborn.esm`\]
+
 ### Type B
 
-- ~~`OCF_RaceAnimal`~~ **UNUSED**
-
-  - `ActorTypeTroll` \[`0xF5D16~Skyrim.esm`\]
-
-  - `DLC2NetchKeyword` \[`0x3A157~Dragonborn.esm`\]
-
-  - ~~`OCF_RaceAnimal_BantamGuar`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Bear`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Boar`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Chaurus`~~ **UNUSED**
-
-    - ~~`OCF_RaceAnimal_ChaurusCrawler`~~ **UNUSED**
-
-    - ~~`OCF_RaceAnimal_ChaurusFlyer`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Chicken`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Cow`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Deer`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Dog`~~ **UNUSED**
-
-    - ~~`OCF_RaceAnimal_DogHound`~~ **UNUSED**
-
-    - ~~`OCF_RaceAnimal_DogHusky`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Fox`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Goat`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Guar`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Horker`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Horse`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Mammoth`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Mudcrab`~~ **UNUSED**
-
-  = ~~`OCF_RaceAnimal_Pheasant`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Rabbit`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_SabreCat`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Scrib`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Skeever`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Slaughterfish`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Spider`~~ **UNUSED**
-
-    - ~~`OCF_RaceAnimal_SpiderAlbino`~~ **UNUSED**
-
-    - ~~`OCF_RaceAnimal_SpiderFrostbite`~~ **UNUSED**
-
-  - ~~`OCF_RaceAnimal_Wolf`~~ **UNUSED**
-
-- ~~`OCF_RaceCreature`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Dragon`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Falmer`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Giant`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Goblinken`~~ **UNUSED**
-
-    - ~~`OCF_RaceCreature_Goblin`~~ **UNUSED**
-
-    - ~~`OCF_RaceCreature_Ogre`~~ **UNUSED**
-
-    - ~~`OCF_RaceCreature_Riekling`~~ **UNUSED**
-
-    - ~~`OCF_RaceCreature_Riekr`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Hagraven`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_IceWraith`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_SpiritWolf`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Spriggan`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Werebear`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Werewolf`~~ **UNUSED**
-
-  - ~~`OCF_RaceCreature_Wisp`~~ **UNUSED**
-
-- ~~`OCF_RaceConstruct`~~ **UNUSED**
-
-  - ~~`OCF_RaceConstruct_AnimatedObject`~~ **UNUSED**
-
-    - ~~`OCF_RaceConstruct_AnimatedInstruments`~~ **UNUSED**
-
-  - ~~`OCF_RaceConstruct_Automaton`~~ **UNUSED**
-
-    - ~~`OCF_RaceConstruct_AutomatonBalista`~~ **UNUSED**
-
-    - ~~`OCF_RaceConstruct_AutomatonCenturion`~~ **UNUSED**
-
-    - ~~`OCF_RaceConstruct_AutomatonSphere`~~ **UNUSED**
-
-    - ~~`OCF_RaceConstruct_AutomatonSpider`~~ **UNUSED**
-
-  - ~~`OCF_RaceConstruct_Elemental`~~ **UNUSED**
-
-    - ~~`OCF_RaceConstruct_ElementalAsh`~~ **UNUSED**
-
-  - ~~`OCF_RaceConstruct_Gargoyle`~~ **UNUSED**
-
-- ~~`OCF_RaceDaedra`~~ **UNUSED**
-
-  - ~~`OCF_RaceDaedra_Elemental`~~ **UNUSED**
-
-    - ~~`OCF_RaceDaedra_ElementalAsh`~~ **UNUSED**
-
-    - ~~`OCF_RaceDaedra_ElementalFire`~~ **UNUSED**
-
-    - ~~`OCF_RaceDaedra_ElementalFrost`~~ **UNUSED**
-
-    - ~~`OCF_RaceDaedra_ElementalShock`~~ **UNUSED**
-
-  - ~~`OCF_RaceDaedra_Dog`~~ **UNUSED**
-
-    - ~~`OCF_RaceDaedra_DogHound`~~ **UNUSED**
-
-  - ~~`OCF_RaceDaedra_Lurker`~~ **UNUSED**
-
-- ~~`OCF_RaceHominid`~~ **UNUSED**
-
-- ~~`OCF_RaceUndead`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_DeathHound`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_Dragon`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_DragonSkeleton`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_DragonZombie`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_DragonCult`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_DragonPriest`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_Draugr`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_Ghost`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_GhostDog`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_GhostGiant`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_Horse`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_HorseSkeleton`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_HorseZombie`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_Shade`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_ShadeLich`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_ShadeSkeleton`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_Skeleton`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_SkeletonHominid`~~ **UNUSED**
-
-      - ~~`OCF_RaceUndead_SkeletonHominid_Argonian`~~ **UNUSED**
-
-      - ~~`OCF_RaceUndead_SkeletonHominid_Elf`~~ **UNUSED**
-
-        - ~~`OCF_RaceUndead_SkeletonHominid_Altmer`~~ **UNUSED**
-
-        - ~~`OCF_RaceUndead_SkeletonHominid_Ayleid`~~ **UNUSED**
-
-        - ~~`OCF_RaceUndead_SkeletonHominid_Bosmer`~~ **UNUSED**
-
-        - ~~`OCF_RaceUndead_SkeletonHominid_Dunmer`~~ **UNUSED**
-
-        - ~~`OCF_RaceUndead_SkeletonHominid_Falmer`~~ **UNUSED**
-
-      - ~~`OCF_RaceUndead_SkeletonHominid_Human`~~ **UNUSED**
-
-      - ~~`OCF_RaceUndead_SkeletonHominid_Khajiit`~~ **UNUSED**
-
-      - ~~`OCF_RaceUndead_SkeletonHominid_Orc`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_SkeletonHorse`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_SoulCairn`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_Boneman`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_Keeper`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_Mistman`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_Wrathman`~~ **UNUSED**
-
-  - ~~`OCF_RaceUndead_Vampire`~~ **UNUSED**
-
-    - ~~`OCF_RaceUndead_VampireFalmer`~~ **UNUSED**
+- `OCF_RaceAnimal` - Mundane, common beasts.
+  - `OCF_RaceAnimal_Amphibian`
+    - `OCF_RaceAnimal_Frog`
+    - `OCF_RaceAnimal_Toad`
+  - `OCF_RaceAnimal_Bird`
+    - `OCF_RaceAnimal_Chicken`
+      - `OCF_RaceAnimal_ChickenAdult`
+        - `OCF_RaceAnimal_ChickenHen`
+        - `OCF_RaceAnimal_ChickenRooster`
+      - `OCF_RaceAnimal_ChickenChick`
+    - `OCF_RaceAnimal_Chocobo`
+    - `OCF_RaceAnimal_Crow`
+    - `OCF_RaceAnimal_Dodo`
+    - `OCF_RaceAnimal_Duck`
+      - `OCF_RaceAnimal_DuckAdult`
+      - `OCF_RaceAnimal_DuckChick`
+    - `OCF_RaceAnimal_Eagle`
+    - `OCF_RaceAnimal_Fellrunner`
+    - `OCF_RaceAnimal_FelsaadTern`
+    - `OCF_RaceAnimal_Goose`
+      - `OCF_RaceAnimal_GooseAdult`
+      - `OCF_RaceAnimal_GooseChick`
+    - `OCF_RaceAnimal_HammerfellFowl`
+    - `OCF_RaceAnimal_Hawk`
+    - `OCF_RaceAnimal_Owl`
+    - `OCF_RaceAnimal_Peacock`
+    - `OCF_RaceAnimal_Penguin`
+    - `OCF_RaceAnimal_Pheasant`
+    - `OCF_RaceAnimal_Pigeon`
+    - `OCF_RaceAnimal_Raven`
+    - `OCF_RaceAnimal_Seagull`
+    - `OCF_RaceAnimal_Swan`
+    - `OCF_RaceAnimal_Turkey`
+    - `OCF_RaceAnimal_Vulture`
+  - `OCF_RaceAnimal_Bovine`
+    - `OCF_RaceAnimal_Antelope`
+    - `OCF_RaceAnimal_Bison`
+    - `OCF_RaceAnimal_Cow`
+    - `OCF_RaceAnimal_Deer`
+    - `OCF_RaceAnimal_Elk`
+    - `OCF_RaceAnimal_Goat`
+    - `OCF_RaceAnimal_Ibex`
+    - `OCF_RaceAnimal_Moose`
+    - `OCF_RaceAnimal_Ram`
+    - `OCF_RaceAnimal_Reindeer`
+    - `OCF_RaceAnimal_Sheep`
+    - `OCF_RaceAnimal_ValeDeer`
+  - `OCF_RaceAnimal_Canine`
+    - `OCF_RaceAnimal_Dog`
+      - `OCF_RaceAnimal_DogCorgi`
+      - `OCF_RaceAnimal_DogHound`
+      - `OCF_RaceAnimal_DogHusky`
+      - `OCF_RaceAnimal_DogOther`
+    - `OCF_RaceAnimal_Fox`
+    - `OCF_RaceAnimal_Jackal`
+    - `OCF_RaceAnimal_Wolf`
+  - `OCF_RaceAnimal_Crab`
+    - `OCF_RaceAnimal_EmperorCrab`
+    - `OCF_RaceAnimal_Mudcrab`
+  - `OCF_RaceAnimal_Equine`
+    - `OCF_RaceAnimal_Donkey`
+    - `OCF_RaceAnimal_Horse`
+    - `OCF_RaceAnimal_Mule`
+    - `OCF_RaceAnimal_Unicorn`
+  - `OCF_RaceAnimal_Feline`
+    - `OCF_RaceAnimal_Cat`
+    - `OCF_RaceAnimal_Lion`
+    - `OCF_RaceAnimal_Leopard`
+    - `OCF_RaceAnimal_MountainLion`
+    - `OCF_RaceAnimal_Panther`
+    - `OCF_RaceAnimal_SabreCat`
+    - `OCF_RaceAnimal_Tiger`
+    - `OCF_RaceAnimal_ValeSabreCat`
+  - `OCF_RaceAnimal_Fish`
+    - `OCF_RaceAnimal_CommonFish`
+    - `OCF_RaceAnimal_Shark`
+    - `OCF_RaceAnimal_Slaughterfish`
+  - `OCF_RaceAnimal_Insectoid`
+    - `OCF_RaceAnimal_AshHopper`
+    - `OCF_RaceAnimal_Bee`
+    - `OCF_RaceAnimal_Beetle`
+    - `OCF_RaceAnimal_BlissBug`
+    - `OCF_RaceAnimal_Butterfly`
+    - `OCF_RaceAnimal_Centipede`
+    - `OCF_RaceAnimal_Chaurus`
+      - `OCF_RaceAnimal_ChaurusCommon`
+      - `OCF_RaceAnimal_ChaurusHunter`
+      - `OCF_RaceAnimal_ChaurusReaper`
+    - `OCF_RaceAnimal_Dragonfly`
+    - `OCF_RaceAnimal_Elytra`
+    - `OCF_RaceAnimal_GiantScorpion`
+    - `OCF_RaceAnimal_GiantWasp`
+    - `OCF_RaceAnimal_Kwama`
+      - `OCF_RaceAnimal_KwamaForager`
+      - `OCF_RaceAnimal_KwamaQueen`
+      - `OCF_RaceAnimal_KwamaScrib`
+      - `OCF_RaceAnimal_KwamaWarrior`
+      - `OCF_RaceAnimal_KwamaWorker`
+    - `OCF_RaceAnimal_Moth`
+    - `OCF_RaceAnimal_NixHound`
+    - `OCF_RaceAnimal_NixOx`
+    - `OCF_RaceAnimal_Scorpion`
+    - `OCF_RaceAnimal_Shalk`
+    - `OCF_RaceAnimal_Shellbug`
+    - `OCF_RaceAnimal_ShroomBeetle`
+    - `OCF_RaceAnimal_SiltStrider`
+    - `OCF_RaceAnimal_Spider`
+      - `OCF_RaceAnimal_SpiderAlbino`
+      - `OCF_RaceAnimal_SpiderFrostbite`
+        - ~~`OCF_RaceAnimal_SpiderWebMother`~~ **UNUSED**
+    - `OCF_RaceAnimal_Torchbug`
+  - `OCF_RaceAnimal_Pinniped`
+    - `OCF_RaceAnimal_BloodHorker`
+    - `OCF_RaceAnimal_Horker`
+    - `OCF_RaceAnimal_Seal`
+    - `OCF_RaceAnimal_SeaLion`
+  - `OCF_RaceAnimal_Reptile`
+    - `OCF_RaceAnimal_Alit`
+    - `OCF_RaceAnimal_BantamGuar`
+    - `OCF_RaceAnimal_CliffDarter`
+    - `OCF_RaceAnimal_CliffRacer`
+    - `OCF_RaceAnimal_CliffStrider`
+    - `OCF_RaceAnimal_Crocodile`
+    - `OCF_RaceAnimal_Dinosaur`
+    - `OCF_RaceAnimal_Durzog`
+    - `OCF_RaceAnimal_GiantSnake`
+    - `OCF_RaceAnimal_Guar`
+    - `OCF_RaceAnimal_Kagouti`
+    - `OCF_RaceAnimal_Snake`
+    - `OCF_RaceAnimal_Turtle`
+    - `OCF_RaceAnimal_Wormmouth`
+  - `OCF_RaceAnimal_Rodent`
+    - `OCF_RaceAnimal_Hamster`
+    - `OCF_RaceAnimal_Rabbit`
+    - `OCF_RaceAnimal_Rat`
+    - `OCF_RaceAnimal_Skeever`
+    - `OCF_RaceAnimal_Squirrel`
+  - `OCF_RaceAnimal_Swine`
+    - `OCF_RaceAnimal_Boar`
+      - `OCF_RaceAnimal_Bristleback`
+      - `OCF_RaceAnimal_Daggerback`
+      - `OCF_RaceAnimal_Warthog`
+    - `OCF_RaceAnimal_Pig`
+  - `OCF_RaceAnimal_Other`
+    - `OCF_RaceAnimal_Barnacle`
+    - `OCF_RaceAnimal_Bat`
+    - `OCF_RaceAnimal_Bear`
+    - `OCF_RaceAnimal_Beaver`
+    - `OCF_RaceAnimal_Camel`
+    - `OCF_RaceAnimal_Clam`
+    - `OCF_RaceAnimal_Echatere`
+    - `OCF_RaceAnimal_Elephant`
+    - `OCF_RaceAnimal_FlyingRay`
+    - `OCF_RaceAnimal_Hedgehog`
+    - `OCF_RaceAnimal_Hyena`
+    - `OCF_RaceAnimal_Mammoth`
+    - `OCF_RaceAnimal_Netch`
+    - `OCF_RaceAnimal_Raccoon`
+    - `OCF_RaceAnimal_Rhino`
+    - `OCF_RaceAnimal_Skunk`
+    - `OCF_RaceAnimal_Slug`
+    - `OCF_RaceAnimal_Snail`
+    - `OCF_RaceAnimal_SnowWhale`
+    - `OCF_RaceAnimal_Vvardvark`
+    - `OCF_RaceAnimal_Welwa`
+    - `OCF_RaceAnimal_Whale`
+    - `OCF_RaceAnimal_WhoolyRhino`
+- `OCF_RaceCreature` - Any type of monster, creature, or spirit that doesn't fit in the other categories.
+  - `OCF_RaceCreature_AscendedSleeper`
+  - `OCF_RaceCreature_AshGoul`
+  - `OCF_RaceCreature_AshSlave`
+  - `OCF_RaceCreature_AshZombie`
+  - `OCF_RaceCreature_Baliwog`
+  - `OCF_RaceCreature_Basilisk`
+  - `OCF_RaceCreature_Blob`
+    - `OCF_RaceCreature_BlackOoze`
+    - `OCF_RaceCreature_GelatinousCube`
+    - `OCF_RaceCreature_Voriplasm`
+  - `OCF_RaceCreature_Centaur`
+  - `OCF_RaceCreature_Cernunnos`
+  - `OCF_RaceCreature_Chimera`
+  - `OCF_RaceCreature_Cockatrice`
+  - `OCF_RaceCreature_Dragon`
+  - `OCF_RaceCreature_Dreugh`
+    - `OCF_RaceCreature_LandDreugh`
+    - `OCF_RaceCreature_SeaDreugh`
+  - `OCF_RaceCreature_Falmer`
+  - `OCF_RaceCreature_Gehenoth`
+  - `OCF_RaceCreature_Giant`
+    - `OCF_RaceCreature_CommonGiant`
+      - `OCF_RaceCreature_CommonGiantFemale`
+      - `OCF_RaceCreature_CommonGiantMale`
+      - `OCF_RaceCreature_CommonGiantYoung`
+    - `OCF_RaceCreature_Cyclops`
+    - `OCF_RaceCreature_FireGiant`
+    - `OCF_RaceCreature_FrostGiant`
+    - `OCF_RaceCreature_GlacialGiant`
+    - `OCF_RaceCreature_IceTitan`
+    - `OCF_RaceCreature_SeaGiant`
+    - `OCF_RaceCreature_StormGiant`
+  - `OCF_RaceCreature_Goblinken`
+    - `OCF_RaceCreature_Ettin`
+    - `OCF_RaceCreature_Goblin`
+    - `OCF_RaceCreature_Ogre`
+    - `OCF_RaceCreature_Riekling`
+    - `OCF_RaceCreature_RieklingMounted`
+    - `OCF_RaceCreature_Riekr`
+  - `OCF_RaceCreature_GreyChild`
+  - `OCF_RaceCreature_Grummite`
+  - `OCF_RaceCreature_Gryphon`
+  - `OCF_RaceCreature_Hag`
+  - `OCF_RaceCreature_Hagraven`
+  - `OCF_RaceCreature_Harpy`
+  - `OCF_RaceCreature_HollowjackIndrik`
+  - `OCF_RaceCreature_Hydra`
+  - `OCF_RaceCreature_Hym`
+  - `OCF_RaceCreature_Imp`
+  - `OCF_RaceCreature_Mimic`
+  - `OCF_RaceCreature_Minotaur`
+  - `OCF_RaceCreature_NatureSpirit` - [Spirits](https://en.uesp.net/wiki/Lore:Nature_Spirit) or [Fae](https://en.uesp.net/wiki/Lore:Faerie) with associations to nature or Nirn itself.
+    - `OCF_RaceCreature_AncientLeshen`
+    - `OCF_RaceCreature_Fairy`
+    - `OCF_RaceCreature_Gnome`
+    - `OCF_RaceCreature_Goron`
+    - `OCF_RaceCreature_GuardianSpirit` - [Guardian Spirits](https://en.uesp.net/wiki/Lore:Guardian_Spirit) are spectral nature spirits affiliated with Kyne.
+    - `OCF_RaceCreature_IceWraith` - [Ice Wraiths](https://en.uesp.net/wiki/Lore:Ice_Wraith) are serpentine nature spirits made of ice.
+    - `OCF_RaceCreature_Indrik` - [Indriks](https://en.uesp.net/wiki/Lore:Indrik) are deer-like nature spirits affiliated with Y'ffre or Jephre.
+    - `OCF_RaceCreature_Leshen`
+    - `OCF_RaceCreature_Neckker`
+    - `OCF_RaceCreature_Nixad` - [Nixads](https://en.uesp.net/wiki/Lore:Bestiary_N#Nixad) are inscect-like fae.
+    - `OCF_RaceCreature_Pixie` - [Pixies](https://en.uesp.net/wiki/Lore:Faerie#Pixies) are fae that appear as glimmering sparks.
+    - `OCF_RaceCreature_Spriggan` - [Spriggans](https://en.uesp.net/wiki/Lore:Spriggan) are nature spirits that typically take the form of tree-like feminine humanoids.
+      - `OCF_RaceCreature_BurntSpriggan` - A spriggan with a firey appearance and/or powers.
+      - `OCF_RaceCreature_CorruptedSpriggan` - Creatures created by corrupting a spriggan or made similar to a spriggan through dark magic, such as [Lurchers](https://en.uesp.net/wiki/Lore:Bestiary_L#Lurcher).
+      - `OCF_RaceCreature_CommonSpriggan` - A common variety of spriggan.
+      - `OCF_RaceCreature_FrostSpriggan` - A spriggan with an icey appearance and/or powers.
+      - `OCF_RaceCreature_Gnarl` - [Gnarls](https://en.uesp.net/wiki/Lore:Gnarl) are walking trees said to be created by Sheogorath.
+      - ~~`OCF_RaceCreature_SprigganEarthMother`~~ **UNUSED**
+      - `OCF_RaceCreature_ShockSpriggan` - A spriggan with an electric appearance and/or powers.
+      - ~~`OCF_RaceCreature_SprigganMatron`~~ **UNUSED**
+    - `OCF_RaceCreature_Sprite`
+    - `OCF_RaceCreature_WillOTheWisp`
+    - `OCF_RaceCreature_Wispmother`
+    - `OCF_RaceCreature_Wisp`
+  - `OCF_RaceCreature_Pollywog`
+  - `OCF_RaceCreature_Rhox`
+  - `OCF_RaceCreature_Sload`
+  - `OCF_RaceCreature_ThriKreen`
+  - `OCF_RaceCreature_Troll`
+    - `OCF_RaceCreature_CaveTroll`
+    - `OCF_RaceCreature_ForestTroll`
+    - `OCF_RaceCreature_FrostTroll`
+    - `OCF_RaceCreature_Grahl`
+    - `OCF_RaceCreature_RiverTroll`
+    - `OCF_RaceCreature_Uderfrykte`
+  - `OCF_RaceCreature_WeepingStalker`
+  - `OCF_RaceCreature_Werebeast`
+    - `OCF_RaceCreature_Draman`
+    - `OCF_RaceCreature_LesserWerewolf`
+    - `OCF_RaceCreature_Skinshifter`
+    - `OCF_RaceCreature_Werebat`
+    - `OCF_RaceCreature_Werebear`
+    - `OCF_RaceCreature_Wereboar`
+    - `OCF_RaceCreature_Werecrocodile`
+    - `OCF_RaceCreature_Werelion`
+    - `OCF_RaceCreature_Wereshark`
+    - `OCF_RaceCreature_Werewolf`
+    - `OCF_RaceCreature_WerewolfBehemoth`
+    - `OCF_RaceCreature_WerewolfLord`
+    - `OCF_RaceCreature_Werevulture`
+    - `OCF_RaceCreature_WolfSpirit`
+- `OCF_RaceConstruct` - Artificial creatures animated with magic such as [Golems](https://en.uesp.net/wiki/Lore:Golem) and [Dwemer Animunculi](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi).
+  - `OCF_RaceConstruct_AnimatedObject` - Mundane objects animated with magic.
+    - `OCF_RaceConstruct_AnimatedBroom`
+    - `OCF_RaceConstruct_AnimatedInstrument`
+  - `OCF_RaceConstruct_AncientNordicSentinel`
+  - `OCF_RaceConstruct_AyleidGuardian`
+  - `OCF_RaceConstruct_Fabricant` - [Fabricants](https://en.uesp.net/wiki/Lore:Fabricants) are biomechanical constructs created by Sotha Sil.
+    - `OCF_RaceConstruct_SlaughterfishFabricant`
+  - `OCF_RaceConstruct_DwarvenAnimunculus` - [Dwemer Animunculi](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi) are mechanical constructs created by the Dwemer out of Dwarven metal.
+    - `OCF_RaceConstruct_DwarvenBallista` - [Ballistae](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Ballistae).
+    - `OCF_RaceConstruct_DwarvenCenturion` - [Centurions](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Centurion).
+    - `OCF_RaceConstruct_DwarvenColossus` - [Colossi](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Colossus).
+    - `OCF_RaceConstruct_DwarvenDefender`
+    - `OCF_RaceConstruct_DwarvenDriller` - Drillers or [Delvers](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Delver).
+    - `OCF_RaceConstruct_DwarvenDroneFly` - [Drone Flies](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Drone_Fly).
+    - `OCF_RaceConstruct_DwarvenMagetta`
+    - `OCF_RaceConstruct_DwarvenPowerSuit`
+    - `OCF_RaceConstruct_DwarvenSentinel`
+    - `OCF_RaceConstruct_DwarvenSphere` - [Spheres](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Sphere).
+    - `OCF_RaceConstruct_DwarvenSpider` - [Spiders](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Spider).
+    - `OCF_RaceConstruct_DwarvenSpinner`
+    - `OCF_RaceConstruct_DwarvenThresher`
+    - `OCF_RaceConstruct_DwarvenVamidium` - [Vamidium](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi#Vamidium) are Dwemeri mounts often shaped like animals.
+    - `OCF_RaceConstruct_MechanicalDragon`
+  - `OCF_RaceConstruct_CoralAtronach`
+  - `OCF_RaceConstruct_DagonicFireVortex`
+  - `OCF_RaceConstruct_Elemental`
+    - `OCF_RaceConstruct_ElementalAsh`
+    - `OCF_RaceConstruct_FrostMare`
+    - `OCF_RaceConstruct_IceGolem`
+    - `OCF_RaceConstruct_StoneGolem`
+  - `OCF_RaceConstruct_FleshAtronach`
+    - `OCF_RaceConstruct_FleshAtronachColossus`
+    - `OCF_RaceConstruct_FleshAtronachHumanoid`
+  - `OCF_RaceConstruct_Gargoyle`
+  - `OCF_RaceConstruct_Homonculus`
+  - `OCF_RaceConstruct_IceCarvedSteed`
+  - `OCF_RaceConstruct_Imp`
+  - `OCF_RaceConstruct_IronGolem`
+  - `OCF_RaceConstruct_RockAtronach`
+  - `OCF_RaceConstruct_Shambles`
+- `OCF_RaceDaedra` - Humanoids, beasts, or constructs animated with a Daedric Vestige (soul).
+  - `OCF_RaceDaedra_AbhorrentBehemoth`
+  - `OCF_RaceDaedra_AnimatedArmor`
+  - `OCF_RaceDaedra_Auroran`
+  - `OCF_RaceDaedra_Banekin`
+  - `OCF_RaceDaedra_Barbas`
+  - `OCF_RaceDaedra_BipedalCharyboid`
+  - `OCF_RaceDaedra_Bloodhorn`
+  - `OCF_RaceDaedra_Bookwyrm`
+  - `OCF_RaceDaedra_Clannfear`
+    - `OCF_RaceDaedra_HighClannfear`
+    - `OCF_RaceDaedra_LesserClannfear`
+  - `OCF_RaceDaedra_CrowDaedra`
+  - `OCF_RaceDaedra_CrystalGolem`
+  - `OCF_RaceDaedra_Cthulhoid`
+  - `OCF_RaceDaedra_Czart`
+  - `OCF_RaceDaedra_Daedmite`
+  - `OCF_RaceDaedra_Daedrat`
+  - `OCF_RaceDaedra_DaedricHorse`
+  - `OCF_RaceDaedra_DaedricTitan`
+  - `OCF_RaceDaedra_Daedroth`
+    - `OCF_RaceDaedra_AnthropoidDaedroth`
+    - `OCF_RaceDaedra_DaedrothTitan`
+    - `OCF_RaceDaedra_FireTonguedDaedroth`
+    - `OCF_RaceDaedra_LesserDaedroth`
+  - `OCF_RaceDaedra_DagonicFireVortex`
+  - `OCF_RaceDaedra_DarkSeducer`
+  - `OCF_RaceDaedra_Dremora`
+  - `OCF_RaceDaedra_Dremnaken`
+  - `OCF_RaceDaedra_Elemental`
+    - `OCF_RaceDaedra_ElementalAir`
+    - `OCF_RaceDaedra_ElementalAsh`
+    - `OCF_RaceDaedra_ElementalColdflame`
+    - `OCF_RaceDaedra_ElementalEarth`
+    - `OCF_RaceDaedra_ElementalFire`
+    - `OCF_RaceDaedra_ElementalFrost`
+    - `OCF_RaceDaedra_ElementalIron`
+    - `OCF_RaceDaedra_ElementalRock`
+    - `OCF_RaceDaedra_ElementalShadow`
+    - `OCF_RaceDaedra_ElementalShock`
+  - `OCF_RaceDaedra_EyeTentacle`
+    - `OCF_RaceDaedra_Beholder`
+    - `OCF_RaceDaedra_Vigilant`
+    - `OCF_RaceDaedra_Watcher`
+  - `OCF_RaceDaedra_Fiendroth`
+  - `OCF_RaceDaedra_FleshAtronach`
+    - `OCF_RaceDaedra_FleshAtronachColossus`
+    - `OCF_RaceDaedra_FleshAtronachHumanoid`
+  - `OCF_RaceDaedra_GloamKnight`
+  - `OCF_RaceDaedra_GoldenSaint`
+  - `OCF_RaceDaedra_HarrowingReaper`
+  - `OCF_RaceDaedra_Harvester`
+  - `OCF_RaceDaedra_Havocrel`
+  - `OCF_RaceDaedra_Herne`
+  - `OCF_RaceDaedra_HoarvorDaedra`
+  - `OCF_RaceDaedra_Hunger`
+  - `OCF_RaceDaedra_Huntbeast`
+  - `OCF_RaceDaedra_Huntsman`
+  - `OCF_RaceDaedra_Imp`
+  - `OCF_RaceDaedra_Incarnate`
+  - `OCF_RaceDaedra_Infernium`
+  - `OCF_RaceDaedra_KnightOfOrder`
+  - `OCF_RaceDaedra_KnowersEye`
+  - `OCF_RaceDaedra_Lurker`
+  - `OCF_RaceDaedra_MeridianGuardian`
+  - `OCF_RaceDaedra_MindTerror`
+  - `OCF_RaceDaedra_Mirrorplasm`
+  - `OCF_RaceDaedra_MorphidDaedra`
+  - `OCF_RaceDaedra_Mizreg`
+  - `OCF_RaceDaedra_Nightmare`
+  - `OCF_RaceDaedra_Ogrim`
+  - `OCF_RaceDaedra_Omen`
+  - `OCF_RaceDaedra_PariahScamp`
+  - `OCF_RaceDaedra_Ruinach`
+  - `OCF_RaceDaedra_Scamp`
+  - `OCF_RaceDaedra_Scorion`
+  - `OCF_RaceDaedra_Seeker`
+  - `OCF_RaceDaedra_Shrike`
+  - `OCF_RaceDaedra_Skaafin`
+  - `OCF_RaceDaedra_Skein`
+  - `OCF_RaceDaedra_SkinnedHound`
+  - `OCF_RaceDaedra_Skitteris`
+  - `OCF_RaceDaedra_SpiderDaedra`
+  - `OCF_RaceDaedra_Spiderkith`
+  - `OCF_RaceDaedra_Tomeshell`
+  - `OCF_RaceDaedra_Twilight`
+    - `OCF_RaceDaedra_GrievousTwilight`
+    - `OCF_RaceDaedra_SulkingTwilight`
+    - `OCF_RaceDaedra_WingedTwilight`
+  - `OCF_RaceDaedra_Vermai`
+  - `OCF_RaceDaedra_WraithOfCrows`
+  - `OCF_RaceDaedra_Xivilai`
+  - `OCF_RaceDaedra_Xivkyn`
+- `OCF_RaceHumanoid` - Typically bipedal, intelligent humanoids with willful "black" souls.
+  - `OCF_RaceHumanoid_Argonian` - [Argonians](https://en.uesp.net/wiki/Lore:Argonian) or Saxhleel.
+  - `OCF_RaceHumanoid_Elf` - [Elves](https://en.uesp.net/wiki/Lore:Mer) or Mer (excluding Orcs).
+    - `OCF_RaceHumanoid_DarkElf` - [Dark Elves](https://en.uesp.net/wiki/Lore:Dunmer) or Dunmer.
+    - `OCF_RaceHumanoid_DeepElf` - [Deep Elves](https://en.uesp.net/wiki/Lore:Dwemer), Dwemer, or Dwarves.
+    - `OCF_RaceHumanoid_HighElf` - [High Elves](https://en.uesp.net/wiki/Lore:Altmer) or Altmer.
+    - `OCF_RaceHumanoid_SeaElf` - [Sea Elves](https://en.uesp.net/wiki/Lore:Maormer) or Maormer.
+    - `OCF_RaceHumanoid_SnowElf` - [Snow Elves](https://en.uesp.net/wiki/Lore:Snow_Elf) or Falmer (not to be confused with the degraded, goblin-like [Falmer](https://en.uesp.net/wiki/Lore:Falmer)).
+    - `OCF_RaceHumanoid_SunElf`
+    - `OCF_RaceHumanoid_WildElf` - [Wild Elves](https://en.uesp.net/wiki/Lore:Ayleid), Ayleids, or Heartland High Elves.
+    - `OCF_RaceHumanoid_WoodElf` - [Wood Elves](https://en.uesp.net/wiki/Lore:Bosmer) or Bosmer.
+  - `OCF_RaceHumanoid_Human` - [Humans](https://en.uesp.net/wiki/Lore:Man) or Man.
+    - `OCF_RaceHumanoid_Breton` - [Bretons](https://en.uesp.net/wiki/Lore:Breton) or [Reachmen](https://en.uesp.net/wiki/Lore:Reachmen).
+      - ~~`OCF_RaceHumanoid_BretonReachman`~~ **UNUSED**
+      - ~~`OCF_RaceHumanoid_BretonTrue`~~ **UNUSED**
+    - `OCF_RaceHumanoid_Imperial` - [Imperials](https://en.uesp.net/wiki/Lore:Imperial).
+    - `OCF_RaceHumanoid_Nord` - [Nords](https://en.uesp.net/wiki/Lore:Nord) or [Atmorans](https://en.uesp.net/wiki/Lore:Atmora).
+      - ~~`OCF_RaceHumanoid_NordAtmoran`~~ **UNUSED**
+      - ~~`OCF_RaceHumanoid_NordTrue`~~ **UNUSED**
+    - `OCF_RaceHumanoid_Redguard` - [Redguards](https://en.uesp.net/wiki/Lore:Redguard).
+  - `OCF_RaceHumanoid_Khajiit` - [Khajiit](https://en.uesp.net/wiki/Lore:Khajiit).
+    - ~~`OCF_RaceHumanoid_KhajiitAlfiq`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitAlfiqraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitCathay`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitCathayraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitDagi`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitDagiraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitOhmes`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitOhmesraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitPahmar`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitPahmarraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitSenche`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitSencheraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitSuthay`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitSuthayraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitTojay`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitTojayraht`~~ **UNUSED**
+    - ~~`OCF_RaceHumanoid_KhajiitMane`~~ **UNUSED**
+  - `OCF_RaceHumanoid_Orc` - [Orcs](https://en.uesp.net/wiki/Lore:Orc) or Orsimer.
+- `OCF_RaceUndead` - Reanimated corpses or souls of the dead.
+  - `OCF_RaceUndead_AshSpawn`
+  - `OCF_RaceUndead_AshVampire`
+  - `OCF_RaceUndead_AshZombie`
+  - `OCF_RaceUndead_Bogmort`
+  - `OCF_RaceUndead_BoneHawk`
+  - `OCF_RaceUndead_CorruptedShade`
+    - `OCF_RaceUndead_CorruptedShadeImperial`
+    - `OCF_RaceUndead_CorruptedShadeLesser`
+    - `OCF_RaceUndead_CorruptedShadeStormcloak`
+  - `OCF_RaceUndead_DeathHound`
+  - `OCF_RaceUndead_Dragon`
+  - `OCF_RaceUndead_DragonCultist`
+  - `OCF_RaceUndead_Draugr`
+    - `OCF_RaceUndead_DraugrCannibal`
+    - `OCF_RaceUndead_DraugrCommon`
+    - `OCF_RaceUndead_DraugrHorse`
+    - `OCF_RaceUndead_DraugrHound`
+    - `OCF_RaceUndead_DraugrMounted`
+    - `OCF_RaceUndead_DraugrSpectral`
+    - `OCF_RaceUndead_DraugrSpectralHound`
+  - `OCF_RaceUndead_FleshAtronach`
+    - `OCF_RaceUndead_FleshAtronachColossus`
+    - `OCF_RaceUndead_FleshAtronachHumanoid`
+  - `OCF_RaceUndead_Ghost`
+    - `OCF_RaceUndead_GhostDog`
+    - `OCF_RaceUndead_GhostDragon`
+    - `OCF_RaceUndead_GhostFalmer`
+    - `OCF_RaceUndead_GhostGiant`
+    - `OCF_RaceUndead_GhostHumanoid`
+      - `OCF_RaceUndead_GhostArgonian`
+      - `OCF_RaceUndead_GhostElf`
+        - `OCF_RaceUndead_GhostDarkElf`
+        - `OCF_RaceUndead_GhostDeepElf`
+        - `OCF_RaceUndead_GhostHighElf`
+        - `OCF_RaceUndead_GhostSnowElf`
+        - `OCF_RaceUndead_GhostWildElf`
+        - `OCF_RaceUndead_GhostWoodElf`
+      - `OCF_RaceUndead_GhostHuman`
+        - `OCF_RaceUndead_GhostBreton`
+        - `OCF_RaceUndead_GhostImperial`
+        - `OCF_RaceUndead_GhostNord`
+        - `OCF_RaceUndead_GhostRedguard`
+      - `OCF_RaceUndead_GhostKhajiit`
+      - `OCF_RaceUndead_GhostOrc`
+    - `OCF_RaceUndead_GhostHorse`
+    - `OCF_RaceUndead_MourningSoul`
+  - `OCF_RaceUndead_Ghoul`
+  - `OCF_RaceUndead_Gravelord`
+  - `OCF_RaceUndead_GuardianSpectre`
+  - `OCF_RaceUndead_Lich`
+    - `OCF_RaceUndead_AyleidLich`
+    - `OCF_RaceUndead_CorruptedShadeLich`
+    - `OCF_RaceUndead_DragonPriest`
+    - `OCF_RaceUndead_LesserLich`
+    - `OCF_RaceUndead_TrueLich`
+  - `OCF_RaceUndead_LordOfNecromancy`
+  - `OCF_RaceUndead_Mummy`
+  - `OCF_RaceUndead_Mutant`
+  - `OCF_RaceUndead_RottenMaiden`
+  - `OCF_RaceUndead_Skeleton`
+    - `OCF_RaceUndead_BoneColossus`
+    - `OCF_RaceUndead_BoneDragon`
+    - `OCF_RaceUndead_BoneTyrant`
+    - `OCF_RaceUndead_BoneWolf`
+    - `OCF_RaceUndead_Shambles`
+    - `OCF_RaceUndead_SkeletalSpider`
+    - `OCF_RaceUndead_SkeletonFalmer`
+    - `OCF_RaceUndead_SkeletonHumanoid`
+      - `OCF_RaceUndead_AncientSkeleton`
+      - `OCF_RaceUndead_DamagedSkeleton`
+      - `OCF_RaceUndead_SkeletonArgonian`
+      - `OCF_RaceUndead_SkeletonElf`
+        - `OCF_RaceUndead_SkeletonDarkElf`
+        - `OCF_RaceUndead_SkeletonDeepElf`
+        - `OCF_RaceUndead_SkeletonHighElf`
+        - `OCF_RaceUndead_SkeletonSnowElf`
+        - `OCF_RaceUndead_SkeletonWildElf`
+        - `OCF_RaceUndead_SkeletonWoodElf`
+      - `OCF_RaceUndead_SkeletonHuman`
+        - `OCF_RaceUndead_SkeletonBreton`
+        - `OCF_RaceUndead_SkeletonImperial`
+        - `OCF_RaceUndead_SkeletonNord`
+        - `OCF_RaceUndead_SkeletonRedguard`
+      - `OCF_RaceUndead_SkeletonKhajiit`
+      - `OCF_RaceUndead_SkeletonOrc`
+    - `OCF_RaceUndead_SkeletonHorse`
+  - `OCF_RaceUndead_SoulGuard`
+    - `OCF_RaceUndead_Boneman`
+    - `OCF_RaceUndead_Keeper`
+    - `OCF_RaceUndead_Mistman`
+    - `OCF_RaceUndead_Reaper`
+    - `OCF_RaceUndead_Wrathman`
+  - `OCF_RaceUndead_Vampire`
+    - `OCF_RaceUndead_Bloodfiend`
+    - `OCF_RaceUndead_Fleder`
+      - `OCF_RaceUndead_CommonFleder`
+      - `OCF_RaceUndead_Protofleder`
+    - `OCF_RaceUndead_Fogling`
+      - `OCF_RaceUndead_CommonFogling`
+      - `OCF_RaceUndead_GraveFogling`
+    - `OCF_RaceUndead_Garkain`
+      - `OCF_RaceUndead_AlphaGarkain`
+      - `OCF_RaceUndead_CommonGarkain`
+    - `OCF_RaceUndead_Katakan`
+      - `OCF_RaceUndead_CommonKatakan`
+      - `OCF_RaceUndead_Ekimmara`
+      - `OCF_RaceUndead_ElderKatakan`
+    - `OCF_RaceUndead_VampireFalmer`
+    - `OCF_RaceUndead_VampireHumanoid`
+      - `OCF_RaceUndead_VampireArgonian`
+      - `OCF_RaceUndead_VampireElf`
+        - `OCF_RaceUndead_VampireDarkElf`
+        - `OCF_RaceUndead_VampireDeepElf`
+        - `OCF_RaceUndead_VampireHighElf`
+        - `OCF_RaceUndead_VampireSnowElf`
+        - `OCF_RaceUndead_VampireSunElf`
+        - `OCF_RaceUndead_VampireWildElf`
+        - `OCF_RaceUndead_VampireWoodElf`
+      - `OCF_RaceUndead_VampireHuman`
+        - `OCF_RaceUndead_VampireBreton`
+        - `OCF_RaceUndead_VampireImperial`
+        - `OCF_RaceUndead_VampireNord`
+        - `OCF_RaceUndead_VampireRedguard`
+      - `OCF_RaceUndead_VampireKhajiit`
+      - `OCF_RaceUndead_VampireOrc`
+    - `OCF_RaceUndead_VampireLord`
+  - `OCF_RaceUndead_WarRevenant`
+  - `OCF_RaceUndead_Werewolf`
+  - `OCF_RaceUndead_Wight`
+    - `OCF_RaceUndead_AyleidWight`
+    - `OCF_RaceUndead_SnowElfWight`
+  - `OCF_RaceUndead_Wispmother`
+  - `OCF_RaceUndead_Wraith`
+  - `OCF_RaceUndead_Zombie`
+    - `OCF_RaceUndead_ZombieBear`
+    - `OCF_RaceUndead_ZombieDog`
+    - `OCF_RaceUndead_ZombieHumanoid`
+      - `OCF_RaceUndead_ZombieArgonian`
+      - `OCF_RaceUndead_ZombieElf`
+        - `OCF_RaceUndead_ZombieDarkElf`
+        - `OCF_RaceUndead_ZombieDeepElf`
+        - `OCF_RaceUndead_ZombieHighElf`
+        - `OCF_RaceUndead_ZombieSnowElf`
+        - `OCF_RaceUndead_ZombieWildElf`
+        - `OCF_RaceUndead_ZombieWoodElf`
+      - `OCF_RaceUndead_ZombieHuman`
+        - `OCF_RaceUndead_ZombieBreton`
+        - `OCF_RaceUndead_ZombieImperial`
+        - `OCF_RaceUndead_ZombieNord`
+        - `OCF_RaceUndead_ZombieRedguard`
+      - `OCF_RaceUndead_ZombieKhajiit`
+      - `OCF_RaceUndead_ZombieOrc`
+    - `OCF_RaceUndead_ZombieHorse`
+    - `OCF_RaceUndead_ZombieSabreCat`
+    - `OCF_RaceUndead_ZombieTroll`
+    - `OCF_RaceUndead_ZombieWolf`
+- `OCF_Placeholder_Dummy`
 
 ---
 
