@@ -1,5 +1,11 @@
 # Object Categorization Framework - Changelog
 
+## Version 5.6.1
+
+- **Author's Note:** This should fix armor keyword distribution in some edge cases.
+
+- **Keyword Categorization tweaked:** General (`WEAP`).
+
 ## Version 5.6.0
 
 - **FLM filters added:** [AW Bald & Shaved Hair for RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/101315), [Bald Head Hair Style](https://www.nexusmods.com/skyrimspecialedition/mods/4277), [jg1's Braided Wreath SMP](https://www.nexusmods.com/skyrimspecialedition/mods/71072), [jg1's Forest Cat](https://www.nexusmods.com/skyrimspecialedition/mods/72351), [jg1's Lion's Mane](https://www.nexusmods.com/skyrimspecialedition/mods/72166), [jg1's Long Hair SMP](https://www.nexusmods.com/skyrimspecialedition/mods/62574), [jg1's Thick Braid SMP](https://www.nexusmods.com/skyrimspecialedition/mods/62997), [LRS Hunter Extension for Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/24084).
