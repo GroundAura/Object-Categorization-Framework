@@ -6,7 +6,9 @@
 
 - **Keyword Categorization added:** Vanilla (`RACE`), CC Bone Wolf (`RACE`), CC Dwarven Armored Mudcrab (`RACE`), CC Fishing (`RACE`), CC Goblins (`RACE`), CC Nchuanthumz Dwarven Home (`RACE`), CC Necromantic Grimoire (`RACE`), CC Nix Hound (`RACE`), CC Pets of Skyrim (`RACE`), CC Plague of the Dead (`RACE`), CC Saints & Seducers (`RACE`), CC Shadowrend (`RACE`), CC The Cause (`RACE`), CC The Contest (`RACE`), Beyond Skyrim Assets (`RACE`), Beyond Skyrim Bruma (`RACE`), Darenii's Arclight (`RACE`), Darenii's Flames of Coldharbour (`RACE`), Darenii's Natura (`RACE`), Darenii's Vulcano (`RACE`), Immersive Magic Brooms (`RACE`), LRS Hunter Extension (`RACE`), Kittytail's Ancient Blood Magic (`RACE`), Mihail's Bantam Guars (`RACE`), Mihail's Ring-necked Pheasants (`RACE`), Missile's CC Goblins Addon (`RACE`), Natures Bounty - Pheasant Encounters (`RACE`), Nether's Follower Framework (`RACE`), Pheasants of Skyrim (`RACE`), SimonMagus' Mysticism (`RACE`), Weapons Armor Clothing & Clutter Fixes (`RACE`), general (`RACE`).
 
-- **Keyword Categorization tweaked:** Vanilla (`RACE`), CC Bone Wolf (`RACE`), general (`WEAP`).
+- **Keyword Categorization fixed:** Armors of the Velothi Pt.II (`ARMO`), Sentinel (`ARMO`), general (`ARMO`).
+
+- **Keyword Categorization tweaked:** Vanilla (`RACE`), CC Bone Wolf (`RACE`), general (`ARMO`, `RACE`, `WEAP`).
 
 ## Version 5.6.1
 
