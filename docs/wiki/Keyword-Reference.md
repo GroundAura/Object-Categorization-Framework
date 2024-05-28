@@ -4026,23 +4026,23 @@
       - ~~`OCF_RaceHumanoid_NordTrue`~~ **UNUSED**
     - `OCF_RaceHumanoid_Redguard` - [Redguards](https://en.uesp.net/wiki/Lore:Redguard).
   - `OCF_RaceHumanoid_Khajiit` - [Khajiit](https://en.uesp.net/wiki/Lore:Khajiit).
-    - ~~`OCF_RaceHumanoid_KhajiitAlfiq`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitAlfiqraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitCathay`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitCathayraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitDagi`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitDagiraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitOhmes`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitOhmesraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitPahmar`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitPahmarraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitSenche`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitSencheraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitSuthay`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitSuthayraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitTojay`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitTojayraht`~~ **UNUSED**
-    - ~~`OCF_RaceHumanoid_KhajiitMane`~~ **UNUSED**
+    - `OCF_RaceHumanoid_KhajiitAlfiq`
+    - `OCF_RaceHumanoid_KhajiitAlfiqraht`
+    - `OCF_RaceHumanoid_KhajiitCathay`
+    - `OCF_RaceHumanoid_KhajiitCathayraht`
+    - `OCF_RaceHumanoid_KhajiitDagi`
+    - `OCF_RaceHumanoid_KhajiitDagiraht`
+    - `OCF_RaceHumanoid_KhajiitOhmes`
+    - `OCF_RaceHumanoid_KhajiitOhmesraht`
+    - `OCF_RaceHumanoid_KhajiitPahmar`
+    - `OCF_RaceHumanoid_KhajiitPahmarraht`
+    - `OCF_RaceHumanoid_KhajiitSenche`
+    - `OCF_RaceHumanoid_KhajiitSencheraht`
+    - `OCF_RaceHumanoid_KhajiitSuthay`
+    - `OCF_RaceHumanoid_KhajiitSuthayraht`
+    - `OCF_RaceHumanoid_KhajiitTojay`
+    - `OCF_RaceHumanoid_KhajiitTojayraht`
+    - `OCF_RaceHumanoid_KhajiitMane`
   - `OCF_RaceHumanoid_Orc` - [Orcs](https://en.uesp.net/wiki/Lore:Orc) or Orsimer.
 - `OCF_RaceUndead` - Reanimated corpses or souls of the dead.
   - `OCF_RaceUndead_AshSpawn`
@@ -4051,9 +4051,9 @@
   - `OCF_RaceUndead_Bogmort`
   - `OCF_RaceUndead_BoneHawk`
   - `OCF_RaceUndead_CorruptedShade`
-    - `OCF_RaceUndead_CorruptedShadeImperial`
-    - `OCF_RaceUndead_CorruptedShadeLesser`
-    - `OCF_RaceUndead_CorruptedShadeStormcloak`
+    - ~~`OCF_RaceUndead_CorruptedShadeImperial`~~ **UNUSED**
+    - ~~`OCF_RaceUndead_CorruptedShadeLesser`~~ **UNUSED**
+    - ~~`OCF_RaceUndead_CorruptedShadeStormcloak`~~ **UNUSED**
   - `OCF_RaceUndead_DeathHound`
   - `OCF_RaceUndead_Dragon`
   - `OCF_RaceUndead_DragonCultist`
@@ -4070,7 +4070,7 @@
     - `OCF_RaceUndead_FleshAtronachHumanoid`
   - `OCF_RaceUndead_Ghost`
     - `OCF_RaceUndead_GhostDog`
-    - `OCF_RaceUndead_GhostDragon`
+    - ~~`OCF_RaceUndead_GhostDragon`~~ **UNUSED**
     - `OCF_RaceUndead_GhostFalmer`
     - `OCF_RaceUndead_GhostGiant`
     - `OCF_RaceUndead_GhostHumanoid`
@@ -4111,7 +4111,7 @@
     - `OCF_RaceUndead_BoneWolf`
     - `OCF_RaceUndead_Shambles`
     - `OCF_RaceUndead_SkeletalSpider`
-    - `OCF_RaceUndead_SkeletonFalmer`
+    - ~~`OCF_RaceUndead_SkeletonFalmer`~~ **UNUSED**
     - `OCF_RaceUndead_SkeletonHumanoid`
       - `OCF_RaceUndead_AncientSkeleton`
       - `OCF_RaceUndead_DamagedSkeleton`
