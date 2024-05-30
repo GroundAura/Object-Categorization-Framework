@@ -3554,51 +3554,7 @@
 
 ## NON-PLAYER CHARACTER (ACTOR) [`NPC_`]
 
-### Temperature
-
-- `OCF_ActiHeatSource`
-
-  - `OCF_ActiHeatSource_Fire`
-
-    - `OCF_ActiHeatSource_FireHuge`
-
-    - `OCF_ActiHeatSource_FireLarge`
-
-    - `OCF_ActiHeatSource_FireMedium`
-
-    - `OCF_ActiHeatSource_FireSmall`
-
-    - ~~`OCF_ActiHeatSource_FireTiny`~~ **UNUSED**
-
-  - `OCF_ActiHeatSource_Other`
-
-    - `OCF_ActiHeatSource_OtherHuge`
-
-    - `OCF_ActiHeatSource_OtherLarge`
-
-    - `OCF_ActiHeatSource_OtherMedium`
-
-    - `OCF_ActiHeatSource_OtherSmall`
-
-    - ~~`OCF_ActiHeatSource_OtherTiny`~~ **UNUSED**
-
-### Type
-
-> todo
-
----
-
-## RACE [`RACE`]
-
-### Type A
-
-> todo
-
-- `ActorTypeTroll` \[`0xF5D16~Skyrim.esm`\]
-
-- `DLC2NetchKeyword` \[`0x3A157~Dragonborn.esm`\]
-
-### Type B
+### Race
 
 - `OCF_RaceAnimal` - Mundane, common beasts.
   - `OCF_RaceAnimal_Amphibian`
@@ -4202,6 +4158,54 @@
     - `OCF_RaceUndead_ZombieTroll`
     - `OCF_RaceUndead_ZombieWolf`
 - `OCF_Placeholder_Dummy`
+
+### Temperature
+
+- `OCF_ActiHeatSource`
+
+  - `OCF_ActiHeatSource_Fire`
+
+    - `OCF_ActiHeatSource_FireHuge`
+
+    - `OCF_ActiHeatSource_FireLarge`
+
+    - `OCF_ActiHeatSource_FireMedium`
+
+    - `OCF_ActiHeatSource_FireSmall`
+
+    - ~~`OCF_ActiHeatSource_FireTiny`~~ **UNUSED**
+
+  - `OCF_ActiHeatSource_Other`
+
+    - `OCF_ActiHeatSource_OtherHuge`
+
+    - `OCF_ActiHeatSource_OtherLarge`
+
+    - `OCF_ActiHeatSource_OtherMedium`
+
+    - `OCF_ActiHeatSource_OtherSmall`
+
+    - ~~`OCF_ActiHeatSource_OtherTiny`~~ **UNUSED**
+
+### Type
+
+> todo
+
+---
+
+## RACE [`RACE`]
+
+### Type A
+
+> todo
+
+- `ActorTypeTroll` \[`0xF5D16~Skyrim.esm`\]
+
+- `DLC2NetchKeyword` \[`0x3A157~Dragonborn.esm`\]
+
+### Type B
+
+> todo
 
 ---
 

@@ -164,6 +164,7 @@
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-8)
 
 ### **NON-PLAYER CHARACTER (ACTOR) [`NPC_`]**
+- [Race](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#race)
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#temperature-3)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-9)
 
