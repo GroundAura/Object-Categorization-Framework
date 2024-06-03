@@ -3682,14 +3682,19 @@
     - `OCF_RaceAnimal_Crocodile`
     - `OCF_RaceAnimal_Dinosaur`
     - `OCF_RaceAnimal_Durzog`
+    - `OCF_RaceAnimal_FangedGouti`
     - `OCF_RaceAnimal_GiantSnake`
     - `OCF_RaceAnimal_Guar`
     - `OCF_RaceAnimal_Kagouti`
+    - `OCF_RaceAnimal_Ornaug`
+    - `OCF_RaceAnimal_Scuttler`
     - `OCF_RaceAnimal_Snake`
     - `OCF_RaceAnimal_Turtle`
     - `OCF_RaceAnimal_Wormmouth`
   - `OCF_RaceAnimal_Rodent`
+    - `OCF_RaceAnimal_GiantRat`
     - `OCF_RaceAnimal_Hamster`
+    - `OCF_RaceAnimal_Ograt`
     - `OCF_RaceAnimal_Rabbit`
     - `OCF_RaceAnimal_Rat`
     - `OCF_RaceAnimal_Skeever`
@@ -3724,110 +3729,6 @@
     - `OCF_RaceAnimal_Welwa`
     - `OCF_RaceAnimal_Whale`
     - `OCF_RaceAnimal_WhoolyRhino`
-- `OCF_RaceCreature` - Any type of monster, creature, or spirit that doesn't fit in the other categories.
-  - `OCF_RaceCreature_AscendedSleeper`
-  - `OCF_RaceCreature_AshGoul`
-  - `OCF_RaceCreature_AshSlave`
-  - `OCF_RaceCreature_AshZombie`
-  - `OCF_RaceCreature_Baliwog`
-  - `OCF_RaceCreature_Basilisk`
-  - `OCF_RaceCreature_Blob`
-    - `OCF_RaceCreature_BlackOoze`
-    - `OCF_RaceCreature_GelatinousCube`
-    - `OCF_RaceCreature_Voriplasm`
-  - `OCF_RaceCreature_Centaur`
-  - `OCF_RaceCreature_Cernunnos`
-  - `OCF_RaceCreature_Chimera`
-  - `OCF_RaceCreature_Cockatrice`
-  - `OCF_RaceCreature_Dragon`
-  - `OCF_RaceCreature_Dreugh`
-    - `OCF_RaceCreature_LandDreugh`
-    - `OCF_RaceCreature_SeaDreugh`
-  - `OCF_RaceCreature_Falmer`
-  - `OCF_RaceCreature_Gehenoth`
-  - `OCF_RaceCreature_Giant`
-    - `OCF_RaceCreature_CommonGiant`
-      - `OCF_RaceCreature_CommonGiantFemale`
-      - `OCF_RaceCreature_CommonGiantMale`
-      - `OCF_RaceCreature_CommonGiantYoung`
-    - `OCF_RaceCreature_Cyclops`
-    - `OCF_RaceCreature_FireGiant`
-    - `OCF_RaceCreature_FrostGiant`
-    - `OCF_RaceCreature_GlacialGiant`
-    - `OCF_RaceCreature_IceTitan`
-    - `OCF_RaceCreature_SeaGiant`
-    - `OCF_RaceCreature_StormGiant`
-  - `OCF_RaceCreature_Goblinken`
-    - `OCF_RaceCreature_Ettin`
-    - `OCF_RaceCreature_Goblin`
-    - `OCF_RaceCreature_Ogre`
-    - `OCF_RaceCreature_Riekling`
-    - `OCF_RaceCreature_RieklingMounted`
-    - `OCF_RaceCreature_Riekr`
-  - `OCF_RaceCreature_GreyChild`
-  - `OCF_RaceCreature_Grummite`
-  - `OCF_RaceCreature_Gryphon`
-  - `OCF_RaceCreature_Hag`
-  - `OCF_RaceCreature_Hagraven`
-  - `OCF_RaceCreature_Harpy`
-  - `OCF_RaceCreature_HollowjackIndrik`
-  - `OCF_RaceCreature_Hydra`
-  - `OCF_RaceCreature_Hym`
-  - `OCF_RaceCreature_Imp`
-  - `OCF_RaceCreature_Mimic`
-  - `OCF_RaceCreature_Minotaur`
-  - `OCF_RaceCreature_NatureSpirit` - [Spirits](https://en.uesp.net/wiki/Lore:Nature_Spirit) or [Fae](https://en.uesp.net/wiki/Lore:Faerie) with associations to nature or Nirn itself.
-    - `OCF_RaceCreature_AncientLeshen`
-    - `OCF_RaceCreature_Fairy`
-    - `OCF_RaceCreature_Gnome`
-    - `OCF_RaceCreature_Goron`
-    - `OCF_RaceCreature_GuardianSpirit` - [Guardian Spirits](https://en.uesp.net/wiki/Lore:Guardian_Spirit) are spectral nature spirits affiliated with Kyne.
-    - `OCF_RaceCreature_IceWraith` - [Ice Wraiths](https://en.uesp.net/wiki/Lore:Ice_Wraith) are serpentine nature spirits made of ice.
-    - `OCF_RaceCreature_Indrik` - [Indriks](https://en.uesp.net/wiki/Lore:Indrik) are deer-like nature spirits affiliated with Y'ffre or Jephre.
-    - `OCF_RaceCreature_Leshen`
-    - `OCF_RaceCreature_Neckker`
-    - `OCF_RaceCreature_Nixad` - [Nixads](https://en.uesp.net/wiki/Lore:Bestiary_N#Nixad) are inscect-like fae.
-    - `OCF_RaceCreature_Pixie` - [Pixies](https://en.uesp.net/wiki/Lore:Faerie#Pixies) are fae that appear as glimmering sparks.
-    - `OCF_RaceCreature_Spriggan` - [Spriggans](https://en.uesp.net/wiki/Lore:Spriggan) are nature spirits that typically take the form of tree-like feminine humanoids.
-      - `OCF_RaceCreature_BurntSpriggan` - A spriggan with a firey appearance and/or powers.
-      - `OCF_RaceCreature_CorruptedSpriggan` - Creatures created by corrupting a spriggan or made similar to a spriggan through dark magic, such as [Lurchers](https://en.uesp.net/wiki/Lore:Bestiary_L#Lurcher).
-      - `OCF_RaceCreature_CommonSpriggan` - A common variety of spriggan.
-      - `OCF_RaceCreature_FrostSpriggan` - A spriggan with an icey appearance and/or powers.
-      - `OCF_RaceCreature_Gnarl` - [Gnarls](https://en.uesp.net/wiki/Lore:Gnarl) are walking trees said to be created by Sheogorath.
-      - ~~`OCF_RaceCreature_SprigganEarthMother`~~ **UNUSED**
-      - `OCF_RaceCreature_ShockSpriggan` - A spriggan with an electric appearance and/or powers.
-      - ~~`OCF_RaceCreature_SprigganMatron`~~ **UNUSED**
-    - `OCF_RaceCreature_Sprite`
-    - `OCF_RaceCreature_WillOTheWisp`
-    - `OCF_RaceCreature_Wispmother`
-    - `OCF_RaceCreature_Wisp`
-  - `OCF_RaceCreature_Pollywog`
-  - `OCF_RaceCreature_Rhox`
-  - `OCF_RaceCreature_Sload`
-  - `OCF_RaceCreature_ThriKreen`
-  - `OCF_RaceCreature_Troll`
-    - `OCF_RaceCreature_CaveTroll`
-    - `OCF_RaceCreature_ForestTroll`
-    - `OCF_RaceCreature_FrostTroll`
-    - `OCF_RaceCreature_Grahl`
-    - `OCF_RaceCreature_RiverTroll`
-    - `OCF_RaceCreature_Uderfrykte`
-  - `OCF_RaceCreature_WeepingStalker`
-  - `OCF_RaceCreature_Werebeast`
-    - `OCF_RaceCreature_Draman`
-    - `OCF_RaceCreature_LesserWerewolf`
-    - `OCF_RaceCreature_Skinshifter`
-    - `OCF_RaceCreature_Werebat`
-    - `OCF_RaceCreature_Werebear`
-    - `OCF_RaceCreature_Wereboar`
-    - `OCF_RaceCreature_Werecrocodile`
-    - `OCF_RaceCreature_Werelion`
-    - `OCF_RaceCreature_Wereshark`
-    - `OCF_RaceCreature_Werewolf`
-    - `OCF_RaceCreature_WerewolfBehemoth`
-    - `OCF_RaceCreature_WerewolfLord`
-    - `OCF_RaceCreature_Werevulture`
-    - `OCF_RaceCreature_WolfSpirit`
 - `OCF_RaceConstruct` - Artificial creatures animated with magic such as [Golems](https://en.uesp.net/wiki/Lore:Golem) and [Dwemer Animunculi](https://en.uesp.net/wiki/Lore:Dwemer_Animunculi).
   - `OCF_RaceConstruct_AnimatedObject` - Mundane objects animated with magic.
     - `OCF_RaceConstruct_AnimatedBroom`
@@ -3868,8 +3769,115 @@
   - `OCF_RaceConstruct_IceCarvedSteed`
   - `OCF_RaceConstruct_Imp`
   - `OCF_RaceConstruct_IronGolem`
+  - `OCF_RaceConstruct_PossessedPuppet`
   - `OCF_RaceConstruct_RockAtronach`
   - `OCF_RaceConstruct_Shambles`
+- `OCF_RaceCreature` - Any type of monster, creature, or spirit that doesn't fit in the other categories.
+  - `OCF_RaceCreature_AscendedSleeper`
+  - `OCF_RaceCreature_AshGoul`
+  - `OCF_RaceCreature_AshSlave`
+  - `OCF_RaceCreature_AshZombie`
+  - `OCF_RaceCreature_Baliwog`
+  - `OCF_RaceCreature_Basilisk`
+  - `OCF_RaceCreature_Blob`
+    - `OCF_RaceCreature_BlackOoze`
+    - `OCF_RaceCreature_GelatinousCube`
+    - `OCF_RaceCreature_Voriplasm`
+  - `OCF_RaceCreature_Centaur`
+  - `OCF_RaceCreature_Cernunnos`
+  - `OCF_RaceCreature_Chimera`
+  - `OCF_RaceCreature_Cockatrice`
+  - `OCF_RaceCreature_Dragon`
+  - `OCF_RaceCreature_Dreugh`
+    - `OCF_RaceCreature_LandDreugh`
+    - `OCF_RaceCreature_SeaDreugh`
+  - `OCF_RaceCreature_Falmer`
+  - `OCF_RaceCreature_Gehenoth`
+  - `OCF_RaceCreature_Giant`
+    - `OCF_RaceCreature_CommonGiant`
+      - `OCF_RaceCreature_CommonGiantFemale`
+      - `OCF_RaceCreature_CommonGiantMale`
+      - `OCF_RaceCreature_CommonGiantYoung`
+    - `OCF_RaceCreature_Cyclops`
+    - `OCF_RaceCreature_FireGiant`
+    - `OCF_RaceCreature_FrostGiant`
+    - `OCF_RaceCreature_GlacialGiant`
+    - `OCF_RaceCreature_IceTitan`
+    - `OCF_RaceCreature_SeaGiant`
+    - `OCF_RaceCreature_StormGiant`
+  - `OCF_RaceCreature_Goblinken`
+    - `OCF_RaceCreature_Ettin`
+    - `OCF_RaceCreature_Goblin`
+    - `OCF_RaceCreature_Gremlin`
+    - `OCF_RaceCreature_Ogre`
+    - `OCF_RaceCreature_Riekling`
+    - `OCF_RaceCreature_RieklingMounted`
+    - `OCF_RaceCreature_Riekr`
+  - `OCF_RaceCreature_GreyChild`
+  - `OCF_RaceCreature_Grummite`
+  - `OCF_RaceCreature_Gryphon`
+  - `OCF_RaceCreature_Hag`
+  - `OCF_RaceCreature_Hagraven`
+  - `OCF_RaceCreature_Harpy`
+  - `OCF_RaceCreature_HollowjackIndrik`
+  - `OCF_RaceCreature_Hydra`
+  - `OCF_RaceCreature_Hym`
+  - `OCF_RaceCreature_Imp`
+  - `OCF_RaceCreature_Mimic`
+  - `OCF_RaceCreature_Minotaur`
+  - `OCF_RaceCreature_NatureSpirit` - [Spirits](https://en.uesp.net/wiki/Lore:Nature_Spirit) or [Fae](https://en.uesp.net/wiki/Lore:Faerie) with associations to nature or Nirn itself.
+    - `OCF_RaceCreature_AncientLeshen`
+    - `OCF_RaceCreature_Fairy`
+    - `OCF_RaceCreature_Gnome`
+    - `OCF_RaceCreature_Goron`
+    - `OCF_RaceCreature_GuardianSpirit` - [Guardian Spirits](https://en.uesp.net/wiki/Lore:Guardian_Spirit) are spectral nature spirits affiliated with Kyne.
+    - `OCF_RaceCreature_IceWraith` - [Ice Wraiths](https://en.uesp.net/wiki/Lore:Ice_Wraith) are serpentine nature spirits made of ice.
+    - `OCF_RaceCreature_Indrik` - [Indriks](https://en.uesp.net/wiki/Lore:Indrik) are deer-like nature spirits affiliated with Y'ffre or Jephre.
+    - `OCF_RaceCreature_Leshen`
+    - `OCF_RaceCreature_Neckker`
+    - `OCF_RaceCreature_Nixad` - [Nixads](https://en.uesp.net/wiki/Lore:Bestiary_N#Nixad) are inscect-like fae.
+    - `OCF_RaceCreature_Pixie` - [Pixies](https://en.uesp.net/wiki/Lore:Faerie#Pixies) are fae that appear as glimmering sparks.
+    - `OCF_RaceCreature_Spriggan` - [Spriggans](https://en.uesp.net/wiki/Lore:Spriggan) are nature spirits that typically take the form of tree-like feminine humanoids.
+      - `OCF_RaceCreature_BurntSpriggan` - A spriggan with a firey appearance and/or powers.
+      - `OCF_RaceCreature_CommonSpriggan` - A common variety of spriggan.
+      - `OCF_RaceCreature_CorruptedSpriggan` - Creatures created by corrupting a spriggan or made similar to a spriggan through dark magic, such as [Lurchers](https://en.uesp.net/wiki/Lore:Bestiary_L#Lurcher).
+      - `OCF_RaceCreature_Dryad`
+      - `OCF_RaceCreature_FrostSpriggan` - A spriggan with an icey appearance and/or powers.
+      - `OCF_RaceCreature_Gnarl` - [Gnarls](https://en.uesp.net/wiki/Lore:Gnarl) are walking trees said to be created by Sheogorath.
+      - ~~`OCF_RaceCreature_SprigganEarthMother`~~ **UNUSED**
+      - `OCF_RaceCreature_ShockSpriggan` - A spriggan with an electric appearance and/or powers.
+      - ~~`OCF_RaceCreature_SprigganMatron`~~ **UNUSED**
+    - `OCF_RaceCreature_Sprite`
+    - `OCF_RaceCreature_WillOTheWisp`
+    - `OCF_RaceCreature_Wispmother`
+    - `OCF_RaceCreature_Wisp`
+  - `OCF_RaceCreature_Pollywog`
+  - `OCF_RaceCreature_Rhox`
+  - `OCF_RaceCreature_Sload`
+  - `OCF_RaceCreature_ThriKreen`
+  - `OCF_RaceCreature_Troll`
+    - `OCF_RaceCreature_CaveTroll`
+    - `OCF_RaceCreature_ForestTroll`
+    - `OCF_RaceCreature_FrostTroll`
+    - `OCF_RaceCreature_Grahl`
+    - `OCF_RaceCreature_RiverTroll`
+    - `OCF_RaceCreature_Uderfrykte`
+  - `OCF_RaceCreature_WeepingStalker`
+  - `OCF_RaceCreature_Werebeast`
+    - `OCF_RaceCreature_Draman`
+    - `OCF_RaceCreature_LesserWerewolf`
+    - `OCF_RaceCreature_Skinshifter`
+    - `OCF_RaceCreature_Werebat`
+    - `OCF_RaceCreature_Werebear`
+    - `OCF_RaceCreature_Wereboar`
+    - `OCF_RaceCreature_Werecrocodile`
+    - `OCF_RaceCreature_Werelion`
+    - `OCF_RaceCreature_Wereshark`
+    - `OCF_RaceCreature_Werewolf`
+    - `OCF_RaceCreature_WerewolfBehemoth`
+    - `OCF_RaceCreature_WerewolfLord`
+    - `OCF_RaceCreature_Werevulture`
+    - `OCF_RaceCreature_WolfSpirit`
 - `OCF_RaceDaedra` - Humanoids, beasts, or constructs animated with a Daedric Vestige (soul).
   - `OCF_RaceDaedra_AbhorrentBehemoth`
   - `OCF_RaceDaedra_AnimatedArmor`
@@ -3960,6 +3968,7 @@
     - `OCF_RaceDaedra_SulkingTwilight`
     - `OCF_RaceDaedra_WingedTwilight`
   - `OCF_RaceDaedra_Vermai`
+  - `OCF_RaceDaedra_VileGuardian`
   - `OCF_RaceDaedra_WraithOfCrows`
   - `OCF_RaceDaedra_Xivilai`
   - `OCF_RaceDaedra_Xivkyn`
