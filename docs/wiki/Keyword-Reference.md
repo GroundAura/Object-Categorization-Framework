@@ -3648,6 +3648,7 @@
     - `OCF_RaceAnimal_Elytra`
     - `OCF_RaceAnimal_GiantScorpion`
     - `OCF_RaceAnimal_GiantWasp`
+    - `OCF_RaceAnimal_InsectSwarm`
     - `OCF_RaceAnimal_Kwama`
       - `OCF_RaceAnimal_KwamaForager`
       - `OCF_RaceAnimal_KwamaQueen`
@@ -3855,6 +3856,7 @@
   - `OCF_RaceConstruct_DagonicFireVortex`
   - `OCF_RaceConstruct_Elemental`
     - `OCF_RaceConstruct_ElementalAsh`
+    - `OCF_RaceConstruct_ElementalMagic`
     - `OCF_RaceConstruct_FrostMare`
     - `OCF_RaceConstruct_IceGolem`
     - `OCF_RaceConstruct_StoneGolem`
@@ -4025,6 +4027,7 @@
     - `OCF_RaceUndead_FleshAtronachColossus`
     - `OCF_RaceUndead_FleshAtronachHumanoid`
   - `OCF_RaceUndead_Ghost`
+    - `OCF_RaceUndead_GhostCow`
     - `OCF_RaceUndead_GhostDog`
     - ~~`OCF_RaceUndead_GhostDragon`~~ **UNUSED**
     - `OCF_RaceUndead_GhostFalmer`
@@ -4109,6 +4112,7 @@
       - `OCF_RaceUndead_Ekimmara`
       - `OCF_RaceUndead_ElderKatakan`
     - `OCF_RaceUndead_VampireFalmer`
+    - `OCF_RaceUndead_VampireHorker`
     - `OCF_RaceUndead_VampireHumanoid`
       - `OCF_RaceUndead_VampireArgonian`
       - `OCF_RaceUndead_VampireElf`
@@ -4132,6 +4136,7 @@
   - `OCF_RaceUndead_Wight`
     - `OCF_RaceUndead_AyleidWight`
     - `OCF_RaceUndead_SnowElfWight`
+  - `OCF_RaceUndead_Wisp`
   - `OCF_RaceUndead_Wispmother`
   - `OCF_RaceUndead_Wraith`
   - `OCF_RaceUndead_Zombie`

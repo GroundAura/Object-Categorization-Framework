@@ -2,13 +2,13 @@
 
 ## Version 6.0.0
 
-- **Keywords (`RACE`) added:** Added ~500+ keywords.
+- **Keywords (`NPC_`) added:** Added ~500+ keywords.
 
-- **Keyword Categorization added:** Vanilla (`RACE`), CC Bone Wolf (`RACE`), CC Dwarven Armored Mudcrab (`RACE`), CC Fishing (`RACE`), CC Goblins (`RACE`), CC Nchuanthumz Dwarven Home (`RACE`), CC Necromantic Grimoire (`RACE`), CC Nix Hound (`RACE`), CC Pets of Skyrim (`RACE`), CC Plague of the Dead (`RACE`), CC Saints & Seducers (`RACE`), CC Shadowrend (`RACE`), CC The Cause (`RACE`), CC The Contest (`RACE`), Beyond Skyrim Assets (`RACE`), Beyond Skyrim Bruma (`RACE`), Darenii's Arclight (`RACE`), Darenii's Flames of Coldharbour (`RACE`), Darenii's Natura (`RACE`), Darenii's Vulcano (`RACE`), Immersive Magic Brooms (`RACE`), LRS Hunter Extension (`RACE`), Kittytail's Ancient Blood Magic (`RACE`), Mihail's Bantam Guars (`RACE`), Mihail's Ring-necked Pheasants (`RACE`), Missile's CC Goblins Addon (`RACE`), Natures Bounty - Pheasant Encounters (`RACE`), Nether's Follower Framework (`RACE`), Pheasants of Skyrim (`RACE`), SimonMagus' Mysticism (`RACE`), Weapons Armor Clothing & Clutter Fixes (`RACE`), general (`RACE`).
+- **Keyword Categorization added:** Vanilla (`NPC_`), CC Bone Wolf (`NPC_`), CC Dwarven Armored Mudcrab (`NPC_`), CC Fishing (`NPC_`), CC Goblins (`NPC_`), CC Nchuanthumz Dwarven Home (`NPC_`), CC Necromantic Grimoire (`NPC_`), CC Nix Hound (`NPC_`), CC Pets of Skyrim (`NPC_`), CC Plague of the Dead (`NPC_`), CC Saints & Seducers (`NPC_`), CC Shadowrend (`NPC_`), CC The Cause (`NPC_`), CC The Contest (`NPC_`), Beyond Skyrim Assets (`NPC_`), Beyond Skyrim Bruma (`NPC_`), Darenii's Arclight (`NPC_`), Darenii's Flames of Coldharbour (`NPC_`), Darenii's Natura (`NPC_`), Darenii's Vulcano (`NPC_`), Immersive Magic Brooms (`NPC_`), LRS Hunter Extension (`NPC_`), Kittytail's Ancient Blood Magic (`NPC_`), Mihail's Bantam Guars (`NPC_`), Mihail's Ring-necked Pheasants (`NPC_`), Missile's CC Goblins Addon (`NPC_`), Natures Bounty - Pheasant Encounters (`NPC_`), Nether's Follower Framework (`NPC_`), Pheasants of Skyrim (`NPC_`), SimonMagus' Mysticism (`NPC_`), Unofficial Skyrim Special Edition Patch (`NPC_`), Weapons Armor Clothing & Clutter Fixes (`NPC_`), general (`NPC_`).
 
 - **Keyword Categorization fixed:** Armors of the Velothi Pt.II (`ARMO`), Sentinel (`ARMO`), general (`ARMO`).
 
-- **Keyword Categorization tweaked:** Vanilla (`RACE`), CC Bone Wolf (`RACE`), general (`ARMO`, `RACE`, `WEAP`).
+- **Keyword Categorization tweaked:** Vanilla (`NPC_`), general (`ARMO`, `NPC_`, `WEAP`).
 
 ## Version 5.6.1
 
