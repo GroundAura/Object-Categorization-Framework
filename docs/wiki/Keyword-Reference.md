@@ -3972,6 +3972,10 @@
   - `OCF_RaceDaedra_WraithOfCrows`
   - `OCF_RaceDaedra_Xivilai`
   - `OCF_RaceDaedra_Xivkyn`
+- `OCF_RaceGod`
+  - `OCF_RaceGod_Aedra`
+  - `OCF_RaceGod_DaedricPrince`
+  - `OCF_RaceGod_Other`
 - `OCF_RaceHumanoid` - Typically bipedal, intelligent humanoids with willful "black" souls.
   - `OCF_RaceHumanoid_Argonian` - [Argonians](https://en.uesp.net/wiki/Lore:Argonian) or Saxhleel.
   - `OCF_RaceHumanoid_Elf` - [Elves](https://en.uesp.net/wiki/Lore:Mer) or Mer (excluding Orcs).
