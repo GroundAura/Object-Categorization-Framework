@@ -4042,7 +4042,6 @@
   - `OCF_RaceUndead_Ghost`
     - `OCF_RaceUndead_GhostCow`
     - `OCF_RaceUndead_GhostDog`
-    - ~~`OCF_RaceUndead_GhostDragon`~~ **UNUSED**
     - `OCF_RaceUndead_GhostFalmer`
     - `OCF_RaceUndead_GhostGiant`
     - `OCF_RaceUndead_GhostHumanoid`
