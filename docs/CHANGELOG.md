@@ -6,7 +6,7 @@
 
 - **Keyword Categorization added:** Vanilla (`NPC_`), CC Bone Wolf (`NPC_`), CC Dwarven Armored Mudcrab (`NPC_`), CC Fishing (`NPC_`), CC Goblins (`NPC_`), CC Nchuanthumz Dwarven Home (`NPC_`), CC Necromantic Grimoire (`NPC_`), CC Nix Hound (`NPC_`), CC Pets of Skyrim (`NPC_`), CC Plague of the Dead (`NPC_`), CC Saints & Seducers (`NPC_`), CC Shadowrend (`NPC_`), CC The Cause (`NPC_`), CC The Contest (`NPC_`), Beyond Skyrim Assets (`NPC_`), Beyond Skyrim Bruma (`NPC_`), Darenii's Arclight (`NPC_`), Darenii's Flames of Coldharbour (`NPC_`), Darenii's Natura (`NPC_`), Darenii's Vulcano (`NPC_`), Hydra's Reversed Daggers (`WEAP`), Immersive Magic Brooms (`NPC_`), LRS Hunter Extension (`NPC_`), Kittytail's Ancient Blood Magic (`NPC_`), Mihail's Bantam Guars (`NPC_`), Mihail's Ring-necked Pheasants (`NPC_`), Missile's CC Goblins Addon (`NPC_`), Natures Bounty - Pheasant Encounters (`NPC_`), Nether's Follower Framework (`NPC_`), Pheasants of Skyrim (`NPC_`), SimonMagus' Mysticism (`NPC_`), Unofficial Skyrim Special Edition Patch (`NPC_`), Weapons Armor Clothing & Clutter Fixes (`NPC_`), general (`NPC_`).
 
-- **Keyword Categorization fixed:** Armors of the Velothi Pt.II (`ARMO`), Sentinel (`ARMO`), general (`ARMO`).
+- **Keyword Categorization fixed:** Armors of the Velothi Pt.II (`ARMO`), Hunterborn (`MGEF`, `SPEL`), Sentinel (`ARMO`), general (`ARMO`).
 
 - **Keyword Categorization tweaked:** Vanilla (`NPC_`), general (`ARMO`, `NPC_`, `WEAP`).
 
