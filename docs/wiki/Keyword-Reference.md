@@ -1034,6 +1034,8 @@
 
   - `OCF_Accessory`
 
+    - `OCF_AccessoryAshOfWar`
+
     - `OCF_AccessoryBag`
 
       - `OCF_AccessoryBag_Backpack`
@@ -2281,6 +2283,8 @@
 ### Type A
 
 - `OCF_MgefPowerAction`
+
+  - `OCF_MgefPowerAction_AshOfWar`
 
   - `OCF_MgefPowerAction_Bag`
 
@@ -4637,6 +4641,8 @@
 ### Type
 
 - `OCF_MgefPowerAction`
+
+  - `OCF_MgefPowerAction_AshOfWar`
 
   - `OCF_MgefPowerAction_Bag`
 
