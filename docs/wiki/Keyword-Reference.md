@@ -586,6 +586,12 @@
 
 - `WearWhenStripped` \[`0xAF0509~Update.esm`\]
 
+### Enchanted
+
+- `OCF_HasEnchantmentT` \[`0x88C~OCF.esp`\] - An enchanted item (only considers if the base form has an enchantment, not player added enchantments).
+
+- `OCF_HasEnchantmentF` \[`0x88D~OCF.esp`\] - A non-enchanted item.
+
 ### Equip Slot
 
 - `OCF_EquipSlot30` - Called 'Head' by the CK. Per vanilla standard, used as a tertiary head slot.
@@ -5483,6 +5489,12 @@
 - ~~`OCF_MatContainsGold`~~ **UNUSED**
 
 - `OCF_MatContainsSilver`
+
+### Enchanted
+
+- `OCF_HasEnchantmentT` \[`0x88C~OCF.esp`\] - An enchanted item (only considers if the base form has an enchantment, not player added enchantments).
+
+- `OCF_HasEnchantmentF` \[`0x88D~OCF.esp`\] - A non-enchanted item.
 
 ### Equip Type
 

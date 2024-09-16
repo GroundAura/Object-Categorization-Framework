@@ -2,15 +2,25 @@
 
 ## Version 6.0.0
 
+- **Author's Note:** I've added numerous race keywords to `NPC_` records to cover the majority of vanilla and modded races. This is just the first step however. The keywords are set up but very few mods are patched so far. If you know of any mods that add new creature types, let me know so I can put them on my radar and work my way through them (I'm already aware of Mihail's and gg77's mods). Identifying ghosts is also still a work in progress so they may be incorrectly given living race keywords.
+
+- **Author's Note:** Thanks to Komegaki and Mieekaserra for additions including in this update.
+
+- **Now requires** [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v7.0.0+) for Exclusive Groups feature.
+
+- **ESP (`OCF.esp`):** Added new Keywords (`OCF.esp|xxx`).
+
 - **FLM filters added:** Diverse Dragons Collection.
 
 - **FormList Categorization added:** Diverse Dragons Collection (`PROJ`).
 
 - **Keywords (`ARMO`) added:** `OCF_AccessoryAshOfWar`.
 
+- **Keywords (`ARMO`, `WEAP`) added:** `OCF_HasEnchantmentT` \[`0x88C~OCF.esp`\], `OCF_HasEnchantmentF` \[`0x88D~OCF.esp`\].
+
 - **Keywords (`MGEF`, `SPEL`) added:** `OCF_MgefPowerAction_AshOfWar`.
 
-- **Keywords (`NPC_`) added:** Added ~500+ keywords. (See Keyword Reference for full list.)
+- **Keywords (`NPC_`) added:** Added ~500+ keywords. (See [Keyword Reference](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference) for full list.)
 
 - **Keyword Categorization added:** Vanilla (`NPC_`), CC Bone Wolf (`NPC_`), CC Dwarven Armored Mudcrab (`NPC_`), CC Fishing (`NPC_`), CC Goblins (`NPC_`), CC Nchuanthumz Dwarven Home (`NPC_`), CC Necromantic Grimoire (`NPC_`), CC Nix Hound (`NPC_`), CC Pets of Skyrim (`NPC_`), CC Plague of the Dead (`NPC_`), CC Saints & Seducers (`NPC_`), CC Shadowrend (`NPC_`), CC The Cause (`NPC_`), CC The Contest (`NPC_`), [Actual Sweet Roll Variants - Requiem Patch](https://www.nexusmods.com/skyrimspecialedition/mods/113324) (`ALCH`), [Apachii Helmet Wigs](https://www.nexusmods.com/skyrimspecialedition/mods/2014) (`ARMO`), [Ashes of War Weapon Art](https://www.nexusmods.com/skyrimspecialedition/mods/100174) (`ARMO`), Beyond Skyrim Assets (`NPC_`), Beyond Skyrim Bruma (`NPC_`), Darenii's Arclight (`NPC_`), Darenii's Flames of Coldharbour (`NPC_`), Darenii's Natura (`NPC_`), Darenii's Vulcano (`NPC_`), Diverse Dragons Collection (`MGEF`, `SPEL`), [Diverse Foods - Requiem Patch](https://www.nexusmods.com/skyrimspecialedition/mods/113485) (`ALCH`), Hydra's Reversed Daggers (`WEAP`), Immersive Magic Brooms (`NPC_`), LRS Hunter Extension (`NPC_`), Kittytail's Ancient Blood Magic (`NPC_`), Mihail's Bantam Guars (`NPC_`), Mihail's Ring-necked Pheasants (`NPC_`), Missile's CC Goblins Addon (`NPC_`), Natures Bounty - Pheasant Encounters (`NPC_`), Nether's Follower Framework (`NPC_`), Pheasants of Skyrim (`NPC_`), SimonMagus' Mysticism (`NPC_`), Unofficial Skyrim Special Edition Patch (`NPC_`), [Vicn's Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) (`MGEF`, `SPEL`), Weapons Armor Clothing & Clutter Fixes (`NPC_`), general (`NPC_`).
 
