@@ -1,4 +1,4 @@
 # Encoding #
-**/fomod/*.xml text encoding=utf-16le
-**/interface/translate_*.txt text encoding=utf-16le
-**/interface/translations/*_*.txt text encoding=utf-16le
+**/fomod/*.xml text=auto
+**/interface/translate_*.txt text=auto
+**/interface/translations/*_*.txt text=auto
