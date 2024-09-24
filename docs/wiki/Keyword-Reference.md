@@ -1034,6 +1034,8 @@
 
     - `OCF_ShieldTypeKite`
 
+    - `OCF_ShieldTypeScabbard`
+
     - `OCF_ShieldTypeTower`
 
     - `OCF_ToolWalkingStick`
