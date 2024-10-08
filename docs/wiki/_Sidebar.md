@@ -89,6 +89,7 @@
 - [Contains Gems](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-gems)
 - [Contains Metals](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-metals)
 - [Don't Undress](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#dont-undress)
+- [Enchanted](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#enchanted)
 - [Equip Slot](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-slot)
 - [Equip Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-type)
 - [Inventory Color](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#inventory-color-1)
@@ -164,6 +165,7 @@
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-8)
 
 ### **NON-PLAYER CHARACTER (ACTOR) [`NPC_`]**
+- [Race](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#race)
 - [Temperature](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#temperature-3)
 - [Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#type-9)
 
@@ -202,6 +204,7 @@
 - [Artifacts](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#artifacts-7)
 - [Contains Gems](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-gems-1)
 - [Contains Metals](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#contains-metals-1)
+- [Enchanted](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#enchanted-1)
 - [Equip Type](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#equip-type-3)
 - [Gathering](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#gathering-1)
 - [Grip](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference#grip)

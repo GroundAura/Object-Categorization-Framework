@@ -1,0 +1,4 @@
+# Encoding #
+**/fomod/*.xml text=auto
+**/interface/translate_*.txt text=auto
+**/interface/translations/*_*.txt text=auto
