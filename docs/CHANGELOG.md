@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 6.0.1
+
+- **FOMOD:** Fixed text encoding that caused fomod to not be read correctly for some people.
+
 ## Version 6.0.0
 
 - **Author's Note:** I've added numerous race keywords to `NPC_` records to cover the majority of vanilla and modded races. This is just the first step however. The keywords are set up but very few mods are patched so far. If you know of any mods that add new creature types, let me know so I can put them on my radar and work my way through them (I'm already aware of Mihail's and gg77's mods). Identifying ghosts is also still a work in progress so they may be incorrectly given living race keywords.
