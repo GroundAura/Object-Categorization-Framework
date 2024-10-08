@@ -14,13 +14,11 @@
 
 - **FormList Categorization added:** Diverse Dragons Collection (`PROJ`).
 
-- **Keywords (`ARMO`) added:** `OCF_AccessoryAshOfWar`.
+- **Keywords (`ARMO`) added:** `OCF_AccessoryAshOfWar`, `OCF_ShieldTypeScabbard`.
 
 - **Keywords (`ARMO`, `WEAP`) added:** `OCF_HasEnchantmentT` \[`0x88C~OCF.esp`\], `OCF_HasEnchantmentF` \[`0x88D~OCF.esp`\].
 
 - **Keywords (`MGEF`, `SPEL`) added:** `OCF_MgefPowerAction_AshOfWar`.
-
-- **Keywords (`WEAP`) added:** `OCF_ShieldTypeScabbard`.
 
 - **Keywords (`NPC_`) added:** Added ~500+ keywords. (See [Keyword Reference](https://github.com/GroundAura/Object-Categorization-Framework/wiki/Keyword-Reference) for full list.)
 
