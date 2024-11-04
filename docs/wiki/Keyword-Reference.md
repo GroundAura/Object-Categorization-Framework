@@ -5764,6 +5764,10 @@
 
   - `OCF_WeapUnarmed` \[`0x82D~OCF.esp`\]
 
+    - `OCF_WeapUnarmed_Basic`
+
+    - `OCF_WeapUnarmed_Claws`
+
   - `OCF_WeapBladed2H` \[`0x881~OCF.esp`\]
 
     - `OCF_WeapTypeGreatsword2H` \[`0x867~OCF.esp`\]

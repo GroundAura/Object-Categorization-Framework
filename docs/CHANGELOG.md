@@ -1,5 +1,17 @@
 # Object Categorization Framework - Changelog
 
+## Version 6.1.0
+
+- **FOMOD:** Fix line-ending encoding issue that caused installation issues for some people using Nexus Mod Manager. Had troubles uploading the proper file to Nexus, but this includes the fix for sure.
+
+- **Keywords (`WEAP`) added:** `OCF_WeapUnarmed_Basic`, `OCF_WeapUnarmed_Claws`.
+
+- **Keyword Categorization added:** Feral (`WEAP`)
+
+- **Keyword Categorization fixed:** Feral (`ARMO`), general (`ARMO`).
+
+- **Keyword Categorization tweaked:** General (`ARMO`, `WEAP`).
+
 ## Version 6.0.1
 
 - **FOMOD:** Fix line-ending encoding issue that caused installation issues for some people.
