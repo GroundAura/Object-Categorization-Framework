@@ -38,15 +38,15 @@
 
 ### Type
 
-- `OCF_ActiAllMakerStone` – An All-Maker stone.
+- `OCF_ActiAllMakerStone` \[`0x890~OCF.esp`\] – An All-Maker stone.
 
-- `OCF_ActiAshPile` – A pile of remains like ash or goo.
+- `OCF_ActiAshPile` \[`0x891~OCF.esp`\] – A pile of remains like ash or goo.
 
-- `OCF_ActiBird` – A bird like a Hawk or Felstaad Tern.
+- `OCF_ActiBird` \[`0x892~OCF.esp`\] – A bird like a Hawk or Felstaad Tern.
 
-- `OCF_ActiBlackBook` – A Black Book. Specifically only the ones that send you from Apocrypha back to Nirn.
+- `OCF_ActiBlackBook` \[`0x893~OCF.esp`\] – A Black Book. Specifically only the ones that send you from Apocrypha back to Nirn.
 
-- `OCF_ActiCritter` – A critter like a bug or fish.
+- `OCF_ActiCritter` \[`0x894~OCF.esp`\] – A critter like a bug or fish.
 
   - `OCF_ActiCritter_Bug` – A bug like a bee or butterfly.
 
@@ -66,7 +66,7 @@
 
     - `OCF_ActiCritter_FishIngr` – A fish that gives you an ingredient, like a River Betty.
 
-- `OCF_ActiDisplay` – A decorative activator used to display items.
+- `OCF_ActiDisplay` \[`0x895~OCF.esp`\] – A decorative activator used to display items.
 
   - `OCF_ActiDisplay_Bookshelf` – A bookshelf.
 
@@ -78,29 +78,29 @@
 
   - `OCF_ActiDisplay_Rack` – A weapon or shield rack.
 
-- `OCF_ActiDoomstone` – A standing stone.
+- `OCF_ActiDoomstone` \[`0x896~OCF.esp`\] – A standing stone.
 
 - ~~`OCF_ActiItem` – An activator that gives you an item upon activating.~~ **UNUSED**
 
 - `OCF_ActiLava` – Lava.
 
-- `OCF_ActiMapMarker` – An activator that adds a map marker to your map upon activating.
+- `OCF_ActiMapMarker` \[`0x897~OCF.esp`\] – An activator that adds a map marker to your map upon activating.
 
 - ~~`OCF_ActiShelter`~~ **UNUSED**
 
   - ~~`OCF_ActiShelter_Tent`~~ **UNUSED**
 
-- `OCF_ActiShrine` – A shrine to a deity or other figure.
+- `OCF_ActiShrine` \[`0x898~OCF.esp`\] – A shrine to a deity or other figure.
 
 - ~~`OCF_ActiSpider`~~ **UNUSED**
 
-- `OCF_ActiSoil` – Soil used for planting.
+- `OCF_ActiSoil` \[`0x899~OCF.esp`\] – Soil used for planting.
 
-- `OCF_ActiTorchSconce` – A sconce for holding a torch.
+- `OCF_ActiTorchSconce` \[`0x89A~OCF.esp`\] – A sconce for holding a torch.
 
-- `OCF_ActiThrallCattle` – A vampire's thrall used as cattle.
+- `OCF_ActiThrallCattle` \[`0x89B~OCF.esp`\] – A vampire's thrall used as cattle.
 
-- `OCF_ActiTrigger` – An activator that triggers something upon activating.
+- `OCF_ActiTrigger` \[`0x89C~OCF.esp`\] – An activator that triggers something upon activating.
 
   - `OCF_ActiTrigger_Button` – A pressable button.
 
@@ -126,7 +126,7 @@
 
   - `OCF_ActiTrigger_Valve` – A turnable Dwemer valve.
 
-- `OCF_ActiVein` – A minable deposit of resources.
+- `OCF_ActiVein` \[`0x89D~OCF.esp`\] – A minable deposit of resources.
 
   - `OCF_ActiVein_Chitin` – A minable deposit of chitin, such as a Shellbug.
 
@@ -136,9 +136,9 @@
 
 - ~~`OCF_ActiWater` – Water.~~ **UNUSED**
 
-- `OCF_FlorCoinpile` – A harvestable pile of coins.
+- `OCF_FlorCoinpile` \[`0x89E~OCF.esp`\] – A harvestable pile of coins.
 
-- `OCF_FlorOther` – A miscellaneous harvestable.
+- `OCF_FlorOther` \[`0x89F~OCF.esp`\] – A miscellaneous harvestable.
 
   - ~~`OCF_FlorOther_Food` – A miscellaneous harvestable that gives you food.~~ **UNUSED**
 
@@ -146,7 +146,7 @@
 
   - `OCF_FlorOther_Other` – A miscellaneous harvestable that gives you some other item.
 
-- `OCF_FlorPlant` – A harvestable plant.
+- `OCF_FlorPlant` \[`0x8A0~OCF.esp`\] – A harvestable plant.
 
   - ~~`OCF_FlorPlant_Food` – A harvestable plant that gives you food.~~ **UNUSED**
 
@@ -1302,9 +1302,9 @@
 
 ### Type
 
-- `OCF_FlorBirdNest`
+- `OCF_FlorBirdNest` \[`0x8A1~OCF.esp`\]
 
-- `OCF_FlorCarcass`
+- `OCF_FlorCarcass` \[`0x8A2~OCF.esp`\]
 
   - `OCF_FlorCarcass_Animal`
 
@@ -1314,9 +1314,9 @@
 
   - `OCF_FlorCarcass_Hominid`
 
-- `OCF_FlorCoinpurse`
+- `OCF_FlorCoinpurse` \[`0x8A3~OCF.esp`\]
 
-- `OCF_FlorContainer`
+- `OCF_FlorContainer` \[`0x8A4~OCF.esp`\]
 
   - `OCF_FlorContainer_Food`
 
@@ -1324,9 +1324,9 @@
 
   - `OCF_FlorContainer_Other`
 
-- `OCF_FlorEggSac`
+- `OCF_FlorEggSac` \[`0x8A5~OCF.esp`\]
 
-- `OCF_FlorOther`
+- `OCF_FlorOther` \[`0x89F~OCF.esp`\]
 
   - `OCF_FlorOther_Food`
 
@@ -1334,9 +1334,9 @@
 
   - `OCF_FlorOther_Other`
 
-- `OCF_FlorOyster`
+- `OCF_FlorOyster` \[`0x8A6~OCF.esp`\]
 
-- `OCF_FlorPlant`
+- `OCF_FlorPlant` \[`0x8A0~OCF.esp`\]
 
   - `OCF_FlorPlant_Food`
 
@@ -1348,7 +1348,7 @@
 
   - `OCF_FlorPlant_SoulHusk`
 
-- `OCF_FlorWater`
+- `OCF_FlorWater` \[`0x8A7~OCF.esp`\]
 
 ---
 
