@@ -16,7 +16,7 @@
 
 - **Keyword Categorization added:** Feral (`WEAP`)
 
-- **Keyword Categorization fixed:** Feral (`ARMO`), general (`ARMO`).
+- **Keyword Categorization fixed:** Feral (`ARMO`), Skyrim Food Expansion (`ALCH`), general (`ARMO`).
 
 - **Keyword Categorization tweaked:** General (`ARMO`, `WEAP`).
 
