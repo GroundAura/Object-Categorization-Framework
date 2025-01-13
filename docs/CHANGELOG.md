@@ -4,7 +4,11 @@
 
 - **Author's Note:** Added static FormIDs for some activators and flora so they can hopefully be used for more things like Better Third Person Selection filters.
 
+- **Now requires** [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v7.2.0.RC6+) to fix performance issue with Exclusive Groups feature.
+
 - **FOMOD:** Fix line-ending encoding issue that caused installation issues for some people using Nexus Mod Manager. Had troubles uploading the proper file to Nexus, but this includes the fix for sure.
+
+- **FOMOD:** Added install option for old SPID file as a backup option for users who have issues with load time to main menu, but are unable to use SPID v7.2+.
 
 - **ESP (`OCF.esp`):** Added new Keywords (`OCF.esp|xxx`).
 
