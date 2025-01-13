@@ -1,1 +1,1 @@
-robocopy "dist\Object Categorization Framework\Base" "E:\Skyrim\MO2\mods\Object Categorization Framework (pre-release) []" /e /xf meta.ini
+robocopy "dist\Object Categorization Framework\Base" "%SKYRIM_MODS_FOLDER%\Object Categorization Framework (pre-release) []" /e /xf meta.ini

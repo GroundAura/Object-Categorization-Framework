@@ -1,2 +1,2 @@
-"E:\Skyrim\Tools\md2nexus\md2nexus" -i "docs\description-md" -o "docs\description-nexus"
+"%CLI_PATH_MD2NEXUS%" -i "docs\description-md" -o "docs\description-nexus"
 robocopy "docs\description-md" "docs\description-nexus" *.txt /it
