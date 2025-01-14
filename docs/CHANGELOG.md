@@ -18,11 +18,11 @@
 
 - **Keywords (`FLOR`) changed:** `OCF_FlorBirdNest` to `OCF_FlorBirdNest` \[`0x8A1~OCF.esp`\], `OCF_FlorCarcass` to `OCF_FlorCarcass` \[`0x8A2~OCF.esp`\], `OCF_FlorEggSac` to `OCF_FlorEggSac` \[`0x8A5~OCF.esp`\], `OCF_FlorOther` to `OCF_FlorOther` \[`0x89F~OCF.esp`\], `OCF_FlorOyster` to `OCF_FlorOyster` \[`0x8A6~OCF.esp`\], `OCF_FlorPlant` to `OCF_FlorPlant` \[`0x8A0~OCF.esp`\], `OCF_FlorWater` to `OCF_FlorWater` \[`0x8A7~OCF.esp`\].
 
-- **Keyword Categorization added:** Feral (`WEAP`)
+- **Keyword Categorization added:** [Feral](https://www.nexusmods.com/skyrimspecialedition/mods/34552) (`WEAP`), [Gourmet EAS - Sweets & Such Patch](https://www.nexusmods.com/skyrimspecialedition/mods/108469) (`BOOK`), [Sweets & Such - Eating Animations & Sounds Patch](https://www.nexusmods.com/skyrimspecialedition/mods/95746) (`ALCH`).
 
-- **Keyword Categorization fixed:** Feral (`ARMO`), Skyrim Food Expansion (`ALCH`), general (`ARMO`).
+- **Keyword Categorization fixed:** [Feral]((https://www.nexusmods.com/skyrimspecialedition/mods/34552)) (`ARMO`), [Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935) (`ALCH`), [Sweets & Such](https://www.nexusmods.com/skyrimspecialedition/mods/80781) (`ALCH`), general (`ARMO`).
 
-- **Keyword Categorization tweaked:** General (`ARMO`, `WEAP`).
+- **Keyword Categorization tweaked:** [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) (`BOOK`), general (`ARMO`, `WEAP`).
 
 ## Version 6.0.2
 
