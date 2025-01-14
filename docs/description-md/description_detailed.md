@@ -26,7 +26,7 @@ Install this mod normally, with MO2, Vortex, or another mod manager that support
 
 - [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728) (v3.4.0+).
 - [FormList Manipulator (FLM)](https://www.nexusmods.com/skyrimspecialedition/mods/74037) (v1.7.0+).
-- [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v7.0.0+).
+- [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v7.2.0.RC6+).
 
 ## \[font=Verdana\]**Optional Requirements:**\[/font\]
 

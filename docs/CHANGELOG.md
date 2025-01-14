@@ -1,5 +1,33 @@
 # Object Categorization Framework - Changelog
 
+## Version 6.1.0
+
+- **Author's Note:** Added static FormIDs for some activators and flora so they can hopefully be used for more things like Better Third Person Selection filters.
+
+- **Now requires** [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) (v7.2.0.RC6+) to fix performance issue with Exclusive Groups feature.
+
+- **FOMOD:** Fix line-ending encoding issue that caused installation issues for some people using Nexus Mod Manager. Had troubles uploading the proper file to Nexus, but this includes the fix for sure.
+
+- **FOMOD:** Added install option for old SPID file as a backup option for users who have issues with load time to main menu, but are unable to use SPID v7.2+.
+
+- **ESP (`OCF.esp`):** Added new Keywords (`OCF.esp|xxx`).
+
+- **Keywords (`WEAP`) added:** `OCF_WeapUnarmed_Basic` \[`0x88E~OCF.esp`\], `OCF_WeapUnarmed_Claws` \[`0x88F~OCF.esp`\].
+
+- **Keywords (`ACTI`) changed:** `OCF_ActiAllMakerStone` to `OCF_ActiAllMakerStone` \[`0x890~OCF.esp`\], `OCF_ActiAshPile` to `OCF_ActiAshPile` \[`0x891~OCF.esp`\], `OCF_ActiBird` to `OCF_ActiBird` \[`0x892~OCF.esp`\], `OCF_ActiBlackBook` to `OCF_ActiBlackBook` \[`0x893~OCF.esp`\], `OCF_ActiCritter` to `OCF_ActiCritter` \[`0x894~OCF.esp`\], `OCF_ActiDisplay` to `OCF_ActiDisplay` \[`0x895~OCF.esp`\], `OCF_ActiDoomstone` to `OCF_ActiDoomstone` \[`0x896~OCF.esp`\], `OCF_ActiMapMarker` to `OCF_ActiMapMarker` \[`0x897~OCF.esp`\], `OCF_ActiShrine` to `OCF_ActiShrine` \[`0x898~OCF.esp`\], `OCF_ActiSoil` to `OCF_ActiSoil` \[`0x899~OCF.esp`\], `OCF_ActiTorchSconce` to `OCF_ActiTorchSconce` \[`0x89A~OCF.esp`\], `OCF_ActiThrallCattle` to `OCF_ActiThrallCattle` \[`0x89B~OCF.esp`\], `OCF_ActiTrigger` to `OCF_ActiTrigger` \[`0x89C~OCF.esp`\], `OCF_ActiVein` to `OCF_ActiVein` \[`0x89D~OCF.esp`\], `OCF_FlorCoinpile` to `OCF_FlorCoinpile` \[`0x89E~OCF.esp`\], `OCF_FlorOther` to `OCF_FlorOther` \[`0x89F~OCF.esp`\], `OCF_FlorPlant` to `OCF_FlorPlant` \[`0x8A0~OCF.esp`\].
+
+- **Keywords (`FLOR`) changed:** `OCF_FlorBirdNest` to `OCF_FlorBirdNest` \[`0x8A1~OCF.esp`\], `OCF_FlorCarcass` to `OCF_FlorCarcass` \[`0x8A2~OCF.esp`\], `OCF_FlorEggSac` to `OCF_FlorEggSac` \[`0x8A5~OCF.esp`\], `OCF_FlorOther` to `OCF_FlorOther` \[`0x89F~OCF.esp`\], `OCF_FlorOyster` to `OCF_FlorOyster` \[`0x8A6~OCF.esp`\], `OCF_FlorPlant` to `OCF_FlorPlant` \[`0x8A0~OCF.esp`\], `OCF_FlorWater` to `OCF_FlorWater` \[`0x8A7~OCF.esp`\].
+
+- **Keyword Categorization added:** [Feral](https://www.nexusmods.com/skyrimspecialedition/mods/34552) (`WEAP`), [Gourmet EAS - Sweets & Such Patch](https://www.nexusmods.com/skyrimspecialedition/mods/108469) (`BOOK`), [Sweets & Such - Eating Animations & Sounds Patch](https://www.nexusmods.com/skyrimspecialedition/mods/95746) (`ALCH`).
+
+- **Keyword Categorization fixed:** [Feral]((https://www.nexusmods.com/skyrimspecialedition/mods/34552)) (`ARMO`), [Skyrim Food Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/110935) (`ALCH`), [Sweets & Such](https://www.nexusmods.com/skyrimspecialedition/mods/80781) (`ALCH`), general (`ARMO`).
+
+- **Keyword Categorization tweaked:** [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) (`BOOK`), general (`ARMO`, `WEAP`).
+
+## Version 6.0.2
+
+- **Author's Note:** Another attempt to get Nexus to upload the proper file with the FOMOD fix for Nexus Mod Manager users (failed).
+
 ## Version 6.0.1
 
 - **FOMOD:** Fix line-ending encoding issue that caused installation issues for some people.
