@@ -1,5 +1,9 @@
 # Object Categorization Framework - Changelog
 
+## Version 6.2.0
+
+- **ESP (`OCF.esp`):** Possible fix for xEdit cleaning issue.
+
 ## Version 6.1.0
 
 - **Author's Note:** Added static FormIDs for some activators and flora so they can hopefully be used for more things like Better Third Person Selection filters.
