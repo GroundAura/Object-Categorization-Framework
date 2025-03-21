@@ -1,0 +1,1 @@
+"%CLI_PATH_SPRIGGIT%" convert-from-plugin -i "%SKYRIM_MODS_FOLDER%\Object Categorization Framework (pre-release) []\OCF.esp" -o "%cd%\src\ESP\OCF.esp" -g SkyrimSE -p Spriggit.Yaml

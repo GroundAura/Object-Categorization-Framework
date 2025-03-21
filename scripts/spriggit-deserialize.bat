@@ -1,0 +1,1 @@
+"%CLI_PATH_SPRIGGIT%" convert-to-plugin -i "%cd%\src\ESP\OCF.esp" -o "%SKYRIM_MODS_FOLDER%\Object Categorization Framework (pre-release) []\OCF.esp"

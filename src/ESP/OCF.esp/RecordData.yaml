@@ -1,0 +1,17 @@
+SpriggitSource:
+  PackageName: 0.36.14
+  Version: ''
+ModKey: OCF.esp
+GameRelease: SkyrimSE
+ModHeader:
+  Flags:
+  - Master
+  - Small
+  Stats:
+    Version: 1.7
+  Author: GroundAura
+  MasterReferences:
+  - Master: Skyrim.esm
+    FileSize: 0
+  - Master: Update.esm
+    FileSize: 0
