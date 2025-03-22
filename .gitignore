@@ -9,20 +9,8 @@
 *.wim
 *.xz
 *.zip
-#.build/
-.build/**/*.pex
-.build/(old)/
-.build/old/
-.build/papyrus/
-.build/release/
-#build/
-build/**/*.pex
-build/(old)/
-build/old/
-build/papyrus/
-build/release/
-#dist/**/scripts/*.pex
-#dist/
+build/
+dist/
 
 # Custom #
 *_KW-Patch_*
