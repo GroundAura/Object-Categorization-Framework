@@ -1,1 +1,4 @@
-"%CLI_PATH_SPRIGGIT%" convert-from-plugin -i "%SKYRIM_MODS_FOLDER%\Object Categorization Framework (pre-release) []\OCF.esp" -o "%cd%\src\ESP\OCF.esp" -g SkyrimSE -p Spriggit.Yaml
+set VAR_PROJ_NAME=Object Categorization Framework
+set VAR_ESP_NAME=OCF.esp
+
+"%CLI_PATH_SPRIGGIT%" serialize -i "%SKYRIM_MODS_FOLDER%\%VAR_PROJ_NAME% (pre-release) []\%VAR_ESP_NAME%" -o "res\esp\Base\%VAR_ESP_NAME%" -g SkyrimSE -p Spriggit.Yaml

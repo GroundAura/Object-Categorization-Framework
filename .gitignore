@@ -22,6 +22,7 @@ build/old/
 build/papyrus/
 build/release/
 #dist/**/scripts/*.pex
+#dist/
 
 # Custom #
 *_KW-Patch_*

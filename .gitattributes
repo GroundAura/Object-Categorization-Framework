@@ -1,4 +1,1 @@
-# Encoding #
-**/fomod/*.xml text=auto
-**/interface/translate_*.txt text=auto
-**/interface/translations/*_*.txt text=auto
+**/fomod/*.xml text working-tree-encoding=UTF-16LE eol=LF
