@@ -2468,13 +2468,13 @@
 
   - `OCF_MgefSpellDamage_FireCloakDunmer`
 
-- `OCF_MgefSpellDamage_FireShock`
+- ~~`OCF_MgefSpellDamage_FireShock`~~ **UNUSED**
 
-- `OCF_MgefSpellDamage_FireShockCloak`
+- ~~`OCF_MgefSpellDamage_FireShockCloak`~~ **UNUSED**
 
-- `OCF_MgefSpellDamage_FireShockFrost`
+- ~~`OCF_MgefSpellDamage_FireShockFrost`~~ **UNUSED**
 
-- `OCF_MgefSpellDamage_FireShockFrostCloak`
+- ~~`OCF_MgefSpellDamage_FireShockFrostCloak`~~ **UNUSED**
 
 - `OCF_MgefSpellDamage_Force`
 

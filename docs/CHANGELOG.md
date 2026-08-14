@@ -2,7 +2,9 @@
 
 ## Version 6.2.0
 
-- **ESP (`OCF.esp`):** Possible fix for xEdit cleaning issue.
+- **ESP (`OCF.esp`):** Fix for broken form that could cause xEdit errors.
+
+- **FormList Categorization fixed:** (`EXPL`, `LIGH`, `PROJ`).
 
 ## Version 6.1.0
 
