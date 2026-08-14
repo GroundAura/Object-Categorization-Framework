@@ -4,7 +4,7 @@
 
 - **ESP (`OCF.esp`):** Fix for broken form that could cause xEdit errors.
 
-- **FormList Categorization fixed:** (`EXPL`, `LIGH`, `PROJ`).
+- **FormList Categorization fixed:** (`EXPL`, `LIGH`, `PROJ`, `TREE`).
 
 ## Version 6.1.0
 
